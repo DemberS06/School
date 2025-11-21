@@ -403,7 +403,7 @@ public class Tarea15 extends JFrame {
         SwingUtilities.invokeLater(() -> {
             Tarea15 gui = new Tarea15();
             // (Opcional) Pre-cargar una ruta por defecto:
-            gui.txtRuta.setText("C:\\Users\\Dembe\\Proyects\\School\\Java\\15\\archModificado.txt");
+            gui.txtRuta.setText("C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\15\\archModificado.txt");
             // O si estás en un entorno tipo Linux/Colab, podrías usar:
             // gui.txtRuta.setText("/mnt/data/archModificado.txt");
             gui.setVisible(true);
