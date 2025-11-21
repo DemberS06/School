@@ -32,7 +32,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 public class ProyectoParcial2 extends JFrame {
     private static final String FILE_PATH =
-            "C:\\Users\\Dembe\\Proyects\\School\\Java\\Proyecto Parcial 2\\archModificado.txt";
+            "C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\Proyecto Parcial 2\\archModificado.txt";
 
     private final Map<Integer, Person> datos = new TreeMap<>();
 

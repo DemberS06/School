@@ -69,7 +69,7 @@ public class ProyectoParcial3 extends JFrame {
     private final JTextField txtEdad = new JTextField(4);
     private final JComboBox<String> cbSexo = new JComboBox<>(new String[]{"H","M"});
     private final JTextField txtEstado = new JTextField(12);
-    private final JTextField txtRuta = new JTextField("C:\\Users\\Dembe\\Proyects\\School\\Java\\Proyecto Parcial 3\\milArchivo.txt", 44);
+    private final JTextField txtRuta = new JTextField("C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\Proyecto Parcial 3\\milArchivo.txt", 44);
 
     private final ButtonGroup estadosGroup = new ButtonGroup();
     private final ButtonGroup sexoGroup = new ButtonGroup();
