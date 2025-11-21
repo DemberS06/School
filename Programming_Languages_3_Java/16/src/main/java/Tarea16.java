@@ -21,7 +21,7 @@ import javax.swing.WindowConstants;
 
 public class Tarea16 extends JPanel {
 
-    private static final Path BASE_DIR = Paths.get("C:\\Users\\Dembe\\Proyects\\School\\Java\\16");
+    private static final Path BASE_DIR = Paths.get("C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\16");
 
     private static final Path PATH_TRABAJO = BASE_DIR.resolve("trabajo.txt");
     private static final Path PATH_CASA    = BASE_DIR.resolve("casa.txt");
