@@ -1,5 +1,4 @@
 import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.GridBagConstraints;
@@ -21,15 +20,14 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.Types;
 import java.util.ArrayList;
-import java.util.Enumeration;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-import javax.swing.AbstractButton;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
@@ -69,13 +67,18 @@ public class ProyectoParcial3 extends JFrame {
     private final JTextField txtEdad = new JTextField(4);
     private final JComboBox<String> cbSexo = new JComboBox<>(new String[]{"H","M"});
     private final JTextField txtEstado = new JTextField(12);
-    private final JTextField txtRuta = new JTextField("C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\Proyecto Parcial 3\\milArchivo.txt", 44);
+    private final JTextField txtRuta = new JTextField(
+            "C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\Proyecto Parcial 3\\milArchivo.txt",
+            44
+    );
 
-    private final ButtonGroup estadosGroup = new ButtonGroup();
+    // Sexo sigue siendo radios
     private final ButtonGroup sexoGroup = new ButtonGroup();
     private final JPanel estadosPanel = new JPanel(new GridLayout(0, 1, 6, 6));
     private final JPanel sexoPanel = new JPanel(new GridLayout(1, 0, 12, 12));
-    private final Map<String, JRadioButton> estadoButtons = new LinkedHashMap<>();
+
+    // Estados ahora son CHECKBOXES (multi selección)
+    private final Map<String, JCheckBox> estadoButtons = new LinkedHashMap<>();
     private final Map<String, JRadioButton> sexoButtons = new LinkedHashMap<>();
 
     private ChartPanel chartPanel;
@@ -178,8 +181,8 @@ public class ProyectoParcial3 extends JFrame {
         // ===== EAST: gráfica =====
         DefaultCategoryDataset ds = buildDataset(null, null);
         JFreeChart chart = ChartFactory.createBarChart(
-                "Distribución de edades - Todos los estados / Todos los géneros",
-                "Rango de edad", "Frecuencia", ds
+                "Personas por estado - Todos los estados / Todos los géneros",
+                "Estado", "Número de personas", ds
         );
         tuneChart(chart);
         chartPanel = new ChartPanel(chart);
@@ -187,7 +190,8 @@ public class ProyectoParcial3 extends JFrame {
         JPanel east = new JPanel(new BorderLayout(8,8));
         east.setBorder(new EmptyBorder(8,8,8,8));
         east.add(chartPanel, BorderLayout.CENTER);
-        east.add(new JLabel("Rangos: <20, 20–40, 41–60, >60", SwingConstants.CENTER), BorderLayout.SOUTH);
+        east.add(new JLabel("Número de personas por estado según filtros seleccionados",
+                            SwingConstants.CENTER), BorderLayout.SOUTH);
         root.add(east, BorderLayout.EAST);
 
         // ===== acciones =====
@@ -199,7 +203,7 @@ public class ProyectoParcial3 extends JFrame {
         btnLeer.addActionListener(this::onLeer);
 
         ensureTabla();
-        reloadEstadosPanel();   // llena radios con estados de BD
+        reloadEstadosPanel();   // llena checkboxes con estados de BD
         refreshChart();
         onLeer(null);
 
@@ -210,9 +214,9 @@ public class ProyectoParcial3 extends JFrame {
 
     // ==================== Chart cosmetics ====================
     private void tuneChart(JFreeChart chart) {
-        chart.setBackgroundPaint(Color.WHITE);
+        //chart.setBackgroundPaint(Color.WHITE);
         CategoryPlot plot = (CategoryPlot) chart.getPlot();
-        plot.setBackgroundPaint(Color.WHITE);
+        //plot.setBackgroundPaint(Color.WHITE);
         plot.setOutlineVisible(false);
         NumberAxis range = (NumberAxis) plot.getRangeAxis();
         range.setStandardTickUnits(NumberAxis.createIntegerTickUnits()); // NO notación científica
@@ -296,7 +300,10 @@ public class ProyectoParcial3 extends JFrame {
 
     private void onEliminar(ActionEvent e) {
         Integer id = parseInt(txtId.getText());
-        if (id == null) { JOptionPane.showMessageDialog(this, "Captura un Id numérico para eliminar."); return; }
+        if (id == null) {
+            JOptionPane.showMessageDialog(this, "Captura un Id numérico para eliminar.");
+            return;
+        }
         try (Connection cn = DriverManager.getConnection(URL, USER, PASS);
              PreparedStatement ps = cn.prepareStatement("DELETE FROM personas WHERE id=?")) {
             ps.setInt(1, id);
@@ -404,20 +411,26 @@ public class ProyectoParcial3 extends JFrame {
         return out;
     }
 
-    // ==================== Estados (radios) + gráfica ====================
+    // ==================== Estados (checkboxes) + gráfica ====================
     private void reloadEstadosPanel() {
         estadosPanel.removeAll();
         estadoButtons.clear();
-        // limpiar grupo
-        for (Enumeration<AbstractButton> en = estadosGroup.getElements(); en.hasMoreElements();) {
-            estadosGroup.remove(en.nextElement());
-        }
+
         // “Todos”
-        JRadioButton rAll = new JRadioButton("Todos", true);
-        estadosGroup.add(rAll);
-        estadosPanel.add(rAll);
-        estadoButtons.put("TODOS", rAll);
-        rAll.addActionListener(e -> refreshChart());
+        JCheckBox chkTodos = new JCheckBox("Todos", true);
+        estadosPanel.add(chkTodos);
+        estadoButtons.put("TODOS", chkTodos);
+        chkTodos.addActionListener(e -> {
+            if (chkTodos.isSelected()) {
+                // desmarcar todos los demás estados
+                for (Map.Entry<String, JCheckBox> entry : estadoButtons.entrySet()) {
+                    if (!"TODOS".equals(entry.getKey())) {
+                        entry.getValue().setSelected(false);
+                    }
+                }
+            }
+            refreshChart();
+        });
 
         String sql = "SELECT DISTINCT estado FROM personas ORDER BY estado";
         try (Connection cn = DriverManager.getConnection(URL, USER, PASS);
@@ -425,11 +438,20 @@ public class ProyectoParcial3 extends JFrame {
              ResultSet rs = st.executeQuery(sql)) {
             while (rs.next()) {
                 String edo = rs.getString(1);
-                JRadioButton rb = new JRadioButton(edo);
-                estadosGroup.add(rb);
-                estadosPanel.add(rb);
-                estadoButtons.put(edo, rb);
-                rb.addActionListener(e -> refreshChart());
+                if (edo == null) continue;
+                edo = edo.trim();
+                if (edo.isEmpty()) continue;
+
+                JCheckBox cb = new JCheckBox(edo);
+                estadosPanel.add(cb);
+                estadoButtons.put(edo, cb);
+                cb.addActionListener(ev -> {
+                    JCheckBox todos = estadoButtons.get("TODOS");
+                    if (cb.isSelected() && todos != null && todos.isSelected()) {
+                        todos.setSelected(false);
+                    }
+                    refreshChart();
+                });
             }
         } catch (SQLException ex) {
             showErr("Error leyendo estados distintos", ex);
@@ -439,76 +461,107 @@ public class ProyectoParcial3 extends JFrame {
     }
 
     private void refreshChart() {
-        String estado = getEstadoSeleccionado(); // null = todos
-        String sexo = getSexoSeleccionado();     // null = todos
-        DefaultCategoryDataset ds = buildDataset(estado, sexo);
+        List<String> estados = getEstadosSeleccionados(); // vacío = todos
+        String sexo = getSexoSeleccionado();              // null = todos
+        DefaultCategoryDataset ds = buildDataset(estados, sexo);
         JFreeChart chart = ChartFactory.createBarChart(
-                makeTitle(estado, sexo), "Rango de edad", "Frecuencia", ds
+                makeTitle(estados, sexo), "Estado", "Número de personas", ds
         );
         tuneChart(chart);
         chartPanel.setChart(chart);
     }
 
-    private String getEstadoSeleccionado() {
-        for (Map.Entry<String, JRadioButton> e : estadoButtons.entrySet()) {
-            if (e.getValue().isSelected()) return e.getKey().equals("TODOS") ? null : e.getKey();
+    private List<String> getEstadosSeleccionados() {
+        List<String> sel = new ArrayList<>();
+        JCheckBox chkTodos = estadoButtons.get("TODOS");
+        if (chkTodos != null && chkTodos.isSelected()) {
+            // "Todos" marcado → sin filtro (lista vacía = todos)
+            return sel;
         }
-        return null;
+        for (Map.Entry<String, JCheckBox> e : estadoButtons.entrySet()) {
+            if ("TODOS".equals(e.getKey())) continue;
+            if (e.getValue().isSelected()) {
+                sel.add(e.getKey());
+            }
+        }
+        // si no hay ninguno, también tratamos como "todos"
+        return sel;
     }
+
     private String getSexoSeleccionado() {
         for (Map.Entry<String, JRadioButton> e : sexoButtons.entrySet()) {
             if (e.getValue().isSelected()) {
-                String k = e.getKey();
-                return k.equals("TODOS") ? null : k;
+                return e.getKey().equals("TODOS") ? null : e.getKey();
             }
         }
         return null;
     }
 
-    /** Histograma de 4 rangos: <20, 20–40, 41–60, >60 */
-    private DefaultCategoryDataset buildDataset(String estadoFilter, String sexoFilter) {
-        String c1 = "<20", c2 = "20-40", c3 = "41-60", c4 = ">60";
+    /** Cuenta personas por uno o varios estados, con filtro de sexo. */
+    private DefaultCategoryDataset buildDataset(List<String> estadosFilter, String sexoFilter) {
+        DefaultCategoryDataset ds = new DefaultCategoryDataset();
+
         StringBuilder sb = new StringBuilder();
-        sb.append("SELECT ");
-        sb.append("SUM(CASE WHEN edad<=19 THEN 1 ELSE 0 END) c1, ");
-        sb.append("SUM(CASE WHEN edad BETWEEN 20 AND 40 THEN 1 ELSE 0 END) c2, ");
-        sb.append("SUM(CASE WHEN edad BETWEEN 41 AND 60 THEN 1 ELSE 0 END) c3, ");
-        sb.append("SUM(CASE WHEN edad>=61 THEN 1 ELSE 0 END) c4 ");
+        sb.append("SELECT UPPER(estado) AS est, COUNT(*) AS total ");
         sb.append("FROM personas WHERE 1=1 ");
         List<Object> params = new ArrayList<>();
-        if (estadoFilter != null) { sb.append("AND UPPER(estado)=? "); params.add(estadoFilter.toUpperCase(Locale.ROOT)); }
-        if (sexoFilter != null)   { sb.append("AND UPPER(sexo)=? ");   params.add(sexoFilter.toUpperCase(Locale.ROOT)); }
 
-        int v1=0,v2=0,v3=0,v4=0;
+        if (estadosFilter != null && !estadosFilter.isEmpty()) {
+            sb.append("AND estado IN (");
+            for (int i=0; i<estadosFilter.size(); i++) {
+                if (i>0) sb.append(",");
+                sb.append("?");
+                params.add(estadosFilter.get(i).toUpperCase(Locale.ROOT));
+            }
+            sb.append(") ");
+        }
+
+        if (sexoFilter != null) {
+            sb.append("AND UPPER(sexo)=? ");
+            params.add(sexoFilter.toUpperCase(Locale.ROOT));
+        }
+
+        sb.append("GROUP BY UPPER(estado) ORDER BY est");
+
         try (Connection cn = DriverManager.getConnection(URL, USER, PASS);
              PreparedStatement ps = cn.prepareStatement(sb.toString())) {
-            for (int i=0;i<params.size();i++) ps.setString(i+1, (String) params.get(i));
+
+            for (int i=0; i<params.size(); i++) {
+                ps.setObject(i+1, params.get(i));
+            }
+
             try (ResultSet rs = ps.executeQuery()) {
-                if (rs.next()) {
-                    v1 = rs.getInt("c1");
-                    v2 = rs.getInt("c2");
-                    v3 = rs.getInt("c3");
-                    v4 = rs.getInt("c4");
+                while (rs.next()) {
+                    String est = rs.getString("est");
+                    int total  = rs.getInt("total");
+                    ds.addValue(total, "Personas", est);
                 }
             }
-        } catch (SQLException ex) { showErr("Error leyendo datos para gráfica", ex); }
+        } catch (SQLException ex) {
+            showErr("Error leyendo datos para gráfica", ex);
+        }
 
-        DefaultCategoryDataset ds = new DefaultCategoryDataset();
-        ds.addValue(v1, "Frecuencia", c1);
-        ds.addValue(v2, "Frecuencia", c2);
-        ds.addValue(v3, "Frecuencia", c3);
-        ds.addValue(v4, "Frecuencia", c4);
         return ds;
     }
 
-    private String makeTitle(String estado, String sexo) {
-        StringBuilder sb = new StringBuilder("Distribución de edades - ");
-        sb.append(estado == null ? "Todos los estados" : estado);
-        sb.append(" / ");
+    private String makeTitle(List<String> estados, String sexo) {
+        StringBuilder sb = new StringBuilder("Personas por estado - ");
         if (sexo == null) sb.append("Todos los géneros");
-        else if ("H".equals(sexo)) sb.append("Hombres");
-        else if ("M".equals(sexo)) sb.append("Mujeres");
+        else if ("H".equalsIgnoreCase(sexo)) sb.append("Hombres");
+        else if ("M".equalsIgnoreCase(sexo)) sb.append("Mujeres");
         else sb.append(sexo);
+
+        sb.append(" en ");
+        if (estados == null || estados.isEmpty()) {
+            sb.append("todos los estados");
+        } else if (estados.size() == 1) {
+            sb.append("el estado ").append(estados.get(0));
+        } else if (estados.size() == 2) {
+            sb.append("los estados ").append(estados.get(0))
+              .append(" y ").append(estados.get(1));
+        } else {
+            sb.append("varios estados");
+        }
         return sb.toString();
     }
 
