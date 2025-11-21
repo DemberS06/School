@@ -27,19 +27,6 @@ import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-/**
- * Tarea14
- * - Usa JFreeChart para mostrar un histograma (barras) con 4 rangos de edad:
- *   <20, 20-40, 41-60, >60
- * - Panel con botones (radio) para cada estado + "Todos"
- * - Panel con botones (radio) para genero: "Todos", "H", "M"
- *
- * Requisitos: jfreechart en el classpath.
- *
- * Ejecutar:
- * javac -cp ".;path\to\jfreechart-x.y.z.jar;path\to\other-deps.jar" Tarea14.java
- * java -cp ".;path\to\jfreechart-x.y.z.jar;path\to\other-deps.jar" Tarea14 [ruta_al_archivo]
- */
 public class Tarea14 {
     static class Record {
         final int age;
@@ -62,7 +49,7 @@ public class Tarea14 {
     private Map<String, JRadioButton> sexoButtons = new HashMap<>();
 
     public static void main(String[] args) {
-        String path = args.length > 0 ? args[0] : "C:\\Users\\Dembe\\Proyects\\School\\Java\\14\\archModificado.txt";
+        String path = args.length > 0 ? args[0] : "C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\14\\archModificado.txt";
         Tarea14 app = new Tarea14();
         if (!app.loadFile(path)) {
             System.err.println("No se pudo leer archivo: " + path);
