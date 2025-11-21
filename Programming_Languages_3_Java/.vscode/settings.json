@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Users/Dembe/Proyects/School/Programming_Languages_3_Java/lib/**/*.jar"
+  ],
+  "java.compile.nullAnalysis.enabled": false,
+  "java.codeGeneration.useBlocks": false,
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "java.sources.organizeImports": "never",
+  "java.format.enabled": true,
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
