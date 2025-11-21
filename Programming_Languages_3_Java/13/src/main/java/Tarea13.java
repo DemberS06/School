@@ -22,7 +22,7 @@ import org.jfree.data.general.DefaultPieDataset;
 
 public class Tarea13 {
     public static void main(String[] args) {
-        String path = args.length > 0 ? args[0] : "13\\archModificado.txt";
+        String path = args.length > 0 ? args[0] : "C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_Java\\13\\archModificado.txt";
 
         Map<String, int[]> stateCounts = new TreeMap<>();
         int totalH = 0, totalM = 0;
