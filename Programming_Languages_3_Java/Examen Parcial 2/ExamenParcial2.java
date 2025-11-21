@@ -35,7 +35,7 @@ import javax.swing.border.EmptyBorder;
  */
 public class ExamenParcial2 extends JFrame {
     private static final String FILE_PATH =
-            "C:\\Users\\Dembe\\Proyects\\School\\Java\\Examen Parcial 2\\archModificado.txt";
+            "C:\\Users\\Dembe\\Proyects\\School\\Programming_Languages_3_java\\Examen Parcial 2\\archModificado.txt";
 
     private final Map<Integer, Person> datos = new TreeMap<>();
 
