@@ -1,0 +1,5000 @@
+1;Cindy;47;M;Av. Reforma 123
+2;Peter;67;F;Av. López Mateos 900
+3;Joseph;26;M;Calle Juárez 45
+4;Marie;51;F;Av. Insurgentes 678
+5;Michael;25;F;Calle Morelos 56
+6;Joseph;60;F;Av. Madero 777
+7;Karen;37;F;Calle Juárez 45
+8;Michael;58;F;Av. Universidad 321
+9;Karen;70;F;Av. Insurgentes 678
+10;Peter;51;M;Calle Juárez 45
+11;Marie;20;F;Av. Insurgentes 678
+12;Michael;26;M;Calle Morelos 56
+13;Michael;53;F;Av. Universidad 321
+14;Sofía;47;F;Av. Reforma 123
+15;Michael;38;F;Av. López Mateos 900
+16;Joseph;35;M;Av. Universidad 321
+17;Peter;31;F;Calle Juárez 45
+18;James;61;M;Calle Morelos 56
+19;Louis;61;M;Calle Zaragoza 12
+20;James;37;F;Av. Madero 777
+21;Peter;51;M;Av. Reforma 123
+22;Carmen;70;F;Calle Hidalgo 89
+23;Marie;41;F;Av. Insurgentes 678
+24;Carmen;58;M;Av. Insurgentes 678
+25;James;65;M;Calle Juárez 45
+26;Carmen;24;F;Av. Universidad 321
+27;Karen;64;M;Av. Universidad 321
+28;Carmen;26;M;Av. Madero 777
+29;Peter;25;M;Av. López Mateos 900
+30;Michael;24;F;Av. Madero 777
+31;Louis;34;F;Calle Zaragoza 12
+32;Carmen;55;M;Av. López Mateos 900
+33;Louis;30;F;Calle Morelos 56
+34;Sofía;41;M;Calle Hidalgo 89
+35;Karen;37;M;Calle Morelos 56
+36;Joseph;70;M;Av. Insurgentes 678
+37;Joseph;21;M;Av. Insurgentes 678
+38;Peter;56;F;Calle Hidalgo 89
+39;Sofía;48;M;Calle Hidalgo 89
+40;Peter;31;F;Av. Universidad 321
+41;Louis;49;M;Calle Juárez 45
+42;Sofía;25;M;Av. Universidad 321
+43;James;21;M;Av. Reforma 123
+44;Karen;46;F;Av. Madero 777
+45;James;41;F;Calle Zaragoza 12
+46;Cindy;23;F;Calle Allende 34
+47;Michael;24;M;Calle Juárez 45
+48;Carmen;48;F;Av. Reforma 123
+49;Michael;34;F;Av. Reforma 123
+50;Cindy;44;M;Calle Zaragoza 12
+51;Joseph;67;F;Av. Universidad 321
+52;Joseph;26;F;Av. Reforma 123
+53;Cindy;47;F;Av. Reforma 123
+54;Cindy;62;M;Calle Juárez 45
+55;Carmen;30;M;Av. Insurgentes 678
+56;Carmen;58;F;Av. Insurgentes 678
+57;Sofía;37;M;Calle Hidalgo 89
+58;Michael;59;M;Av. Insurgentes 678
+59;Joseph;23;F;Calle Hidalgo 89
+60;Marie;50;M;Calle Hidalgo 89
+61;Marie;46;F;Av. Reforma 123
+62;Karen;30;F;Av. Madero 777
+63;Karen;52;F;Av. Insurgentes 678
+64;Karen;68;F;Calle Hidalgo 89
+65;Peter;42;M;Calle Allende 34
+66;Cindy;59;M;Av. Universidad 321
+67;Sofía;42;F;Av. Reforma 123
+68;Cindy;27;M;Calle Morelos 56
+69;Karen;66;F;Calle Hidalgo 89
+70;Peter;62;M;Av. Madero 777
+71;Joseph;46;M;Calle Zaragoza 12
+72;James;54;F;Calle Zaragoza 12
+73;Karen;21;M;Av. Madero 777
+74;Joseph;45;M;Calle Allende 34
+75;Michael;49;F;Av. Insurgentes 678
+76;Carmen;43;M;Av. López Mateos 900
+77;Louis;31;F;Av. Universidad 321
+78;Joseph;48;M;Calle Morelos 56
+79;Cindy;44;M;Calle Zaragoza 12
+80;Karen;60;M;Calle Allende 34
+81;Joseph;48;M;Calle Zaragoza 12
+82;Karen;49;F;Av. Insurgentes 678
+83;James;66;M;Calle Zaragoza 12
+84;Karen;31;M;Calle Morelos 56
+85;Peter;49;M;Av. Universidad 321
+86;Louis;35;M;Av. Madero 777
+87;James;66;F;Av. López Mateos 900
+88;Louis;50;M;Av. Insurgentes 678
+89;James;55;F;Calle Zaragoza 12
+90;Cindy;40;M;Av. Madero 777
+91;Marie;61;F;Calle Hidalgo 89
+92;Louis;28;F;Av. Madero 777
+93;Cindy;30;M;Av. Madero 777
+94;Cindy;65;M;Av. Insurgentes 678
+95;Louis;41;M;Calle Juárez 45
+96;Carmen;35;M;Av. Universidad 321
+97;Karen;21;F;Av. López Mateos 900
+98;Louis;60;M;Calle Hidalgo 89
+99;Peter;66;M;Av. Universidad 321
+100;Marie;38;F;Calle Morelos 56
+101;Carmen;49;F;Av. López Mateos 900
+102;Louis;37;M;Calle Allende 34
+103;Cindy;58;M;Av. López Mateos 900
+104;Louis;58;F;Av. Universidad 321
+105;Marie;27;F;Av. Reforma 123
+106;Karen;25;M;Calle Zaragoza 12
+107;Louis;44;F;Calle Zaragoza 12
+108;Louis;57;F;Av. Universidad 321
+109;James;29;M;Calle Morelos 56
+110;Peter;39;F;Av. Madero 777
+111;James;64;F;Av. Universidad 321
+112;Sofía;43;M;Av. Universidad 321
+113;Carmen;20;F;Av. López Mateos 900
+114;Sofía;21;M;Av. Madero 777
+115;Marie;43;F;Av. Madero 777
+116;Cindy;61;F;Calle Morelos 56
+117;Joseph;53;M;Calle Morelos 56
+118;James;50;M;Av. López Mateos 900
+119;Louis;42;F;Av. Insurgentes 678
+120;Cindy;70;M;Calle Zaragoza 12
+121;Peter;64;F;Calle Zaragoza 12
+122;Louis;57;F;Av. López Mateos 900
+123;James;35;M;Av. Madero 777
+124;James;39;M;Av. López Mateos 900
+125;James;48;F;Calle Morelos 56
+126;Cindy;54;F;Av. Universidad 321
+127;Marie;54;M;Av. Insurgentes 678
+128;Peter;40;M;Calle Juárez 45
+129;Cindy;50;M;Calle Morelos 56
+130;Joseph;32;F;Av. Insurgentes 678
+131;Louis;40;M;Av. Universidad 321
+132;Marie;34;F;Av. Universidad 321
+133;Cindy;62;F;Calle Allende 34
+134;Carmen;24;M;Av. Reforma 123
+135;James;68;M;Av. López Mateos 900
+136;Cindy;64;F;Av. Madero 777
+137;Michael;51;F;Av. Insurgentes 678
+138;Marie;60;M;Av. Insurgentes 678
+139;Joseph;59;F;Av. López Mateos 900
+140;Michael;42;M;Calle Juárez 45
+141;Marie;62;M;Calle Hidalgo 89
+142;Sofía;69;M;Calle Allende 34
+143;Marie;19;F;Av. López Mateos 900
+144;Michael;57;M;Av. Universidad 321
+145;Marie;35;M;Av. Insurgentes 678
+146;Peter;69;M;Av. Madero 777
+147;Karen;67;F;Av. Universidad 321
+148;Marie;61;M;Calle Juárez 45
+149;Michael;36;F;Calle Hidalgo 89
+150;Karen;24;F;Av. Universidad 321
+151;Karen;25;F;Av. López Mateos 900
+152;Michael;49;M;Av. Madero 777
+153;James;22;M;Calle Zaragoza 12
+154;Carmen;36;F;Av. Madero 777
+155;Marie;42;M;Av. Madero 777
+156;Carmen;44;F;Calle Zaragoza 12
+157;Joseph;36;M;Calle Morelos 56
+158;James;65;M;Av. Madero 777
+159;Joseph;46;F;Av. Insurgentes 678
+160;Michael;24;M;Calle Allende 34
+161;Peter;68;F;Calle Morelos 56
+162;Marie;53;F;Av. López Mateos 900
+163;Peter;29;F;Av. Universidad 321
+164;Peter;46;M;Calle Allende 34
+165;Sofía;41;F;Av. López Mateos 900
+166;Sofía;41;M;Av. Reforma 123
+167;Marie;46;F;Av. Madero 777
+168;Sofía;56;F;Calle Juárez 45
+169;Michael;38;F;Calle Allende 34
+170;Cindy;43;M;Av. López Mateos 900
+171;Carmen;68;F;Calle Juárez 45
+172;Michael;40;M;Av. Reforma 123
+173;Marie;49;M;Calle Allende 34
+174;Louis;58;F;Av. Universidad 321
+175;Marie;65;F;Av. Reforma 123
+176;Karen;55;F;Av. Madero 777
+177;Karen;33;M;Calle Morelos 56
+178;Carmen;23;F;Av. Universidad 321
+179;Louis;28;M;Av. Reforma 123
+180;Cindy;26;M;Av. Reforma 123
+181;Louis;35;F;Av. Universidad 321
+182;Carmen;55;M;Av. López Mateos 900
+183;Carmen;19;M;Av. López Mateos 900
+184;Peter;30;F;Calle Allende 34
+185;Joseph;34;F;Av. Universidad 321
+186;Joseph;28;M;Av. Insurgentes 678
+187;Cindy;21;F;Av. Insurgentes 678
+188;Louis;50;M;Calle Zaragoza 12
+189;Peter;24;F;Av. Reforma 123
+190;Marie;68;F;Calle Juárez 45
+191;Cindy;18;F;Calle Hidalgo 89
+192;Carmen;53;M;Calle Allende 34
+193;James;35;M;Calle Zaragoza 12
+194;Joseph;61;M;Calle Hidalgo 89
+195;Peter;67;F;Av. Reforma 123
+196;Marie;64;M;Calle Morelos 56
+197;Carmen;68;M;Calle Hidalgo 89
+198;Michael;29;M;Av. Madero 777
+199;Marie;30;M;Calle Zaragoza 12
+200;Peter;37;F;Calle Allende 34
+201;Cindy;27;M;Calle Allende 34
+202;Cindy;47;M;Av. Universidad 321
+203;Sofía;40;M;Av. Universidad 321
+204;Louis;60;M;Calle Morelos 56
+205;Michael;27;M;Av. Madero 777
+206;Marie;33;F;Calle Allende 34
+207;Louis;23;M;Calle Allende 34
+208;Louis;56;F;Av. Universidad 321
+209;Carmen;55;M;Calle Zaragoza 12
+210;Sofía;38;F;Av. Madero 777
+211;Joseph;25;M;Av. Madero 777
+212;Karen;54;M;Calle Juárez 45
+213;Cindy;19;F;Av. Reforma 123
+214;Marie;66;F;Calle Zaragoza 12
+215;Marie;21;F;Calle Hidalgo 89
+216;James;68;M;Av. Madero 777
+217;James;52;F;Av. Madero 777
+218;Peter;53;M;Av. López Mateos 900
+219;Marie;25;F;Av. Madero 777
+220;Joseph;67;F;Calle Allende 34
+221;Michael;67;F;Calle Morelos 56
+222;Michael;53;F;Av. Insurgentes 678
+223;Peter;33;F;Av. Madero 777
+224;Joseph;42;F;Calle Hidalgo 89
+225;Marie;22;M;Calle Hidalgo 89
+226;Karen;62;M;Calle Hidalgo 89
+227;Marie;24;M;Calle Hidalgo 89
+228;Carmen;29;F;Calle Juárez 45
+229;Peter;48;M;Calle Zaragoza 12
+230;Joseph;67;M;Av. Universidad 321
+231;James;61;M;Calle Allende 34
+232;James;20;F;Calle Allende 34
+233;Peter;36;F;Calle Allende 34
+234;Louis;40;M;Calle Hidalgo 89
+235;Cindy;51;M;Av. Madero 777
+236;Carmen;44;F;Av. Reforma 123
+237;Karen;69;F;Calle Hidalgo 89
+238;Joseph;23;M;Av. López Mateos 900
+239;Karen;20;M;Calle Morelos 56
+240;Peter;19;F;Av. López Mateos 900
+241;James;23;F;Av. Universidad 321
+242;Karen;51;M;Av. López Mateos 900
+243;Louis;47;F;Calle Allende 34
+244;Joseph;51;M;Av. López Mateos 900
+245;Joseph;69;F;Av. Universidad 321
+246;Michael;63;M;Av. Insurgentes 678
+247;Peter;19;F;Calle Zaragoza 12
+248;Carmen;43;M;Av. López Mateos 900
+249;Louis;49;M;Av. Reforma 123
+250;Joseph;20;F;Av. Reforma 123
+251;Marie;53;M;Calle Zaragoza 12
+252;Peter;56;M;Calle Juárez 45
+253;Karen;52;F;Av. Reforma 123
+254;Cindy;19;M;Av. Insurgentes 678
+255;Louis;67;F;Av. López Mateos 900
+256;Louis;48;M;Av. Universidad 321
+257;Peter;70;M;Calle Morelos 56
+258;James;46;F;Calle Allende 34
+259;Carmen;20;F;Av. Reforma 123
+260;Peter;48;F;Calle Juárez 45
+261;Marie;28;F;Calle Morelos 56
+262;Sofía;53;M;Calle Morelos 56
+263;Marie;53;M;Calle Hidalgo 89
+264;Cindy;33;F;Av. Reforma 123
+265;Louis;37;M;Av. Madero 777
+266;Peter;59;F;Av. Madero 777
+267;Joseph;47;M;Av. Madero 777
+268;Sofía;34;F;Av. Reforma 123
+269;Joseph;27;M;Calle Allende 34
+270;Michael;34;M;Av. Universidad 321
+271;Carmen;67;F;Calle Zaragoza 12
+272;Cindy;30;F;Av. López Mateos 900
+273;Joseph;52;M;Av. Insurgentes 678
+274;Karen;41;M;Av. Insurgentes 678
+275;Marie;20;M;Calle Allende 34
+276;Joseph;34;M;Av. Insurgentes 678
+277;James;19;M;Calle Allende 34
+278;Michael;67;F;Calle Hidalgo 89
+279;Cindy;58;M;Calle Hidalgo 89
+280;Karen;23;M;Calle Juárez 45
+281;Marie;58;M;Calle Morelos 56
+282;Joseph;27;M;Calle Hidalgo 89
+283;Louis;55;M;Av. Reforma 123
+284;Sofía;21;F;Av. Reforma 123
+285;Carmen;47;M;Av. Universidad 321
+286;Carmen;70;F;Calle Morelos 56
+287;James;69;M;Av. Universidad 321
+288;Louis;44;M;Av. Madero 777
+289;James;63;F;Av. Insurgentes 678
+290;James;28;M;Av. Universidad 321
+291;Peter;45;M;Av. Reforma 123
+292;Karen;35;F;Av. López Mateos 900
+293;Cindy;43;F;Av. Madero 777
+294;Sofía;24;F;Calle Allende 34
+295;Carmen;34;M;Calle Hidalgo 89
+296;Michael;61;M;Calle Zaragoza 12
+297;Cindy;61;M;Av. Insurgentes 678
+298;Karen;42;F;Av. López Mateos 900
+299;Louis;53;M;Calle Allende 34
+300;Sofía;67;F;Calle Hidalgo 89
+301;Joseph;51;M;Av. Universidad 321
+302;Sofía;65;F;Av. Universidad 321
+303;Marie;19;M;Av. López Mateos 900
+304;Louis;51;M;Calle Morelos 56
+305;Karen;20;M;Calle Morelos 56
+306;Michael;29;F;Calle Hidalgo 89
+307;Marie;29;M;Av. Insurgentes 678
+308;Sofía;34;F;Av. Reforma 123
+309;Michael;37;F;Av. López Mateos 900
+310;Cindy;24;F;Av. Reforma 123
+311;Joseph;57;M;Calle Hidalgo 89
+312;James;67;M;Calle Hidalgo 89
+313;Michael;21;M;Av. Reforma 123
+314;Karen;33;F;Av. López Mateos 900
+315;Carmen;34;F;Calle Zaragoza 12
+316;Louis;37;F;Av. Universidad 321
+317;Karen;18;M;Calle Morelos 56
+318;James;64;M;Calle Hidalgo 89
+319;Michael;63;F;Calle Zaragoza 12
+320;Marie;37;M;Calle Zaragoza 12
+321;Karen;54;M;Av. Madero 777
+322;Joseph;25;M;Av. Universidad 321
+323;Cindy;44;F;Av. Insurgentes 678
+324;Carmen;34;F;Av. Madero 777
+325;Sofía;42;M;Av. Universidad 321
+326;Louis;61;F;Calle Hidalgo 89
+327;Joseph;19;F;Av. López Mateos 900
+328;Carmen;40;M;Av. Universidad 321
+329;Karen;57;F;Av. Universidad 321
+330;James;54;M;Av. Reforma 123
+331;Peter;60;M;Av. Insurgentes 678
+332;Cindy;50;M;Calle Zaragoza 12
+333;Louis;22;M;Calle Juárez 45
+334;Joseph;66;F;Av. Madero 777
+335;Cindy;70;F;Calle Hidalgo 89
+336;Joseph;25;M;Calle Allende 34
+337;Michael;32;F;Av. Reforma 123
+338;Carmen;51;F;Av. Universidad 321
+339;Joseph;57;M;Calle Morelos 56
+340;Marie;67;F;Calle Juárez 45
+341;Marie;20;F;Calle Juárez 45
+342;Joseph;57;F;Calle Hidalgo 89
+343;Michael;65;M;Calle Zaragoza 12
+344;Marie;40;F;Av. Insurgentes 678
+345;James;32;M;Av. Reforma 123
+346;Louis;32;M;Av. Universidad 321
+347;Michael;69;F;Av. Madero 777
+348;Peter;54;M;Calle Allende 34
+349;Sofía;18;F;Calle Allende 34
+350;Joseph;43;F;Av. Madero 777
+351;Michael;67;M;Calle Allende 34
+352;Karen;23;F;Av. Madero 777
+353;Sofía;70;M;Av. Universidad 321
+354;Joseph;26;M;Av. Insurgentes 678
+355;Sofía;67;M;Av. Universidad 321
+356;Michael;39;M;Av. Madero 777
+357;Michael;28;F;Av. Reforma 123
+358;Karen;60;M;Av. Madero 777
+359;Marie;35;F;Calle Juárez 45
+360;Sofía;62;M;Calle Juárez 45
+361;James;52;M;Calle Juárez 45
+362;Cindy;25;F;Av. López Mateos 900
+363;Marie;65;M;Calle Allende 34
+364;Karen;35;M;Av. Universidad 321
+365;Sofía;53;M;Av. Universidad 321
+366;Joseph;21;F;Av. Reforma 123
+367;Karen;52;F;Calle Zaragoza 12
+368;Joseph;58;F;Av. Reforma 123
+369;Peter;58;F;Calle Zaragoza 12
+370;Sofía;62;F;Av. Madero 777
+371;Sofía;36;M;Calle Juárez 45
+372;Marie;67;M;Calle Zaragoza 12
+373;James;36;M;Av. López Mateos 900
+374;Sofía;57;M;Av. Insurgentes 678
+375;Joseph;60;M;Av. Universidad 321
+376;James;64;F;Av. López Mateos 900
+377;Marie;30;M;Calle Allende 34
+378;Louis;57;F;Calle Hidalgo 89
+379;Michael;49;M;Av. López Mateos 900
+380;Louis;20;M;Av. Reforma 123
+381;Peter;25;F;Av. Reforma 123
+382;Joseph;50;M;Av. Universidad 321
+383;Karen;39;F;Calle Allende 34
+384;Carmen;40;M;Av. Insurgentes 678
+385;Karen;21;F;Av. Insurgentes 678
+386;Peter;65;F;Av. Universidad 321
+387;Sofía;65;M;Calle Juárez 45
+388;Louis;69;F;Av. Universidad 321
+389;Joseph;48;M;Av. Madero 777
+390;James;41;F;Calle Morelos 56
+391;Peter;42;F;Av. Reforma 123
+392;Cindy;18;F;Calle Hidalgo 89
+393;Sofía;20;M;Av. López Mateos 900
+394;James;39;F;Calle Allende 34
+395;Carmen;48;M;Av. López Mateos 900
+396;Marie;40;F;Av. López Mateos 900
+397;Peter;27;F;Calle Morelos 56
+398;James;59;M;Calle Allende 34
+399;Marie;35;F;Calle Allende 34
+400;Carmen;22;F;Calle Hidalgo 89
+401;Cindy;49;F;Av. Madero 777
+402;Louis;30;M;Av. Reforma 123
+403;Peter;64;F;Av. Universidad 321
+404;Cindy;55;M;Av. López Mateos 900
+405;Peter;36;F;Calle Zaragoza 12
+406;Joseph;68;M;Av. López Mateos 900
+407;Marie;59;M;Calle Zaragoza 12
+408;James;25;M;Calle Juárez 45
+409;Louis;21;M;Calle Allende 34
+410;Peter;25;F;Calle Zaragoza 12
+411;Joseph;62;F;Av. Insurgentes 678
+412;Cindy;69;M;Av. Reforma 123
+413;Michael;65;M;Calle Morelos 56
+414;Michael;61;F;Av. Universidad 321
+415;Cindy;66;M;Calle Allende 34
+416;Joseph;18;M;Av. Insurgentes 678
+417;Carmen;35;F;Calle Morelos 56
+418;Peter;62;M;Calle Morelos 56
+419;James;45;F;Calle Zaragoza 12
+420;Marie;54;F;Av. Insurgentes 678
+421;Louis;68;F;Av. Insurgentes 678
+422;Karen;61;F;Av. Insurgentes 678
+423;Marie;56;F;Av. Reforma 123
+424;Carmen;35;F;Calle Hidalgo 89
+425;Carmen;47;M;Calle Morelos 56
+426;Michael;30;M;Calle Morelos 56
+427;Louis;30;F;Calle Juárez 45
+428;Carmen;55;F;Av. López Mateos 900
+429;Sofía;66;M;Av. Madero 777
+430;Sofía;37;M;Calle Hidalgo 89
+431;Sofía;49;M;Av. Universidad 321
+432;Michael;61;F;Av. Reforma 123
+433;Cindy;69;F;Av. Insurgentes 678
+434;Carmen;30;M;Av. Madero 777
+435;Carmen;67;F;Calle Allende 34
+436;Marie;52;F;Calle Hidalgo 89
+437;Karen;48;M;Calle Zaragoza 12
+438;Carmen;21;M;Av. Insurgentes 678
+439;Peter;49;F;Av. Insurgentes 678
+440;Peter;34;M;Av. Madero 777
+441;Peter;64;M;Av. Universidad 321
+442;Marie;58;M;Av. López Mateos 900
+443;Joseph;62;F;Calle Hidalgo 89
+444;Louis;18;F;Av. López Mateos 900
+445;Karen;60;M;Av. Insurgentes 678
+446;Carmen;46;F;Calle Zaragoza 12
+447;Carmen;70;M;Calle Morelos 56
+448;Peter;42;M;Calle Juárez 45
+449;Michael;43;F;Av. Insurgentes 678
+450;Michael;64;F;Av. Madero 777
+451;Sofía;37;F;Calle Allende 34
+452;Joseph;30;M;Calle Zaragoza 12
+453;Marie;70;M;Av. Madero 777
+454;Cindy;39;F;Calle Juárez 45
+455;Joseph;40;M;Av. Insurgentes 678
+456;Peter;51;F;Av. Reforma 123
+457;James;35;F;Av. Reforma 123
+458;Carmen;53;M;Calle Morelos 56
+459;Joseph;26;F;Calle Hidalgo 89
+460;Marie;67;F;Calle Juárez 45
+461;Louis;63;M;Calle Allende 34
+462;Joseph;33;M;Calle Hidalgo 89
+463;James;70;F;Av. Madero 777
+464;Carmen;18;M;Calle Juárez 45
+465;Karen;27;F;Av. Reforma 123
+466;Carmen;66;M;Av. Madero 777
+467;Peter;39;F;Calle Morelos 56
+468;Sofía;68;M;Av. Madero 777
+469;Karen;31;F;Av. Reforma 123
+470;Carmen;41;M;Calle Allende 34
+471;Sofía;39;F;Av. Madero 777
+472;Peter;41;M;Av. López Mateos 900
+473;James;27;F;Calle Allende 34
+474;James;37;F;Av. Universidad 321
+475;Louis;54;M;Av. Universidad 321
+476;Louis;58;M;Av. Madero 777
+477;Peter;26;F;Calle Juárez 45
+478;James;27;F;Av. Reforma 123
+479;Karen;64;F;Calle Hidalgo 89
+480;Louis;54;M;Av. Universidad 321
+481;Peter;32;M;Av. Reforma 123
+482;Carmen;22;F;Calle Hidalgo 89
+483;Carmen;70;M;Av. Reforma 123
+484;Peter;46;F;Av. Madero 777
+485;Louis;41;F;Av. Reforma 123
+486;Marie;18;F;Av. Reforma 123
+487;Peter;39;F;Calle Hidalgo 89
+488;Marie;63;F;Av. Insurgentes 678
+489;Joseph;46;F;Av. López Mateos 900
+490;Karen;50;M;Calle Hidalgo 89
+491;Karen;50;F;Av. Insurgentes 678
+492;Louis;39;M;Calle Morelos 56
+493;Sofía;33;M;Calle Zaragoza 12
+494;Louis;25;F;Calle Morelos 56
+495;Michael;63;F;Av. Universidad 321
+496;Peter;69;M;Av. López Mateos 900
+497;Peter;55;M;Calle Allende 34
+498;James;35;F;Av. Reforma 123
+499;Marie;61;M;Av. Universidad 321
+500;Cindy;32;M;Calle Zaragoza 12
+501;Cindy;37;F;Calle Juárez 45
+502;Louis;30;F;Av. Insurgentes 678
+503;James;27;F;Calle Zaragoza 12
+504;Sofía;37;F;Av. Madero 777
+505;Cindy;68;M;Av. Insurgentes 678
+506;Peter;42;F;Calle Zaragoza 12
+507;Joseph;59;F;Calle Allende 34
+508;Marie;51;M;Av. López Mateos 900
+509;Louis;60;M;Av. Universidad 321
+510;James;50;M;Calle Hidalgo 89
+511;Michael;42;M;Av. Universidad 321
+512;Carmen;20;F;Calle Morelos 56
+513;Carmen;62;F;Av. López Mateos 900
+514;Louis;55;M;Av. Universidad 321
+515;Michael;29;F;Av. Madero 777
+516;Marie;19;F;Calle Hidalgo 89
+517;Karen;50;M;Calle Juárez 45
+518;Louis;39;F;Av. Universidad 321
+519;Karen;56;M;Calle Juárez 45
+520;Joseph;62;M;Calle Morelos 56
+521;Marie;35;F;Av. Universidad 321
+522;Karen;60;F;Calle Morelos 56
+523;Louis;64;F;Av. Reforma 123
+524;Sofía;31;F;Calle Morelos 56
+525;Peter;63;F;Av. Reforma 123
+526;Peter;19;F;Av. Insurgentes 678
+527;James;24;F;Av. Madero 777
+528;Peter;35;M;Av. Insurgentes 678
+529;Peter;46;F;Calle Zaragoza 12
+530;James;21;F;Calle Allende 34
+531;Marie;42;F;Calle Hidalgo 89
+532;James;43;M;Calle Zaragoza 12
+533;Peter;39;M;Calle Juárez 45
+534;Carmen;39;M;Calle Hidalgo 89
+535;Louis;18;M;Calle Hidalgo 89
+536;Carmen;45;M;Av. López Mateos 900
+537;Sofía;36;F;Av. López Mateos 900
+538;Karen;18;M;Calle Hidalgo 89
+539;Joseph;44;F;Calle Juárez 45
+540;Cindy;57;M;Calle Morelos 56
+541;Cindy;70;F;Calle Zaragoza 12
+542;Michael;48;M;Calle Hidalgo 89
+543;Carmen;42;F;Calle Juárez 45
+544;Sofía;30;M;Av. Insurgentes 678
+545;Marie;23;F;Calle Juárez 45
+546;Joseph;23;F;Av. Reforma 123
+547;Michael;54;F;Av. Universidad 321
+548;Cindy;30;F;Av. Reforma 123
+549;Marie;65;F;Calle Juárez 45
+550;Peter;70;M;Calle Hidalgo 89
+551;Joseph;54;M;Calle Morelos 56
+552;Joseph;40;F;Av. Insurgentes 678
+553;Michael;42;M;Calle Morelos 56
+554;Louis;49;M;Av. Universidad 321
+555;James;46;M;Calle Zaragoza 12
+556;James;22;F;Calle Hidalgo 89
+557;Carmen;41;M;Calle Hidalgo 89
+558;Joseph;21;M;Calle Morelos 56
+559;Joseph;32;M;Calle Allende 34
+560;Joseph;46;F;Calle Juárez 45
+561;Peter;58;F;Av. López Mateos 900
+562;James;60;M;Av. Universidad 321
+563;Cindy;35;F;Av. Madero 777
+564;Cindy;48;F;Av. López Mateos 900
+565;James;50;F;Av. López Mateos 900
+566;Cindy;64;F;Calle Morelos 56
+567;Carmen;61;F;Calle Juárez 45
+568;Peter;66;F;Calle Morelos 56
+569;Louis;57;F;Av. Madero 777
+570;Karen;27;F;Av. Insurgentes 678
+571;Karen;63;F;Calle Hidalgo 89
+572;Cindy;50;M;Calle Zaragoza 12
+573;Joseph;46;M;Av. Universidad 321
+574;Peter;60;M;Av. Insurgentes 678
+575;Michael;47;M;Av. Insurgentes 678
+576;Joseph;25;M;Calle Morelos 56
+577;Michael;65;F;Calle Allende 34
+578;Sofía;39;F;Calle Juárez 45
+579;James;69;M;Calle Zaragoza 12
+580;Karen;31;F;Calle Morelos 56
+581;Karen;24;M;Calle Hidalgo 89
+582;Peter;66;F;Calle Morelos 56
+583;Cindy;32;F;Calle Juárez 45
+584;Louis;68;M;Calle Allende 34
+585;Joseph;46;F;Av. López Mateos 900
+586;Carmen;65;M;Av. Insurgentes 678
+587;James;31;M;Calle Juárez 45
+588;James;60;F;Calle Allende 34
+589;Peter;47;M;Calle Morelos 56
+590;Michael;65;M;Calle Zaragoza 12
+591;James;42;F;Calle Zaragoza 12
+592;Joseph;47;F;Calle Hidalgo 89
+593;Cindy;19;F;Av. Madero 777
+594;Karen;63;M;Av. Universidad 321
+595;Carmen;70;M;Av. Universidad 321
+596;Louis;44;M;Av. López Mateos 900
+597;James;45;F;Av. López Mateos 900
+598;Michael;62;F;Calle Hidalgo 89
+599;Louis;46;M;Av. López Mateos 900
+600;Carmen;49;M;Av. Universidad 321
+601;Carmen;30;M;Calle Juárez 45
+602;Peter;38;F;Av. Madero 777
+603;Michael;37;M;Av. Insurgentes 678
+604;Louis;46;F;Av. Insurgentes 678
+605;Carmen;31;F;Av. Universidad 321
+606;Carmen;54;M;Calle Allende 34
+607;Cindy;57;M;Av. Universidad 321
+608;Louis;20;M;Av. López Mateos 900
+609;Sofía;28;F;Calle Juárez 45
+610;Sofía;44;F;Av. Reforma 123
+611;Cindy;23;M;Av. Madero 777
+612;Sofía;29;M;Av. López Mateos 900
+613;Joseph;61;M;Av. López Mateos 900
+614;Michael;40;F;Calle Allende 34
+615;Carmen;68;F;Calle Allende 34
+616;Joseph;39;F;Calle Juárez 45
+617;Carmen;53;M;Av. Universidad 321
+618;Carmen;24;F;Calle Zaragoza 12
+619;Karen;29;F;Av. Insurgentes 678
+620;Marie;40;F;Av. Insurgentes 678
+621;Louis;64;F;Av. Reforma 123
+622;Carmen;27;F;Av. Reforma 123
+623;Marie;40;F;Av. Reforma 123
+624;Louis;58;F;Av. Insurgentes 678
+625;Cindy;39;F;Calle Morelos 56
+626;Marie;19;M;Calle Hidalgo 89
+627;Marie;58;M;Av. Reforma 123
+628;Michael;67;M;Av. Madero 777
+629;Louis;27;M;Av. Insurgentes 678
+630;Louis;66;M;Calle Zaragoza 12
+631;Sofía;24;F;Calle Hidalgo 89
+632;Karen;38;M;Av. Insurgentes 678
+633;Carmen;44;F;Av. Reforma 123
+634;Joseph;52;F;Calle Juárez 45
+635;James;26;F;Calle Morelos 56
+636;Peter;22;M;Calle Morelos 56
+637;James;58;F;Calle Allende 34
+638;Michael;18;M;Av. Reforma 123
+639;Sofía;51;M;Calle Hidalgo 89
+640;Carmen;69;F;Calle Allende 34
+641;Peter;46;F;Av. Universidad 321
+642;Joseph;49;F;Calle Hidalgo 89
+643;Louis;69;M;Av. Universidad 321
+644;Peter;19;F;Calle Hidalgo 89
+645;Louis;20;M;Av. Insurgentes 678
+646;James;52;M;Calle Zaragoza 12
+647;Peter;59;F;Calle Allende 34
+648;Karen;35;M;Calle Allende 34
+649;Joseph;19;M;Calle Allende 34
+650;Marie;24;M;Av. Universidad 321
+651;Peter;37;F;Av. Reforma 123
+652;James;32;M;Av. Universidad 321
+653;Marie;28;M;Calle Hidalgo 89
+654;Sofía;19;F;Av. Madero 777
+655;Carmen;22;F;Calle Zaragoza 12
+656;Marie;49;F;Av. Universidad 321
+657;Peter;42;F;Calle Zaragoza 12
+658;Louis;62;F;Calle Morelos 56
+659;Michael;59;M;Calle Juárez 45
+660;Sofía;64;M;Calle Morelos 56
+661;Michael;31;M;Av. Madero 777
+662;Louis;21;F;Calle Zaragoza 12
+663;James;18;F;Calle Zaragoza 12
+664;Karen;39;M;Av. López Mateos 900
+665;Carmen;43;F;Calle Zaragoza 12
+666;Joseph;52;F;Calle Morelos 56
+667;Joseph;55;M;Calle Hidalgo 89
+668;Michael;28;F;Av. Universidad 321
+669;Joseph;21;F;Av. Insurgentes 678
+670;Carmen;41;F;Av. López Mateos 900
+671;James;44;M;Av. Universidad 321
+672;Joseph;67;M;Av. Insurgentes 678
+673;Marie;50;F;Calle Zaragoza 12
+674;Sofía;31;M;Calle Morelos 56
+675;Carmen;24;M;Av. Madero 777
+676;Michael;48;F;Av. Reforma 123
+677;Carmen;31;F;Calle Hidalgo 89
+678;Carmen;50;M;Calle Morelos 56
+679;Sofía;18;F;Av. Insurgentes 678
+680;Peter;55;F;Av. Insurgentes 678
+681;Louis;39;F;Calle Zaragoza 12
+682;Karen;64;M;Calle Allende 34
+683;Michael;67;M;Av. López Mateos 900
+684;Louis;22;M;Calle Allende 34
+685;Joseph;19;M;Av. Universidad 321
+686;Sofía;30;M;Calle Allende 34
+687;Carmen;65;M;Av. Insurgentes 678
+688;Louis;30;F;Calle Zaragoza 12
+689;Joseph;29;F;Calle Hidalgo 89
+690;Joseph;50;M;Av. Insurgentes 678
+691;Joseph;28;M;Av. Insurgentes 678
+692;Peter;58;M;Calle Juárez 45
+693;Marie;22;F;Av. Insurgentes 678
+694;Carmen;52;F;Calle Hidalgo 89
+695;Karen;30;M;Calle Allende 34
+696;Louis;50;F;Av. Universidad 321
+697;Louis;20;F;Calle Juárez 45
+698;Michael;44;M;Av. Insurgentes 678
+699;Joseph;45;M;Av. Reforma 123
+700;Karen;51;M;Calle Zaragoza 12
+701;Sofía;36;F;Av. Insurgentes 678
+702;Carmen;34;F;Calle Morelos 56
+703;Louis;49;M;Calle Hidalgo 89
+704;James;32;M;Calle Juárez 45
+705;Louis;70;M;Av. López Mateos 900
+706;Marie;60;F;Av. López Mateos 900
+707;James;41;M;Av. Universidad 321
+708;James;39;M;Av. Reforma 123
+709;Joseph;36;F;Av. Insurgentes 678
+710;Karen;50;F;Calle Morelos 56
+711;Marie;48;M;Calle Allende 34
+712;Cindy;43;M;Av. Insurgentes 678
+713;Joseph;23;F;Calle Allende 34
+714;Michael;60;F;Av. López Mateos 900
+715;Sofía;30;M;Av. López Mateos 900
+716;Sofía;40;F;Calle Morelos 56
+717;Karen;49;F;Calle Allende 34
+718;Joseph;39;M;Av. López Mateos 900
+719;Michael;35;M;Av. Insurgentes 678
+720;Cindy;22;M;Calle Morelos 56
+721;Michael;18;M;Calle Morelos 56
+722;Michael;29;F;Av. Reforma 123
+723;Michael;49;F;Calle Allende 34
+724;Marie;24;F;Av. Madero 777
+725;Joseph;68;F;Av. Universidad 321
+726;Michael;31;M;Calle Allende 34
+727;Cindy;63;F;Av. Universidad 321
+728;Carmen;27;F;Calle Hidalgo 89
+729;Louis;62;M;Av. López Mateos 900
+730;Cindy;63;M;Calle Allende 34
+731;Sofía;33;F;Calle Zaragoza 12
+732;Peter;18;F;Calle Morelos 56
+733;Michael;24;F;Av. Universidad 321
+734;Peter;58;F;Av. López Mateos 900
+735;Louis;42;M;Av. Insurgentes 678
+736;Karen;46;M;Calle Hidalgo 89
+737;Sofía;63;M;Av. Insurgentes 678
+738;Cindy;20;M;Calle Zaragoza 12
+739;Karen;25;M;Av. Reforma 123
+740;Karen;28;M;Av. Reforma 123
+741;Peter;33;F;Av. Reforma 123
+742;Peter;36;F;Av. Madero 777
+743;Carmen;18;M;Av. Reforma 123
+744;Sofía;31;M;Av. Madero 777
+745;Joseph;59;M;Av. Reforma 123
+746;Marie;35;M;Calle Hidalgo 89
+747;James;31;M;Av. Insurgentes 678
+748;Carmen;42;M;Calle Juárez 45
+749;Karen;59;M;Calle Hidalgo 89
+750;James;28;M;Calle Allende 34
+751;Louis;53;M;Calle Juárez 45
+752;Joseph;70;M;Calle Zaragoza 12
+753;Sofía;30;M;Av. Insurgentes 678
+754;Michael;18;M;Av. Insurgentes 678
+755;Cindy;30;M;Calle Allende 34
+756;Marie;68;M;Calle Juárez 45
+757;Michael;36;F;Av. Insurgentes 678
+758;Joseph;56;M;Av. Universidad 321
+759;Marie;40;M;Av. Reforma 123
+760;Sofía;35;F;Calle Hidalgo 89
+761;Carmen;61;F;Calle Juárez 45
+762;Joseph;18;M;Av. Reforma 123
+763;Sofía;63;F;Av. Reforma 123
+764;Carmen;24;M;Calle Hidalgo 89
+765;Peter;63;F;Calle Hidalgo 89
+766;Peter;33;M;Calle Zaragoza 12
+767;Louis;19;F;Calle Hidalgo 89
+768;James;54;F;Calle Juárez 45
+769;Marie;40;M;Av. Reforma 123
+770;Louis;36;M;Calle Zaragoza 12
+771;Marie;42;F;Av. Universidad 321
+772;Cindy;37;M;Av. Reforma 123
+773;Karen;47;F;Calle Allende 34
+774;Joseph;46;M;Calle Juárez 45
+775;Peter;57;M;Calle Juárez 45
+776;Cindy;57;M;Av. López Mateos 900
+777;Peter;58;M;Calle Morelos 56
+778;Cindy;40;M;Av. Madero 777
+779;James;19;F;Calle Hidalgo 89
+780;Karen;43;M;Av. Universidad 321
+781;Michael;34;F;Calle Allende 34
+782;Michael;41;F;Calle Allende 34
+783;Michael;27;M;Calle Juárez 45
+784;Sofía;25;F;Av. Insurgentes 678
+785;Sofía;39;F;Calle Zaragoza 12
+786;Karen;41;M;Calle Hidalgo 89
+787;Michael;20;M;Av. Universidad 321
+788;Cindy;65;F;Calle Juárez 45
+789;Louis;19;F;Av. Madero 777
+790;Peter;25;F;Calle Allende 34
+791;Sofía;23;M;Av. Madero 777
+792;Sofía;26;M;Calle Hidalgo 89
+793;Peter;25;F;Calle Hidalgo 89
+794;Joseph;24;F;Av. López Mateos 900
+795;Marie;69;F;Av. Madero 777
+796;Michael;32;M;Calle Morelos 56
+797;Cindy;64;M;Av. Insurgentes 678
+798;Carmen;57;F;Calle Juárez 45
+799;James;32;M;Calle Juárez 45
+800;Cindy;27;M;Calle Zaragoza 12
+801;Louis;19;F;Av. Reforma 123
+802;Louis;54;M;Calle Allende 34
+803;Joseph;38;F;Av. López Mateos 900
+804;Karen;50;M;Calle Hidalgo 89
+805;Peter;50;F;Av. Reforma 123
+806;Cindy;57;M;Calle Allende 34
+807;Joseph;69;F;Calle Allende 34
+808;Cindy;25;M;Av. López Mateos 900
+809;Carmen;61;M;Calle Hidalgo 89
+810;Peter;50;M;Calle Zaragoza 12
+811;James;48;F;Calle Juárez 45
+812;Karen;20;F;Av. Insurgentes 678
+813;Louis;40;F;Calle Hidalgo 89
+814;Karen;36;M;Calle Juárez 45
+815;Karen;48;F;Av. Reforma 123
+816;Marie;62;F;Av. Madero 777
+817;Peter;29;F;Calle Hidalgo 89
+818;Cindy;29;M;Av. Universidad 321
+819;Sofía;62;M;Av. López Mateos 900
+820;Joseph;61;F;Av. Insurgentes 678
+821;Peter;42;F;Calle Allende 34
+822;James;52;F;Av. Insurgentes 678
+823;Karen;57;F;Av. Reforma 123
+824;Sofía;69;M;Av. Universidad 321
+825;Karen;40;M;Av. Madero 777
+826;Joseph;23;M;Calle Juárez 45
+827;Sofía;56;M;Av. Insurgentes 678
+828;Sofía;53;F;Calle Hidalgo 89
+829;Joseph;45;M;Av. Insurgentes 678
+830;Sofía;39;M;Calle Morelos 56
+831;Sofía;19;F;Calle Hidalgo 89
+832;Joseph;69;F;Calle Morelos 56
+833;James;52;F;Calle Hidalgo 89
+834;Cindy;35;F;Av. Reforma 123
+835;James;28;M;Av. López Mateos 900
+836;James;59;F;Av. Universidad 321
+837;Carmen;67;F;Av. Universidad 321
+838;Michael;61;F;Calle Zaragoza 12
+839;Louis;61;M;Calle Hidalgo 89
+840;Joseph;35;F;Av. López Mateos 900
+841;Peter;40;F;Calle Morelos 56
+842;Michael;51;F;Av. López Mateos 900
+843;Karen;28;F;Calle Hidalgo 89
+844;Louis;63;F;Calle Allende 34
+845;James;66;F;Av. Madero 777
+846;James;51;M;Av. López Mateos 900
+847;Louis;67;M;Calle Hidalgo 89
+848;Peter;67;F;Calle Zaragoza 12
+849;Carmen;69;F;Calle Zaragoza 12
+850;Joseph;50;F;Calle Hidalgo 89
+851;Sofía;19;F;Av. Madero 777
+852;James;59;F;Av. López Mateos 900
+853;Marie;63;M;Av. Reforma 123
+854;Cindy;32;F;Av. Universidad 321
+855;Carmen;66;M;Av. Reforma 123
+856;Peter;37;F;Calle Zaragoza 12
+857;Joseph;31;M;Calle Morelos 56
+858;Carmen;41;M;Av. Insurgentes 678
+859;Marie;56;F;Calle Morelos 56
+860;Peter;27;M;Av. Insurgentes 678
+861;James;18;M;Calle Juárez 45
+862;Cindy;47;F;Av. Insurgentes 678
+863;James;42;M;Calle Hidalgo 89
+864;Sofía;49;F;Calle Morelos 56
+865;Carmen;65;M;Av. Insurgentes 678
+866;Michael;61;M;Calle Zaragoza 12
+867;Sofía;66;M;Av. Madero 777
+868;Louis;46;M;Av. Reforma 123
+869;Louis;29;M;Calle Zaragoza 12
+870;James;70;F;Calle Hidalgo 89
+871;Sofía;34;M;Calle Morelos 56
+872;Louis;67;F;Av. Insurgentes 678
+873;Cindy;70;F;Av. Reforma 123
+874;Joseph;19;M;Av. López Mateos 900
+875;Cindy;39;F;Calle Morelos 56
+876;Carmen;54;F;Av. Insurgentes 678
+877;Sofía;52;M;Calle Morelos 56
+878;Karen;32;F;Calle Zaragoza 12
+879;Louis;37;F;Calle Hidalgo 89
+880;Peter;33;F;Calle Morelos 56
+881;Louis;50;F;Av. Madero 777
+882;Peter;61;F;Calle Hidalgo 89
+883;Sofía;51;M;Av. López Mateos 900
+884;Cindy;54;F;Av. López Mateos 900
+885;Peter;37;M;Calle Zaragoza 12
+886;Peter;20;M;Calle Allende 34
+887;Carmen;41;F;Av. Insurgentes 678
+888;Michael;21;M;Calle Hidalgo 89
+889;James;32;F;Calle Hidalgo 89
+890;Michael;51;M;Calle Zaragoza 12
+891;Cindy;61;M;Av. Reforma 123
+892;Louis;70;F;Calle Zaragoza 12
+893;Peter;26;M;Av. Madero 777
+894;James;18;F;Av. López Mateos 900
+895;James;39;M;Av. Reforma 123
+896;Marie;65;M;Calle Juárez 45
+897;James;54;F;Calle Juárez 45
+898;Sofía;28;M;Av. López Mateos 900
+899;Peter;44;M;Av. Madero 777
+900;Cindy;46;F;Av. Insurgentes 678
+901;Michael;45;F;Calle Zaragoza 12
+902;Cindy;25;F;Av. López Mateos 900
+903;James;29;F;Calle Morelos 56
+904;Peter;45;M;Calle Juárez 45
+905;Cindy;46;F;Av. Reforma 123
+906;Michael;41;M;Calle Hidalgo 89
+907;Peter;29;M;Calle Zaragoza 12
+908;Joseph;45;F;Av. Madero 777
+909;Louis;53;M;Calle Morelos 56
+910;Peter;36;M;Calle Allende 34
+911;Michael;27;M;Calle Hidalgo 89
+912;Carmen;67;F;Av. Madero 777
+913;Marie;47;F;Av. López Mateos 900
+914;James;56;M;Calle Allende 34
+915;James;25;M;Av. López Mateos 900
+916;Michael;63;F;Av. Reforma 123
+917;Karen;49;M;Av. Insurgentes 678
+918;Marie;53;F;Av. Insurgentes 678
+919;Michael;56;F;Av. Madero 777
+920;Sofía;29;F;Av. Universidad 321
+921;Sofía;54;F;Av. Insurgentes 678
+922;Michael;57;F;Av. Reforma 123
+923;Sofía;20;M;Av. Insurgentes 678
+924;Karen;40;F;Calle Hidalgo 89
+925;Cindy;52;F;Calle Morelos 56
+926;Joseph;55;M;Av. López Mateos 900
+927;James;25;M;Av. López Mateos 900
+928;Peter;69;F;Calle Juárez 45
+929;Marie;37;M;Calle Hidalgo 89
+930;James;38;M;Calle Hidalgo 89
+931;Karen;35;M;Av. Universidad 321
+932;Michael;29;M;Calle Hidalgo 89
+933;Louis;37;M;Av. López Mateos 900
+934;Cindy;41;M;Calle Morelos 56
+935;Louis;18;M;Av. Madero 777
+936;Michael;64;F;Av. López Mateos 900
+937;Peter;61;M;Calle Juárez 45
+938;Michael;45;F;Av. Reforma 123
+939;Joseph;23;F;Av. Reforma 123
+940;Michael;54;M;Calle Juárez 45
+941;Carmen;63;M;Av. Reforma 123
+942;Carmen;24;M;Av. Insurgentes 678
+943;Louis;52;F;Av. Madero 777
+944;Sofía;31;M;Calle Juárez 45
+945;Peter;33;M;Calle Juárez 45
+946;James;57;F;Calle Zaragoza 12
+947;Sofía;39;F;Calle Allende 34
+948;Cindy;29;M;Av. Madero 777
+949;Michael;21;M;Calle Allende 34
+950;Louis;50;F;Calle Zaragoza 12
+951;Cindy;58;M;Calle Morelos 56
+952;Karen;18;M;Calle Allende 34
+953;Marie;25;F;Av. Universidad 321
+954;Marie;29;M;Calle Juárez 45
+955;Louis;50;F;Av. López Mateos 900
+956;Carmen;65;F;Calle Allende 34
+957;Louis;30;M;Av. Universidad 321
+958;James;46;M;Calle Hidalgo 89
+959;James;45;F;Av. Insurgentes 678
+960;Cindy;70;F;Av. López Mateos 900
+961;Sofía;27;M;Calle Morelos 56
+962;James;40;M;Calle Hidalgo 89
+963;Sofía;70;M;Calle Morelos 56
+964;Michael;64;M;Calle Allende 34
+965;Cindy;29;F;Calle Zaragoza 12
+966;Michael;63;F;Calle Juárez 45
+967;Karen;60;F;Av. Reforma 123
+968;Karen;55;M;Calle Allende 34
+969;Marie;36;M;Av. Insurgentes 678
+970;James;23;F;Calle Zaragoza 12
+971;Louis;28;F;Av. Universidad 321
+972;James;42;F;Av. Madero 777
+973;James;63;F;Calle Allende 34
+974;Michael;46;M;Av. Universidad 321
+975;Michael;70;F;Calle Hidalgo 89
+976;Louis;45;M;Av. Universidad 321
+977;Louis;41;M;Calle Allende 34
+978;Carmen;27;M;Av. Universidad 321
+979;Karen;57;F;Av. Insurgentes 678
+980;Marie;65;F;Av. Reforma 123
+981;Cindy;22;F;Calle Zaragoza 12
+982;Cindy;52;F;Calle Allende 34
+983;Carmen;32;F;Av. Madero 777
+984;Joseph;69;F;Av. Madero 777
+985;Louis;60;F;Calle Juárez 45
+986;Sofía;44;F;Av. López Mateos 900
+987;Michael;49;F;Av. López Mateos 900
+988;Michael;45;M;Calle Juárez 45
+989;Sofía;18;F;Av. Insurgentes 678
+990;Joseph;47;F;Calle Morelos 56
+991;Carmen;39;F;Calle Juárez 45
+992;Carmen;59;F;Av. Madero 777
+993;Peter;65;M;Av. Insurgentes 678
+994;Marie;68;M;Calle Juárez 45
+995;Karen;60;M;Calle Zaragoza 12
+996;Louis;70;M;Av. López Mateos 900
+997;Karen;35;F;Calle Allende 34
+998;Carmen;18;M;Av. Insurgentes 678
+999;Karen;64;F;Calle Zaragoza 12
+1000;James;22;F;Av. Madero 777
+1001;Joseph;18;F;Av. Madero 777
+1002;James;20;F;Av. Universidad 321
+1003;Michael;50;M;Calle Hidalgo 89
+1004;James;31;M;Av. Madero 777
+1005;Louis;43;F;Calle Morelos 56
+1006;Peter;61;F;Calle Morelos 56
+1007;Louis;44;M;Av. López Mateos 900
+1008;Michael;59;M;Av. Universidad 321
+1009;Marie;29;F;Calle Zaragoza 12
+1010;Michael;45;M;Calle Hidalgo 89
+1011;Cindy;70;M;Av. López Mateos 900
+1012;Peter;62;M;Calle Hidalgo 89
+1013;James;32;F;Calle Juárez 45
+1014;Peter;62;M;Av. López Mateos 900
+1015;Carmen;32;M;Av. Madero 777
+1016;Sofía;61;F;Calle Hidalgo 89
+1017;Joseph;48;F;Av. Insurgentes 678
+1018;Joseph;30;F;Calle Zaragoza 12
+1019;Marie;21;F;Av. Insurgentes 678
+1020;Michael;46;F;Calle Allende 34
+1021;Michael;62;M;Av. Universidad 321
+1022;Michael;29;M;Calle Allende 34
+1023;Peter;19;M;Av. Insurgentes 678
+1024;James;62;F;Calle Zaragoza 12
+1025;Cindy;18;F;Calle Zaragoza 12
+1026;Carmen;38;M;Calle Morelos 56
+1027;Peter;35;M;Av. Madero 777
+1028;Karen;27;M;Calle Hidalgo 89
+1029;Karen;20;F;Calle Allende 34
+1030;Karen;34;F;Av. Madero 777
+1031;Karen;55;M;Calle Morelos 56
+1032;Joseph;57;F;Calle Allende 34
+1033;Karen;23;F;Av. Universidad 321
+1034;Michael;58;F;Calle Zaragoza 12
+1035;Louis;40;F;Av. Reforma 123
+1036;Michael;32;M;Av. López Mateos 900
+1037;Peter;68;F;Calle Hidalgo 89
+1038;Carmen;43;M;Av. Universidad 321
+1039;Joseph;59;M;Calle Juárez 45
+1040;Cindy;41;F;Calle Zaragoza 12
+1041;Marie;26;M;Av. Insurgentes 678
+1042;Cindy;48;M;Calle Hidalgo 89
+1043;Louis;29;M;Av. Madero 777
+1044;Sofía;21;M;Av. Insurgentes 678
+1045;Cindy;61;F;Calle Allende 34
+1046;James;58;F;Calle Allende 34
+1047;Louis;60;F;Calle Zaragoza 12
+1048;Joseph;26;M;Av. Universidad 321
+1049;Peter;65;F;Calle Juárez 45
+1050;James;41;M;Calle Allende 34
+1051;Carmen;35;M;Av. Insurgentes 678
+1052;Karen;61;M;Calle Morelos 56
+1053;James;54;M;Av. Insurgentes 678
+1054;Karen;50;M;Calle Allende 34
+1055;Marie;41;M;Calle Zaragoza 12
+1056;Marie;57;F;Av. López Mateos 900
+1057;Carmen;26;M;Av. Universidad 321
+1058;James;56;F;Av. Reforma 123
+1059;Carmen;28;F;Calle Juárez 45
+1060;Sofía;46;F;Calle Hidalgo 89
+1061;Cindy;34;M;Calle Hidalgo 89
+1062;Sofía;40;M;Av. López Mateos 900
+1063;James;63;F;Av. Universidad 321
+1064;Sofía;54;F;Av. Madero 777
+1065;Peter;19;F;Av. Universidad 321
+1066;Michael;32;F;Calle Morelos 56
+1067;Carmen;64;F;Av. Reforma 123
+1068;Michael;29;M;Calle Hidalgo 89
+1069;Carmen;24;F;Calle Juárez 45
+1070;James;40;M;Av. Insurgentes 678
+1071;Cindy;25;F;Av. López Mateos 900
+1072;Marie;37;M;Calle Hidalgo 89
+1073;Sofía;68;F;Av. Universidad 321
+1074;Carmen;57;F;Av. López Mateos 900
+1075;Joseph;26;F;Calle Zaragoza 12
+1076;Carmen;66;F;Calle Hidalgo 89
+1077;Louis;31;M;Calle Hidalgo 89
+1078;Sofía;36;F;Calle Juárez 45
+1079;Joseph;33;F;Av. López Mateos 900
+1080;Karen;56;F;Calle Hidalgo 89
+1081;Peter;55;F;Av. López Mateos 900
+1082;Marie;25;M;Calle Allende 34
+1083;Peter;38;F;Calle Morelos 56
+1084;Joseph;68;F;Calle Hidalgo 89
+1085;Karen;42;M;Av. Universidad 321
+1086;Louis;58;F;Calle Allende 34
+1087;Joseph;21;F;Calle Allende 34
+1088;Sofía;36;F;Av. Insurgentes 678
+1089;James;29;M;Av. Reforma 123
+1090;Karen;63;M;Av. Madero 777
+1091;Carmen;35;F;Calle Juárez 45
+1092;Carmen;46;F;Calle Juárez 45
+1093;Carmen;51;F;Calle Juárez 45
+1094;Michael;50;M;Calle Hidalgo 89
+1095;James;35;F;Calle Morelos 56
+1096;Marie;53;F;Av. Universidad 321
+1097;Louis;39;M;Av. López Mateos 900
+1098;Michael;28;M;Av. Madero 777
+1099;Marie;19;M;Av. López Mateos 900
+1100;Marie;45;M;Calle Juárez 45
+1101;Sofía;26;F;Calle Morelos 56
+1102;Joseph;51;F;Calle Allende 34
+1103;Sofía;25;F;Av. López Mateos 900
+1104;Marie;70;F;Av. Insurgentes 678
+1105;Cindy;32;M;Av. López Mateos 900
+1106;Michael;67;F;Av. Reforma 123
+1107;Marie;25;M;Calle Juárez 45
+1108;Karen;19;F;Av. López Mateos 900
+1109;Karen;21;M;Calle Morelos 56
+1110;Carmen;31;M;Av. Reforma 123
+1111;Michael;23;M;Av. Madero 777
+1112;Joseph;58;F;Calle Juárez 45
+1113;Cindy;63;M;Calle Allende 34
+1114;Joseph;33;M;Av. Universidad 321
+1115;Carmen;30;F;Calle Zaragoza 12
+1116;James;48;M;Calle Morelos 56
+1117;Sofía;65;M;Calle Allende 34
+1118;Louis;27;M;Calle Juárez 45
+1119;Sofía;19;M;Calle Zaragoza 12
+1120;Peter;53;M;Av. Insurgentes 678
+1121;Peter;50;F;Calle Juárez 45
+1122;Peter;56;F;Calle Zaragoza 12
+1123;Sofía;23;F;Av. López Mateos 900
+1124;Marie;38;F;Calle Juárez 45
+1125;James;50;M;Av. Insurgentes 678
+1126;Carmen;45;M;Calle Hidalgo 89
+1127;Michael;19;M;Av. Madero 777
+1128;Cindy;58;M;Av. Madero 777
+1129;Louis;59;M;Calle Morelos 56
+1130;Carmen;40;F;Calle Zaragoza 12
+1131;Louis;30;F;Av. López Mateos 900
+1132;Peter;61;F;Av. López Mateos 900
+1133;Peter;37;M;Av. Reforma 123
+1134;Carmen;64;M;Av. Madero 777
+1135;Peter;54;F;Av. Madero 777
+1136;Carmen;64;M;Calle Hidalgo 89
+1137;Marie;35;M;Av. López Mateos 900
+1138;Michael;47;M;Calle Juárez 45
+1139;Sofía;70;M;Calle Allende 34
+1140;Sofía;32;M;Calle Juárez 45
+1141;Sofía;70;F;Calle Allende 34
+1142;Karen;34;M;Calle Allende 34
+1143;Michael;27;M;Calle Juárez 45
+1144;Carmen;27;F;Calle Hidalgo 89
+1145;Peter;53;F;Calle Allende 34
+1146;Cindy;31;M;Calle Morelos 56
+1147;Marie;70;F;Calle Morelos 56
+1148;Peter;34;M;Calle Juárez 45
+1149;Louis;21;F;Calle Juárez 45
+1150;James;18;M;Calle Hidalgo 89
+1151;Joseph;63;F;Calle Hidalgo 89
+1152;Carmen;60;F;Av. Universidad 321
+1153;James;33;M;Av. Universidad 321
+1154;Louis;46;M;Calle Hidalgo 89
+1155;Louis;51;M;Calle Morelos 56
+1156;Carmen;34;M;Calle Morelos 56
+1157;James;38;M;Calle Hidalgo 89
+1158;James;59;M;Av. López Mateos 900
+1159;Peter;46;F;Av. Madero 777
+1160;James;26;M;Av. Reforma 123
+1161;Marie;61;M;Calle Zaragoza 12
+1162;Peter;55;M;Calle Morelos 56
+1163;Michael;60;M;Av. Reforma 123
+1164;Peter;21;F;Av. Reforma 123
+1165;Carmen;41;F;Calle Juárez 45
+1166;Cindy;19;M;Calle Allende 34
+1167;Michael;67;M;Calle Zaragoza 12
+1168;Karen;46;M;Av. López Mateos 900
+1169;James;20;M;Calle Juárez 45
+1170;Peter;43;F;Calle Allende 34
+1171;James;69;F;Av. Madero 777
+1172;Michael;51;F;Av. Reforma 123
+1173;Sofía;40;F;Av. Insurgentes 678
+1174;Michael;46;F;Av. Reforma 123
+1175;Marie;20;M;Calle Morelos 56
+1176;Joseph;22;F;Calle Hidalgo 89
+1177;Sofía;61;M;Av. Insurgentes 678
+1178;Cindy;34;F;Calle Morelos 56
+1179;Joseph;38;F;Calle Hidalgo 89
+1180;James;23;M;Av. Insurgentes 678
+1181;Michael;51;M;Av. Universidad 321
+1182;Michael;43;M;Calle Zaragoza 12
+1183;Joseph;43;M;Calle Allende 34
+1184;Karen;21;F;Av. Universidad 321
+1185;Michael;25;M;Av. Reforma 123
+1186;Louis;50;F;Av. Madero 777
+1187;Joseph;30;F;Calle Zaragoza 12
+1188;Michael;36;M;Av. López Mateos 900
+1189;Cindy;65;F;Av. Insurgentes 678
+1190;Joseph;57;M;Av. Reforma 123
+1191;Carmen;22;M;Calle Zaragoza 12
+1192;Sofía;45;M;Av. Universidad 321
+1193;Cindy;25;F;Av. Reforma 123
+1194;Peter;27;F;Calle Hidalgo 89
+1195;Marie;66;F;Calle Zaragoza 12
+1196;Joseph;35;M;Calle Zaragoza 12
+1197;Peter;18;M;Av. López Mateos 900
+1198;Peter;28;M;Av. Universidad 321
+1199;Michael;49;F;Calle Juárez 45
+1200;Peter;68;M;Av. Madero 777
+1201;James;48;M;Av. Universidad 321
+1202;Karen;58;M;Av. Reforma 123
+1203;Peter;52;F;Av. Universidad 321
+1204;James;56;F;Calle Allende 34
+1205;Karen;70;M;Av. Reforma 123
+1206;James;65;M;Calle Morelos 56
+1207;Cindy;23;F;Av. López Mateos 900
+1208;Karen;18;M;Av. López Mateos 900
+1209;Joseph;59;F;Av. Madero 777
+1210;Louis;39;F;Calle Zaragoza 12
+1211;Peter;40;M;Av. Insurgentes 678
+1212;Joseph;60;F;Calle Allende 34
+1213;Karen;40;F;Calle Allende 34
+1214;Louis;69;F;Av. López Mateos 900
+1215;Louis;23;F;Calle Zaragoza 12
+1216;James;34;F;Calle Hidalgo 89
+1217;James;32;M;Calle Hidalgo 89
+1218;Peter;64;M;Calle Juárez 45
+1219;Sofía;47;F;Calle Zaragoza 12
+1220;Peter;65;M;Av. Reforma 123
+1221;Cindy;19;M;Calle Allende 34
+1222;Karen;30;F;Av. López Mateos 900
+1223;Marie;46;M;Calle Juárez 45
+1224;Louis;49;M;Av. Reforma 123
+1225;Michael;18;M;Calle Morelos 56
+1226;Carmen;46;F;Calle Juárez 45
+1227;Carmen;49;F;Av. López Mateos 900
+1228;Michael;49;F;Calle Hidalgo 89
+1229;Marie;67;F;Av. Insurgentes 678
+1230;Marie;60;M;Av. Insurgentes 678
+1231;James;64;M;Av. López Mateos 900
+1232;Louis;19;M;Calle Allende 34
+1233;Karen;26;M;Av. Madero 777
+1234;Louis;63;M;Av. López Mateos 900
+1235;Sofía;48;M;Calle Hidalgo 89
+1236;Carmen;29;M;Av. Insurgentes 678
+1237;Cindy;50;M;Calle Zaragoza 12
+1238;Cindy;36;F;Calle Hidalgo 89
+1239;James;56;M;Calle Morelos 56
+1240;Peter;24;M;Av. López Mateos 900
+1241;Michael;48;M;Av. Madero 777
+1242;Carmen;27;F;Calle Hidalgo 89
+1243;Karen;46;M;Av. Insurgentes 678
+1244;Joseph;38;F;Calle Juárez 45
+1245;Michael;23;M;Calle Juárez 45
+1246;Marie;47;F;Av. López Mateos 900
+1247;Karen;37;M;Av. Insurgentes 678
+1248;Karen;58;F;Calle Morelos 56
+1249;Cindy;28;F;Calle Zaragoza 12
+1250;Peter;28;M;Av. Universidad 321
+1251;Cindy;20;F;Av. Insurgentes 678
+1252;Michael;69;M;Calle Zaragoza 12
+1253;Sofía;53;M;Calle Zaragoza 12
+1254;Michael;55;F;Av. Universidad 321
+1255;Joseph;27;F;Av. Universidad 321
+1256;Louis;31;F;Av. Madero 777
+1257;James;37;M;Av. Insurgentes 678
+1258;Peter;32;F;Calle Allende 34
+1259;Louis;21;F;Av. López Mateos 900
+1260;James;34;M;Calle Morelos 56
+1261;Cindy;33;M;Av. Insurgentes 678
+1262;Marie;55;F;Av. Madero 777
+1263;Karen;33;M;Calle Morelos 56
+1264;Sofía;36;F;Av. Insurgentes 678
+1265;Louis;58;M;Calle Allende 34
+1266;Carmen;54;F;Av. Universidad 321
+1267;Marie;65;F;Av. Reforma 123
+1268;Michael;26;M;Calle Juárez 45
+1269;Joseph;33;F;Calle Hidalgo 89
+1270;Peter;70;M;Calle Hidalgo 89
+1271;James;40;M;Calle Zaragoza 12
+1272;Joseph;29;F;Calle Hidalgo 89
+1273;Louis;57;M;Calle Juárez 45
+1274;Michael;42;M;Calle Zaragoza 12
+1275;Cindy;65;M;Calle Zaragoza 12
+1276;Peter;43;F;Av. López Mateos 900
+1277;Michael;31;F;Av. López Mateos 900
+1278;Carmen;28;F;Av. Universidad 321
+1279;Peter;55;M;Av. Reforma 123
+1280;Peter;56;M;Calle Zaragoza 12
+1281;Peter;26;F;Av. Universidad 321
+1282;Louis;23;M;Calle Zaragoza 12
+1283;Joseph;68;F;Av. Reforma 123
+1284;Marie;36;F;Calle Hidalgo 89
+1285;Karen;65;M;Calle Zaragoza 12
+1286;Marie;63;M;Av. Madero 777
+1287;Carmen;36;F;Av. Madero 777
+1288;Carmen;24;M;Av. Insurgentes 678
+1289;Carmen;56;M;Av. Reforma 123
+1290;Sofía;20;F;Calle Morelos 56
+1291;Cindy;37;F;Calle Morelos 56
+1292;Carmen;42;F;Av. Universidad 321
+1293;Louis;44;F;Av. Reforma 123
+1294;Karen;48;F;Calle Juárez 45
+1295;Peter;52;M;Av. Universidad 321
+1296;Cindy;60;M;Calle Zaragoza 12
+1297;Carmen;47;F;Calle Zaragoza 12
+1298;Sofía;67;M;Calle Morelos 56
+1299;Sofía;37;F;Av. Reforma 123
+1300;James;43;M;Calle Allende 34
+1301;Marie;32;M;Calle Morelos 56
+1302;Karen;52;F;Calle Morelos 56
+1303;Joseph;24;M;Av. Reforma 123
+1304;Karen;47;F;Calle Morelos 56
+1305;Carmen;43;M;Av. Madero 777
+1306;James;66;M;Calle Morelos 56
+1307;James;41;M;Av. Madero 777
+1308;James;52;F;Av. Madero 777
+1309;Marie;53;F;Calle Hidalgo 89
+1310;Michael;36;F;Av. Madero 777
+1311;Karen;56;F;Av. Insurgentes 678
+1312;Louis;69;F;Av. Insurgentes 678
+1313;James;38;F;Calle Allende 34
+1314;Sofía;21;M;Av. Madero 777
+1315;Sofía;51;F;Av. Reforma 123
+1316;Joseph;35;F;Calle Hidalgo 89
+1317;Sofía;60;F;Av. Madero 777
+1318;Michael;61;M;Av. Reforma 123
+1319;Louis;24;M;Av. Reforma 123
+1320;James;37;M;Calle Hidalgo 89
+1321;Marie;50;F;Calle Morelos 56
+1322;Michael;28;M;Av. Universidad 321
+1323;Peter;18;F;Av. Insurgentes 678
+1324;James;19;M;Av. Universidad 321
+1325;Michael;31;M;Av. Universidad 321
+1326;Joseph;36;F;Av. López Mateos 900
+1327;Peter;32;M;Calle Zaragoza 12
+1328;Peter;57;F;Av. López Mateos 900
+1329;Sofía;69;M;Calle Hidalgo 89
+1330;Karen;29;F;Av. Universidad 321
+1331;Marie;20;M;Av. Reforma 123
+1332;Karen;53;M;Calle Juárez 45
+1333;Louis;50;M;Calle Hidalgo 89
+1334;Peter;39;F;Av. Reforma 123
+1335;Carmen;53;M;Av. Insurgentes 678
+1336;Cindy;48;F;Calle Zaragoza 12
+1337;Cindy;63;M;Calle Morelos 56
+1338;Peter;53;F;Av. Insurgentes 678
+1339;Louis;34;F;Av. López Mateos 900
+1340;Peter;46;F;Calle Zaragoza 12
+1341;James;35;M;Calle Allende 34
+1342;Karen;28;F;Av. Insurgentes 678
+1343;Sofía;38;M;Av. López Mateos 900
+1344;Joseph;41;F;Calle Allende 34
+1345;James;29;F;Av. López Mateos 900
+1346;Marie;53;M;Av. López Mateos 900
+1347;Sofía;42;F;Calle Zaragoza 12
+1348;Cindy;59;M;Calle Morelos 56
+1349;Joseph;69;M;Calle Morelos 56
+1350;Karen;50;F;Calle Morelos 56
+1351;Marie;54;F;Av. López Mateos 900
+1352;James;31;F;Av. Reforma 123
+1353;Louis;64;M;Calle Hidalgo 89
+1354;James;36;F;Av. Madero 777
+1355;Karen;70;F;Av. Insurgentes 678
+1356;Karen;49;F;Av. Reforma 123
+1357;James;31;M;Calle Juárez 45
+1358;Peter;53;M;Calle Morelos 56
+1359;Marie;22;M;Calle Juárez 45
+1360;Cindy;64;M;Av. Reforma 123
+1361;Peter;57;F;Av. Madero 777
+1362;Joseph;38;M;Av. Madero 777
+1363;Peter;56;F;Av. López Mateos 900
+1364;Michael;18;F;Av. López Mateos 900
+1365;Cindy;20;F;Calle Juárez 45
+1366;Joseph;47;F;Calle Juárez 45
+1367;Louis;58;F;Calle Juárez 45
+1368;Peter;60;F;Av. Insurgentes 678
+1369;Louis;31;M;Av. Madero 777
+1370;Louis;27;M;Calle Morelos 56
+1371;Sofía;42;F;Calle Hidalgo 89
+1372;Karen;47;M;Calle Allende 34
+1373;Peter;70;M;Av. Insurgentes 678
+1374;James;66;M;Calle Morelos 56
+1375;Sofía;54;M;Av. Insurgentes 678
+1376;Carmen;63;F;Calle Allende 34
+1377;Marie;33;M;Calle Hidalgo 89
+1378;Peter;29;F;Av. Insurgentes 678
+1379;Louis;68;F;Calle Zaragoza 12
+1380;Michael;51;F;Calle Hidalgo 89
+1381;James;41;M;Av. López Mateos 900
+1382;Peter;39;M;Calle Morelos 56
+1383;Michael;50;M;Calle Morelos 56
+1384;Sofía;21;F;Calle Allende 34
+1385;Cindy;51;M;Av. López Mateos 900
+1386;Joseph;55;F;Calle Allende 34
+1387;Marie;47;F;Calle Juárez 45
+1388;Louis;24;F;Calle Juárez 45
+1389;Louis;63;F;Calle Juárez 45
+1390;Marie;65;F;Calle Allende 34
+1391;Peter;63;M;Av. Insurgentes 678
+1392;Sofía;57;M;Av. Universidad 321
+1393;Marie;36;M;Calle Morelos 56
+1394;Louis;37;M;Calle Juárez 45
+1395;Sofía;40;F;Av. López Mateos 900
+1396;Cindy;23;M;Av. Madero 777
+1397;Michael;39;F;Av. López Mateos 900
+1398;Joseph;18;F;Av. López Mateos 900
+1399;Marie;33;M;Calle Allende 34
+1400;Carmen;24;F;Av. Universidad 321
+1401;Michael;57;M;Av. Insurgentes 678
+1402;Cindy;58;F;Calle Hidalgo 89
+1403;Sofía;24;M;Calle Allende 34
+1404;Marie;42;F;Calle Hidalgo 89
+1405;Karen;47;F;Calle Juárez 45
+1406;Karen;26;F;Av. Madero 777
+1407;Karen;65;M;Calle Juárez 45
+1408;Michael;57;F;Av. Reforma 123
+1409;Sofía;37;F;Calle Allende 34
+1410;Michael;47;M;Av. Madero 777
+1411;Joseph;57;F;Av. Universidad 321
+1412;Peter;69;F;Calle Zaragoza 12
+1413;James;44;F;Av. López Mateos 900
+1414;Peter;58;M;Calle Juárez 45
+1415;Marie;69;M;Av. Insurgentes 678
+1416;Michael;31;M;Calle Zaragoza 12
+1417;Karen;27;F;Calle Morelos 56
+1418;Joseph;23;F;Calle Morelos 56
+1419;Peter;33;M;Calle Zaragoza 12
+1420;Marie;31;F;Calle Hidalgo 89
+1421;Carmen;65;F;Av. Reforma 123
+1422;Louis;51;M;Av. Madero 777
+1423;Joseph;22;F;Av. Universidad 321
+1424;Carmen;23;M;Av. López Mateos 900
+1425;Marie;46;F;Calle Morelos 56
+1426;Michael;56;M;Av. Madero 777
+1427;Joseph;56;M;Calle Juárez 45
+1428;Michael;49;F;Av. Insurgentes 678
+1429;Michael;57;M;Calle Juárez 45
+1430;Carmen;66;F;Av. Insurgentes 678
+1431;Michael;24;M;Calle Zaragoza 12
+1432;Carmen;44;F;Calle Morelos 56
+1433;Louis;44;M;Av. Insurgentes 678
+1434;Cindy;37;F;Calle Morelos 56
+1435;James;29;M;Calle Hidalgo 89
+1436;James;29;M;Av. Madero 777
+1437;Joseph;48;F;Calle Juárez 45
+1438;Karen;69;M;Av. Universidad 321
+1439;Marie;49;M;Av. López Mateos 900
+1440;Karen;70;F;Av. Madero 777
+1441;Cindy;24;M;Av. Reforma 123
+1442;Louis;64;F;Av. Insurgentes 678
+1443;Joseph;33;M;Av. López Mateos 900
+1444;Peter;44;F;Av. Reforma 123
+1445;Carmen;69;F;Av. Reforma 123
+1446;Michael;18;F;Av. Reforma 123
+1447;Joseph;50;M;Av. Reforma 123
+1448;Marie;63;F;Calle Morelos 56
+1449;James;68;F;Calle Morelos 56
+1450;Michael;54;M;Calle Zaragoza 12
+1451;Cindy;42;M;Calle Zaragoza 12
+1452;Carmen;28;F;Calle Allende 34
+1453;Sofía;45;M;Av. Universidad 321
+1454;Carmen;46;M;Calle Morelos 56
+1455;Marie;49;F;Calle Zaragoza 12
+1456;Karen;42;F;Calle Allende 34
+1457;James;30;M;Calle Morelos 56
+1458;Sofía;34;F;Calle Zaragoza 12
+1459;Karen;22;M;Av. López Mateos 900
+1460;Michael;42;M;Av. Insurgentes 678
+1461;Cindy;57;M;Av. Universidad 321
+1462;Carmen;57;F;Calle Morelos 56
+1463;Louis;27;F;Calle Morelos 56
+1464;Sofía;54;F;Calle Zaragoza 12
+1465;Joseph;66;M;Calle Morelos 56
+1466;Cindy;41;M;Av. López Mateos 900
+1467;Louis;49;M;Av. López Mateos 900
+1468;Louis;27;M;Calle Hidalgo 89
+1469;Michael;18;F;Av. Madero 777
+1470;Joseph;41;F;Av. Madero 777
+1471;Cindy;65;F;Av. Reforma 123
+1472;Joseph;55;M;Av. Reforma 123
+1473;Carmen;44;F;Calle Allende 34
+1474;Marie;56;F;Calle Allende 34
+1475;Carmen;52;F;Calle Allende 34
+1476;Sofía;58;M;Calle Allende 34
+1477;Karen;21;F;Calle Juárez 45
+1478;Joseph;19;F;Av. Universidad 321
+1479;Michael;49;M;Calle Zaragoza 12
+1480;Carmen;67;F;Calle Morelos 56
+1481;Carmen;39;F;Calle Morelos 56
+1482;Michael;53;F;Av. Reforma 123
+1483;Joseph;23;F;Av. Reforma 123
+1484;James;41;M;Av. López Mateos 900
+1485;Marie;55;M;Calle Hidalgo 89
+1486;Louis;54;M;Av. López Mateos 900
+1487;Sofía;19;F;Av. Reforma 123
+1488;Joseph;36;M;Calle Hidalgo 89
+1489;Joseph;36;F;Av. Universidad 321
+1490;Sofía;31;F;Calle Juárez 45
+1491;Cindy;20;M;Calle Zaragoza 12
+1492;Peter;44;M;Av. Reforma 123
+1493;Sofía;21;M;Calle Morelos 56
+1494;Michael;50;F;Calle Hidalgo 89
+1495;James;37;F;Av. Reforma 123
+1496;Joseph;36;F;Calle Allende 34
+1497;Peter;19;M;Calle Zaragoza 12
+1498;Peter;22;M;Av. Universidad 321
+1499;Joseph;66;F;Av. Insurgentes 678
+1500;Karen;25;M;Calle Allende 34
+1501;Sofía;69;M;Av. Madero 777
+1502;Marie;18;M;Av. Insurgentes 678
+1503;Joseph;59;F;Calle Morelos 56
+1504;Joseph;46;M;Av. López Mateos 900
+1505;Michael;61;M;Calle Juárez 45
+1506;Louis;40;F;Calle Juárez 45
+1507;Peter;61;M;Av. López Mateos 900
+1508;Marie;64;M;Av. Insurgentes 678
+1509;Cindy;56;F;Av. Madero 777
+1510;Sofía;69;F;Av. Madero 777
+1511;Karen;36;F;Calle Allende 34
+1512;Cindy;53;F;Av. Insurgentes 678
+1513;Louis;62;M;Calle Morelos 56
+1514;Karen;64;F;Calle Hidalgo 89
+1515;Louis;59;M;Av. Insurgentes 678
+1516;Carmen;37;F;Av. Insurgentes 678
+1517;Sofía;18;F;Calle Hidalgo 89
+1518;Peter;42;M;Calle Hidalgo 89
+1519;Cindy;53;M;Calle Juárez 45
+1520;Sofía;31;M;Av. López Mateos 900
+1521;Karen;31;M;Calle Allende 34
+1522;Marie;50;M;Calle Allende 34
+1523;Peter;19;F;Av. Madero 777
+1524;Cindy;37;M;Calle Zaragoza 12
+1525;Marie;24;M;Av. Insurgentes 678
+1526;Karen;25;M;Av. Insurgentes 678
+1527;Michael;63;F;Calle Hidalgo 89
+1528;Marie;35;M;Av. López Mateos 900
+1529;Joseph;18;F;Av. López Mateos 900
+1530;James;51;M;Av. Reforma 123
+1531;Peter;34;M;Av. Reforma 123
+1532;Joseph;38;M;Av. Reforma 123
+1533;James;64;F;Calle Morelos 56
+1534;Sofía;50;M;Av. Insurgentes 678
+1535;Carmen;33;F;Av. Universidad 321
+1536;Cindy;28;F;Av. Reforma 123
+1537;Louis;61;F;Av. López Mateos 900
+1538;Sofía;19;F;Av. Insurgentes 678
+1539;Carmen;49;M;Av. Madero 777
+1540;Marie;56;F;Calle Zaragoza 12
+1541;Michael;33;M;Calle Zaragoza 12
+1542;Sofía;45;F;Calle Morelos 56
+1543;Carmen;57;F;Av. Reforma 123
+1544;Michael;55;F;Calle Hidalgo 89
+1545;Louis;48;F;Av. Insurgentes 678
+1546;Michael;41;M;Calle Juárez 45
+1547;Carmen;18;M;Av. López Mateos 900
+1548;Sofía;54;F;Av. Madero 777
+1549;Peter;37;F;Calle Hidalgo 89
+1550;Marie;69;F;Av. López Mateos 900
+1551;Carmen;57;F;Calle Hidalgo 89
+1552;Louis;18;F;Av. Madero 777
+1553;Cindy;63;F;Calle Zaragoza 12
+1554;Michael;52;M;Calle Morelos 56
+1555;Peter;43;M;Calle Hidalgo 89
+1556;Marie;41;F;Av. Reforma 123
+1557;James;52;F;Calle Juárez 45
+1558;James;59;F;Calle Zaragoza 12
+1559;Carmen;28;F;Av. Universidad 321
+1560;Karen;23;F;Av. Madero 777
+1561;Karen;66;M;Calle Hidalgo 89
+1562;Peter;31;M;Av. Reforma 123
+1563;Peter;33;M;Calle Juárez 45
+1564;Carmen;26;M;Av. Reforma 123
+1565;Sofía;20;M;Calle Morelos 56
+1566;Sofía;67;M;Av. López Mateos 900
+1567;Peter;62;F;Calle Zaragoza 12
+1568;Marie;58;F;Calle Allende 34
+1569;Sofía;51;F;Calle Zaragoza 12
+1570;Peter;60;M;Calle Juárez 45
+1571;Joseph;44;F;Av. Insurgentes 678
+1572;Louis;59;F;Av. Reforma 123
+1573;Joseph;40;F;Av. Insurgentes 678
+1574;James;62;M;Calle Juárez 45
+1575;James;68;M;Av. Insurgentes 678
+1576;Louis;51;F;Calle Juárez 45
+1577;Joseph;53;M;Av. Madero 777
+1578;Karen;27;M;Av. Reforma 123
+1579;Michael;46;M;Av. Madero 777
+1580;Joseph;48;F;Av. López Mateos 900
+1581;Cindy;31;M;Av. Madero 777
+1582;Peter;26;M;Calle Morelos 56
+1583;Karen;27;F;Calle Hidalgo 89
+1584;Louis;29;F;Av. Universidad 321
+1585;Marie;50;F;Calle Hidalgo 89
+1586;Joseph;45;F;Calle Morelos 56
+1587;Sofía;40;M;Av. Insurgentes 678
+1588;Peter;50;F;Av. López Mateos 900
+1589;Louis;51;F;Calle Hidalgo 89
+1590;Louis;54;F;Calle Allende 34
+1591;Louis;63;M;Av. López Mateos 900
+1592;Karen;65;F;Av. Madero 777
+1593;Louis;39;F;Av. Insurgentes 678
+1594;Karen;21;F;Av. Madero 777
+1595;Louis;22;M;Calle Zaragoza 12
+1596;Carmen;69;F;Av. López Mateos 900
+1597;Carmen;62;F;Av. Reforma 123
+1598;Louis;59;F;Calle Morelos 56
+1599;Karen;66;F;Av. Madero 777
+1600;Carmen;64;F;Calle Allende 34
+1601;Carmen;66;F;Calle Hidalgo 89
+1602;Michael;67;M;Av. López Mateos 900
+1603;Karen;70;M;Av. Insurgentes 678
+1604;Carmen;60;F;Calle Allende 34
+1605;Karen;55;M;Calle Zaragoza 12
+1606;Joseph;64;M;Av. Universidad 321
+1607;Marie;35;F;Calle Morelos 56
+1608;Marie;33;M;Calle Allende 34
+1609;Peter;62;M;Av. Universidad 321
+1610;Sofía;22;M;Calle Juárez 45
+1611;Karen;68;M;Calle Hidalgo 89
+1612;Marie;29;M;Av. Reforma 123
+1613;Marie;39;M;Calle Morelos 56
+1614;Carmen;22;F;Calle Juárez 45
+1615;Michael;64;F;Av. Universidad 321
+1616;Carmen;26;F;Av. Madero 777
+1617;Carmen;53;M;Av. Universidad 321
+1618;Cindy;49;F;Av. Reforma 123
+1619;Carmen;24;F;Calle Juárez 45
+1620;Karen;18;F;Calle Hidalgo 89
+1621;Cindy;46;F;Av. López Mateos 900
+1622;Marie;44;F;Av. Reforma 123
+1623;Joseph;56;F;Calle Morelos 56
+1624;Carmen;59;F;Calle Hidalgo 89
+1625;Carmen;33;F;Calle Allende 34
+1626;Marie;49;M;Av. Insurgentes 678
+1627;Sofía;48;M;Av. Insurgentes 678
+1628;Peter;47;F;Av. Madero 777
+1629;Michael;69;F;Av. Insurgentes 678
+1630;Michael;51;M;Calle Morelos 56
+1631;Carmen;57;F;Av. Madero 777
+1632;Marie;57;F;Calle Morelos 56
+1633;Marie;23;F;Av. Madero 777
+1634;James;30;M;Calle Hidalgo 89
+1635;Michael;47;F;Av. Insurgentes 678
+1636;Louis;56;M;Av. López Mateos 900
+1637;Sofía;34;F;Calle Morelos 56
+1638;Marie;48;F;Calle Juárez 45
+1639;Peter;57;F;Calle Juárez 45
+1640;Cindy;58;F;Av. Madero 777
+1641;James;56;F;Calle Allende 34
+1642;Michael;20;M;Av. Universidad 321
+1643;James;61;F;Av. Madero 777
+1644;Cindy;55;F;Av. López Mateos 900
+1645;James;36;F;Av. Universidad 321
+1646;Joseph;69;F;Av. Reforma 123
+1647;James;68;F;Calle Zaragoza 12
+1648;Sofía;47;F;Av. Reforma 123
+1649;Karen;38;M;Av. Insurgentes 678
+1650;Peter;46;M;Av. López Mateos 900
+1651;Marie;28;F;Av. López Mateos 900
+1652;James;38;M;Av. Reforma 123
+1653;Cindy;52;M;Av. López Mateos 900
+1654;Michael;65;F;Av. Madero 777
+1655;Carmen;60;F;Av. López Mateos 900
+1656;Cindy;18;M;Av. Reforma 123
+1657;Michael;57;M;Av. López Mateos 900
+1658;Michael;37;F;Calle Hidalgo 89
+1659;Joseph;53;F;Av. Madero 777
+1660;Cindy;33;F;Av. Universidad 321
+1661;Joseph;41;M;Av. López Mateos 900
+1662;Peter;37;F;Calle Zaragoza 12
+1663;Louis;27;F;Calle Morelos 56
+1664;James;52;M;Calle Hidalgo 89
+1665;Sofía;19;F;Calle Juárez 45
+1666;Joseph;69;M;Calle Hidalgo 89
+1667;Sofía;19;F;Calle Juárez 45
+1668;Karen;28;F;Calle Morelos 56
+1669;Sofía;22;F;Calle Allende 34
+1670;Peter;43;F;Av. Madero 777
+1671;Michael;22;M;Calle Hidalgo 89
+1672;Sofía;34;F;Calle Morelos 56
+1673;Michael;65;M;Calle Hidalgo 89
+1674;Cindy;24;F;Calle Morelos 56
+1675;James;35;F;Calle Zaragoza 12
+1676;Sofía;50;M;Calle Juárez 45
+1677;Carmen;46;F;Calle Hidalgo 89
+1678;Karen;32;F;Av. López Mateos 900
+1679;Louis;64;F;Calle Juárez 45
+1680;Sofía;18;M;Calle Allende 34
+1681;Sofía;26;M;Calle Zaragoza 12
+1682;Sofía;41;M;Calle Morelos 56
+1683;Karen;39;F;Calle Zaragoza 12
+1684;James;66;F;Av. Madero 777
+1685;Marie;52;F;Calle Juárez 45
+1686;Marie;22;F;Av. Madero 777
+1687;Louis;43;M;Calle Zaragoza 12
+1688;Michael;54;F;Av. Insurgentes 678
+1689;Joseph;58;F;Av. Madero 777
+1690;Karen;66;F;Av. López Mateos 900
+1691;Joseph;55;F;Calle Morelos 56
+1692;Joseph;49;F;Calle Morelos 56
+1693;Joseph;46;M;Av. López Mateos 900
+1694;Cindy;39;M;Calle Juárez 45
+1695;Marie;65;F;Av. Reforma 123
+1696;Marie;41;F;Av. Reforma 123
+1697;Peter;19;F;Calle Zaragoza 12
+1698;Sofía;18;M;Av. Universidad 321
+1699;Marie;68;F;Calle Hidalgo 89
+1700;Marie;23;F;Calle Zaragoza 12
+1701;Carmen;27;M;Av. López Mateos 900
+1702;Michael;20;F;Av. Reforma 123
+1703;James;33;F;Calle Zaragoza 12
+1704;Peter;47;F;Av. Madero 777
+1705;Peter;60;F;Av. Insurgentes 678
+1706;Karen;51;F;Av. López Mateos 900
+1707;Louis;33;M;Av. Insurgentes 678
+1708;Sofía;60;M;Av. Madero 777
+1709;Peter;53;M;Av. Universidad 321
+1710;Joseph;52;F;Calle Allende 34
+1711;James;45;M;Av. Universidad 321
+1712;Michael;51;M;Calle Zaragoza 12
+1713;Carmen;26;F;Calle Juárez 45
+1714;Peter;31;F;Calle Morelos 56
+1715;James;28;M;Av. López Mateos 900
+1716;Carmen;46;F;Calle Hidalgo 89
+1717;Peter;40;F;Calle Allende 34
+1718;Karen;40;F;Av. Reforma 123
+1719;Peter;55;F;Av. Insurgentes 678
+1720;James;18;F;Av. Reforma 123
+1721;Peter;53;M;Calle Juárez 45
+1722;James;52;M;Av. López Mateos 900
+1723;Louis;53;M;Av. Insurgentes 678
+1724;Joseph;26;F;Calle Hidalgo 89
+1725;Cindy;30;F;Calle Juárez 45
+1726;Marie;34;M;Calle Juárez 45
+1727;Joseph;68;F;Calle Juárez 45
+1728;James;56;M;Calle Juárez 45
+1729;Carmen;29;M;Calle Morelos 56
+1730;Marie;20;F;Calle Morelos 56
+1731;Karen;48;F;Calle Zaragoza 12
+1732;Joseph;68;F;Av. Universidad 321
+1733;James;52;M;Av. Universidad 321
+1734;Karen;18;M;Av. Reforma 123
+1735;Joseph;62;M;Av. López Mateos 900
+1736;Michael;42;F;Calle Morelos 56
+1737;Carmen;36;M;Av. Universidad 321
+1738;Carmen;54;F;Av. López Mateos 900
+1739;Sofía;59;M;Calle Hidalgo 89
+1740;Karen;63;M;Calle Allende 34
+1741;Louis;70;F;Calle Hidalgo 89
+1742;Louis;32;M;Av. Insurgentes 678
+1743;Joseph;53;F;Calle Zaragoza 12
+1744;Marie;55;M;Av. Universidad 321
+1745;Peter;19;M;Calle Zaragoza 12
+1746;Peter;61;M;Av. López Mateos 900
+1747;Joseph;35;M;Av. Madero 777
+1748;Sofía;46;M;Av. Reforma 123
+1749;Cindy;48;M;Av. Insurgentes 678
+1750;Carmen;61;F;Av. López Mateos 900
+1751;Joseph;50;M;Calle Morelos 56
+1752;Karen;70;M;Calle Allende 34
+1753;Karen;66;F;Calle Allende 34
+1754;Michael;61;M;Calle Allende 34
+1755;Karen;67;F;Calle Hidalgo 89
+1756;Cindy;70;F;Av. Madero 777
+1757;Marie;56;F;Calle Hidalgo 89
+1758;Sofía;64;M;Calle Zaragoza 12
+1759;Michael;19;M;Calle Morelos 56
+1760;Karen;67;M;Calle Hidalgo 89
+1761;Peter;39;F;Av. Madero 777
+1762;Peter;40;F;Calle Juárez 45
+1763;Carmen;69;F;Calle Juárez 45
+1764;James;50;F;Calle Juárez 45
+1765;Louis;21;M;Av. Insurgentes 678
+1766;Karen;37;M;Calle Hidalgo 89
+1767;Karen;63;F;Calle Morelos 56
+1768;Karen;32;F;Av. Insurgentes 678
+1769;James;56;M;Calle Allende 34
+1770;Karen;56;M;Av. Universidad 321
+1771;James;34;M;Av. Reforma 123
+1772;Marie;60;M;Av. Universidad 321
+1773;Sofía;51;M;Av. Insurgentes 678
+1774;Marie;31;F;Av. López Mateos 900
+1775;Marie;57;M;Calle Hidalgo 89
+1776;Karen;25;F;Av. Insurgentes 678
+1777;Karen;33;F;Calle Morelos 56
+1778;Joseph;34;F;Calle Hidalgo 89
+1779;Sofía;32;M;Calle Juárez 45
+1780;Sofía;30;M;Calle Hidalgo 89
+1781;Peter;35;M;Av. Madero 777
+1782;Carmen;68;M;Calle Hidalgo 89
+1783;Louis;53;M;Calle Allende 34
+1784;Cindy;52;M;Calle Morelos 56
+1785;Louis;56;F;Calle Juárez 45
+1786;Carmen;33;M;Calle Juárez 45
+1787;Michael;42;M;Calle Morelos 56
+1788;Cindy;35;M;Calle Juárez 45
+1789;Joseph;26;M;Calle Morelos 56
+1790;Sofía;41;F;Av. Insurgentes 678
+1791;Cindy;59;F;Calle Juárez 45
+1792;James;47;M;Calle Zaragoza 12
+1793;Louis;58;M;Av. Madero 777
+1794;Carmen;22;M;Calle Allende 34
+1795;Michael;41;F;Calle Morelos 56
+1796;Sofía;27;M;Av. Madero 777
+1797;Cindy;39;M;Av. López Mateos 900
+1798;Peter;59;M;Calle Juárez 45
+1799;Carmen;52;M;Calle Hidalgo 89
+1800;Michael;53;M;Calle Morelos 56
+1801;Peter;35;M;Av. Reforma 123
+1802;Louis;23;F;Av. Universidad 321
+1803;Michael;43;M;Av. Madero 777
+1804;Michael;21;M;Calle Hidalgo 89
+1805;Joseph;61;M;Av. Madero 777
+1806;Louis;47;F;Calle Allende 34
+1807;Louis;26;M;Calle Morelos 56
+1808;James;62;M;Av. Reforma 123
+1809;Sofía;39;F;Calle Allende 34
+1810;Louis;49;F;Calle Juárez 45
+1811;James;44;F;Calle Juárez 45
+1812;Karen;27;M;Av. Reforma 123
+1813;Cindy;37;M;Av. Madero 777
+1814;Karen;57;F;Calle Juárez 45
+1815;Cindy;43;F;Calle Allende 34
+1816;Sofía;36;F;Av. Insurgentes 678
+1817;Cindy;28;F;Calle Morelos 56
+1818;Louis;18;F;Av. Universidad 321
+1819;Cindy;43;M;Calle Zaragoza 12
+1820;Carmen;47;F;Av. Reforma 123
+1821;James;29;M;Av. Madero 777
+1822;James;67;F;Calle Morelos 56
+1823;Marie;43;M;Av. Universidad 321
+1824;Karen;51;F;Av. Madero 777
+1825;Louis;28;M;Av. López Mateos 900
+1826;James;25;M;Av. Madero 777
+1827;Louis;56;F;Av. Insurgentes 678
+1828;Peter;42;F;Calle Zaragoza 12
+1829;James;20;F;Av. López Mateos 900
+1830;Sofía;43;F;Calle Allende 34
+1831;Marie;46;F;Calle Morelos 56
+1832;Carmen;56;F;Calle Zaragoza 12
+1833;Sofía;56;F;Calle Morelos 56
+1834;Michael;52;F;Calle Morelos 56
+1835;Carmen;48;F;Calle Allende 34
+1836;Karen;40;F;Calle Juárez 45
+1837;Michael;25;M;Av. Reforma 123
+1838;James;44;M;Calle Hidalgo 89
+1839;Louis;52;F;Calle Juárez 45
+1840;James;62;F;Av. Reforma 123
+1841;Peter;63;F;Calle Zaragoza 12
+1842;Louis;67;M;Av. Universidad 321
+1843;Peter;26;M;Av. Reforma 123
+1844;Karen;41;M;Av. López Mateos 900
+1845;Louis;48;F;Calle Juárez 45
+1846;James;35;M;Av. Reforma 123
+1847;Carmen;64;F;Av. Insurgentes 678
+1848;Sofía;29;M;Calle Allende 34
+1849;Marie;70;M;Av. Reforma 123
+1850;James;27;F;Av. Reforma 123
+1851;Karen;32;M;Av. Madero 777
+1852;Louis;49;F;Av. López Mateos 900
+1853;Marie;68;M;Av. Reforma 123
+1854;Michael;34;F;Calle Allende 34
+1855;Sofía;68;F;Calle Allende 34
+1856;Michael;47;M;Av. López Mateos 900
+1857;Sofía;70;F;Calle Juárez 45
+1858;Michael;34;M;Calle Juárez 45
+1859;Cindy;32;F;Av. Madero 777
+1860;Cindy;27;M;Calle Allende 34
+1861;Peter;70;F;Av. Insurgentes 678
+1862;Cindy;49;M;Calle Allende 34
+1863;Peter;64;F;Av. López Mateos 900
+1864;Carmen;29;M;Av. López Mateos 900
+1865;Michael;20;F;Av. López Mateos 900
+1866;Peter;59;M;Av. Madero 777
+1867;Sofía;57;M;Av. Reforma 123
+1868;Cindy;51;M;Av. López Mateos 900
+1869;Peter;34;F;Av. Insurgentes 678
+1870;James;24;F;Av. López Mateos 900
+1871;Louis;42;M;Av. López Mateos 900
+1872;Joseph;51;F;Av. Reforma 123
+1873;Karen;43;M;Calle Zaragoza 12
+1874;Marie;65;M;Calle Zaragoza 12
+1875;Sofía;68;M;Av. Reforma 123
+1876;Louis;39;M;Av. Reforma 123
+1877;James;56;F;Calle Juárez 45
+1878;Karen;69;F;Av. Universidad 321
+1879;Joseph;58;F;Calle Juárez 45
+1880;Marie;53;F;Av. Universidad 321
+1881;Joseph;31;M;Calle Morelos 56
+1882;Cindy;18;F;Av. Insurgentes 678
+1883;Peter;62;M;Calle Juárez 45
+1884;Carmen;52;M;Av. Insurgentes 678
+1885;James;60;M;Av. Universidad 321
+1886;Peter;57;M;Calle Allende 34
+1887;James;38;M;Av. Insurgentes 678
+1888;Cindy;46;F;Av. Madero 777
+1889;Michael;48;M;Av. Insurgentes 678
+1890;Sofía;47;F;Av. Madero 777
+1891;James;70;M;Av. Universidad 321
+1892;James;70;F;Calle Morelos 56
+1893;Sofía;63;F;Calle Morelos 56
+1894;James;45;M;Av. López Mateos 900
+1895;Louis;65;M;Calle Hidalgo 89
+1896;James;64;M;Av. Madero 777
+1897;Carmen;35;F;Calle Hidalgo 89
+1898;Marie;18;M;Av. López Mateos 900
+1899;Marie;49;M;Av. Reforma 123
+1900;Cindy;55;M;Av. López Mateos 900
+1901;Cindy;36;M;Av. Madero 777
+1902;Peter;64;F;Av. Universidad 321
+1903;James;20;F;Calle Hidalgo 89
+1904;Cindy;57;M;Calle Zaragoza 12
+1905;Peter;28;F;Av. Insurgentes 678
+1906;Peter;66;F;Av. Insurgentes 678
+1907;Carmen;29;M;Calle Juárez 45
+1908;Michael;55;F;Calle Juárez 45
+1909;Marie;20;F;Av. Reforma 123
+1910;Carmen;63;F;Av. Universidad 321
+1911;Michael;18;M;Av. Universidad 321
+1912;Sofía;27;M;Calle Morelos 56
+1913;Marie;70;M;Av. Madero 777
+1914;Joseph;31;F;Calle Juárez 45
+1915;Sofía;33;M;Calle Hidalgo 89
+1916;Peter;27;M;Calle Hidalgo 89
+1917;Louis;58;M;Calle Zaragoza 12
+1918;Carmen;20;M;Calle Allende 34
+1919;Peter;66;F;Calle Juárez 45
+1920;Joseph;50;M;Calle Morelos 56
+1921;Peter;70;M;Av. Reforma 123
+1922;Michael;52;F;Av. Universidad 321
+1923;Karen;46;F;Calle Zaragoza 12
+1924;Michael;23;F;Calle Allende 34
+1925;Louis;41;M;Calle Hidalgo 89
+1926;Karen;36;F;Calle Morelos 56
+1927;Cindy;21;M;Av. Madero 777
+1928;Karen;19;F;Av. Reforma 123
+1929;Michael;57;F;Calle Hidalgo 89
+1930;Joseph;44;F;Av. Insurgentes 678
+1931;James;55;M;Av. Reforma 123
+1932;Michael;40;F;Av. Insurgentes 678
+1933;Karen;62;F;Av. Reforma 123
+1934;Karen;48;M;Av. Reforma 123
+1935;Louis;45;M;Calle Juárez 45
+1936;Sofía;32;M;Calle Morelos 56
+1937;James;45;F;Calle Allende 34
+1938;Michael;69;F;Av. Madero 777
+1939;Joseph;19;F;Av. López Mateos 900
+1940;Carmen;62;F;Calle Juárez 45
+1941;Sofía;58;M;Av. Madero 777
+1942;Peter;33;F;Calle Morelos 56
+1943;Michael;34;M;Av. Insurgentes 678
+1944;Louis;28;M;Av. Universidad 321
+1945;Marie;48;F;Av. Madero 777
+1946;Michael;43;F;Calle Morelos 56
+1947;Joseph;32;F;Av. Madero 777
+1948;Carmen;31;M;Calle Juárez 45
+1949;Louis;59;M;Av. Insurgentes 678
+1950;Peter;50;M;Av. Reforma 123
+1951;Louis;20;M;Av. Insurgentes 678
+1952;Sofía;35;M;Calle Morelos 56
+1953;Karen;62;M;Calle Zaragoza 12
+1954;James;29;M;Calle Juárez 45
+1955;Louis;37;F;Calle Zaragoza 12
+1956;Cindy;38;M;Calle Juárez 45
+1957;Carmen;58;M;Av. López Mateos 900
+1958;James;66;M;Calle Allende 34
+1959;Karen;57;M;Av. Universidad 321
+1960;Michael;49;M;Calle Zaragoza 12
+1961;Marie;27;M;Calle Morelos 56
+1962;Peter;68;F;Calle Juárez 45
+1963;Cindy;30;M;Av. López Mateos 900
+1964;Joseph;39;M;Calle Juárez 45
+1965;Karen;39;F;Calle Morelos 56
+1966;Peter;51;F;Calle Allende 34
+1967;Carmen;26;M;Calle Morelos 56
+1968;Michael;41;M;Av. Madero 777
+1969;Carmen;45;M;Av. Reforma 123
+1970;Peter;19;F;Calle Morelos 56
+1971;Cindy;33;F;Calle Morelos 56
+1972;James;32;M;Calle Zaragoza 12
+1973;Louis;33;M;Av. Madero 777
+1974;Sofía;67;M;Av. Reforma 123
+1975;Louis;38;F;Calle Hidalgo 89
+1976;Karen;21;M;Calle Zaragoza 12
+1977;Carmen;34;M;Calle Hidalgo 89
+1978;James;56;M;Av. Reforma 123
+1979;James;65;F;Av. Reforma 123
+1980;James;65;M;Calle Morelos 56
+1981;Joseph;50;F;Calle Juárez 45
+1982;James;23;F;Av. López Mateos 900
+1983;Michael;68;M;Av. Insurgentes 678
+1984;Peter;68;M;Calle Zaragoza 12
+1985;Joseph;22;F;Av. Reforma 123
+1986;Michael;45;M;Av. Insurgentes 678
+1987;Marie;31;F;Av. Universidad 321
+1988;Michael;60;F;Av. Universidad 321
+1989;Joseph;69;M;Calle Morelos 56
+1990;James;24;M;Calle Juárez 45
+1991;Sofía;63;M;Calle Hidalgo 89
+1992;Marie;18;F;Av. Insurgentes 678
+1993;Joseph;34;F;Av. Insurgentes 678
+1994;Peter;55;F;Av. Madero 777
+1995;Sofía;19;M;Av. Universidad 321
+1996;James;24;F;Calle Juárez 45
+1997;Louis;43;M;Av. Madero 777
+1998;Michael;67;F;Av. López Mateos 900
+1999;Louis;26;M;Av. Reforma 123
+2000;Marie;60;F;Calle Juárez 45
+2001;Sofía;58;F;Av. López Mateos 900
+2002;Cindy;48;F;Av. López Mateos 900
+2003;James;19;M;Calle Juárez 45
+2004;Michael;65;M;Calle Hidalgo 89
+2005;Peter;20;F;Calle Morelos 56
+2006;Carmen;42;F;Av. Universidad 321
+2007;Karen;57;M;Av. Reforma 123
+2008;Cindy;56;M;Calle Allende 34
+2009;Carmen;19;F;Calle Morelos 56
+2010;Karen;63;F;Calle Allende 34
+2011;Louis;54;M;Av. Insurgentes 678
+2012;Peter;52;F;Av. Reforma 123
+2013;James;68;F;Av. Madero 777
+2014;Michael;67;M;Av. Insurgentes 678
+2015;Karen;19;M;Av. Universidad 321
+2016;Marie;56;M;Calle Juárez 45
+2017;Joseph;27;M;Av. Insurgentes 678
+2018;James;46;M;Calle Zaragoza 12
+2019;Sofía;67;M;Calle Zaragoza 12
+2020;Peter;30;F;Calle Morelos 56
+2021;Sofía;64;M;Av. Insurgentes 678
+2022;Louis;55;M;Calle Allende 34
+2023;Cindy;51;M;Calle Allende 34
+2024;Joseph;21;M;Av. Universidad 321
+2025;Marie;32;M;Calle Allende 34
+2026;James;30;M;Calle Allende 34
+2027;Marie;27;F;Calle Hidalgo 89
+2028;Peter;45;M;Av. Insurgentes 678
+2029;Joseph;47;F;Calle Zaragoza 12
+2030;Sofía;60;F;Av. Universidad 321
+2031;Marie;43;F;Av. López Mateos 900
+2032;Carmen;36;F;Av. Reforma 123
+2033;Marie;53;M;Av. Universidad 321
+2034;Louis;68;F;Calle Hidalgo 89
+2035;James;58;M;Av. Universidad 321
+2036;James;65;M;Av. Madero 777
+2037;Michael;62;F;Av. Insurgentes 678
+2038;Peter;60;M;Av. Madero 777
+2039;Peter;52;F;Calle Allende 34
+2040;Michael;70;M;Av. Universidad 321
+2041;Michael;63;M;Calle Morelos 56
+2042;Sofía;45;F;Calle Juárez 45
+2043;Karen;46;F;Av. Madero 777
+2044;Peter;18;M;Calle Morelos 56
+2045;Carmen;69;M;Calle Morelos 56
+2046;Sofía;31;F;Av. Reforma 123
+2047;Cindy;38;M;Av. López Mateos 900
+2048;Louis;36;M;Calle Juárez 45
+2049;Peter;25;F;Av. López Mateos 900
+2050;James;30;M;Calle Juárez 45
+2051;Louis;42;F;Av. Insurgentes 678
+2052;Michael;20;F;Av. Insurgentes 678
+2053;Michael;41;M;Calle Allende 34
+2054;Sofía;70;M;Av. Madero 777
+2055;Carmen;47;F;Calle Juárez 45
+2056;Sofía;42;M;Calle Juárez 45
+2057;Cindy;23;F;Calle Zaragoza 12
+2058;Peter;67;M;Av. López Mateos 900
+2059;Sofía;60;M;Av. López Mateos 900
+2060;Joseph;38;M;Av. López Mateos 900
+2061;Joseph;44;M;Av. Universidad 321
+2062;James;34;M;Calle Hidalgo 89
+2063;Joseph;25;M;Calle Morelos 56
+2064;Joseph;18;M;Av. Reforma 123
+2065;Marie;55;F;Calle Allende 34
+2066;Karen;61;F;Av. Madero 777
+2067;Carmen;54;M;Calle Allende 34
+2068;Peter;43;M;Calle Hidalgo 89
+2069;Michael;41;F;Calle Allende 34
+2070;Michael;28;F;Av. Universidad 321
+2071;Karen;22;M;Av. López Mateos 900
+2072;Karen;66;M;Calle Morelos 56
+2073;Louis;24;M;Av. Madero 777
+2074;James;62;M;Av. Madero 777
+2075;Carmen;20;F;Calle Allende 34
+2076;James;33;M;Av. Insurgentes 678
+2077;Peter;21;F;Av. Reforma 123
+2078;Peter;53;M;Av. Insurgentes 678
+2079;James;67;F;Av. Reforma 123
+2080;Joseph;40;M;Calle Morelos 56
+2081;Louis;18;F;Av. Madero 777
+2082;Sofía;62;F;Calle Hidalgo 89
+2083;Carmen;23;M;Av. Madero 777
+2084;Peter;58;F;Av. López Mateos 900
+2085;Marie;58;F;Av. Insurgentes 678
+2086;James;46;F;Calle Hidalgo 89
+2087;Joseph;51;M;Av. Insurgentes 678
+2088;Carmen;47;M;Calle Allende 34
+2089;Peter;19;M;Av. López Mateos 900
+2090;Karen;65;M;Calle Zaragoza 12
+2091;Carmen;61;M;Av. Madero 777
+2092;Marie;55;M;Calle Juárez 45
+2093;James;62;M;Av. Reforma 123
+2094;Louis;28;M;Calle Allende 34
+2095;Cindy;39;M;Calle Juárez 45
+2096;James;51;F;Av. Madero 777
+2097;Cindy;24;M;Calle Juárez 45
+2098;Marie;47;M;Av. Insurgentes 678
+2099;Karen;29;F;Av. Universidad 321
+2100;Peter;47;F;Calle Zaragoza 12
+2101;Marie;40;F;Av. López Mateos 900
+2102;Carmen;21;F;Calle Allende 34
+2103;Marie;38;F;Av. Universidad 321
+2104;James;69;M;Av. Reforma 123
+2105;James;55;F;Calle Hidalgo 89
+2106;James;42;M;Av. Madero 777
+2107;Peter;29;M;Av. López Mateos 900
+2108;Karen;43;F;Calle Allende 34
+2109;Joseph;53;F;Calle Juárez 45
+2110;Sofía;40;M;Calle Hidalgo 89
+2111;Joseph;56;M;Av. Insurgentes 678
+2112;Carmen;21;F;Calle Hidalgo 89
+2113;Peter;59;F;Av. Insurgentes 678
+2114;Joseph;66;M;Av. Madero 777
+2115;Carmen;38;F;Av. Universidad 321
+2116;Carmen;34;F;Calle Morelos 56
+2117;Peter;18;M;Calle Juárez 45
+2118;Peter;67;F;Calle Hidalgo 89
+2119;James;70;F;Calle Allende 34
+2120;Louis;23;M;Calle Zaragoza 12
+2121;Louis;27;F;Calle Juárez 45
+2122;James;40;M;Av. Universidad 321
+2123;Carmen;39;M;Av. Insurgentes 678
+2124;Joseph;43;F;Calle Allende 34
+2125;James;57;M;Av. Reforma 123
+2126;Carmen;62;M;Av. Universidad 321
+2127;Michael;25;F;Calle Zaragoza 12
+2128;Carmen;50;M;Av. Reforma 123
+2129;Peter;51;M;Calle Hidalgo 89
+2130;Marie;38;M;Av. Insurgentes 678
+2131;Sofía;59;M;Av. Insurgentes 678
+2132;James;48;F;Calle Zaragoza 12
+2133;James;20;F;Calle Juárez 45
+2134;Marie;62;M;Av. Insurgentes 678
+2135;Michael;66;F;Calle Allende 34
+2136;James;18;F;Calle Zaragoza 12
+2137;Cindy;23;M;Calle Zaragoza 12
+2138;Sofía;46;M;Av. Insurgentes 678
+2139;Peter;25;M;Calle Morelos 56
+2140;Marie;53;F;Calle Morelos 56
+2141;Marie;45;M;Calle Juárez 45
+2142;Carmen;57;M;Av. Reforma 123
+2143;Louis;66;F;Av. Universidad 321
+2144;Cindy;58;M;Av. Universidad 321
+2145;Michael;19;F;Calle Juárez 45
+2146;James;39;F;Calle Hidalgo 89
+2147;Michael;36;M;Calle Hidalgo 89
+2148;Karen;50;M;Calle Morelos 56
+2149;Marie;22;M;Calle Morelos 56
+2150;Karen;44;F;Calle Zaragoza 12
+2151;Louis;67;M;Av. Reforma 123
+2152;Peter;18;M;Av. López Mateos 900
+2153;Peter;33;F;Calle Hidalgo 89
+2154;Michael;21;F;Calle Allende 34
+2155;James;50;M;Calle Morelos 56
+2156;Carmen;69;M;Av. Reforma 123
+2157;Peter;38;M;Av. Insurgentes 678
+2158;Cindy;51;F;Av. Universidad 321
+2159;Michael;49;F;Calle Allende 34
+2160;Karen;57;M;Calle Hidalgo 89
+2161;Louis;30;F;Av. López Mateos 900
+2162;Carmen;46;F;Calle Zaragoza 12
+2163;Peter;43;M;Calle Morelos 56
+2164;Marie;53;M;Calle Allende 34
+2165;James;64;M;Calle Juárez 45
+2166;Sofía;44;M;Av. López Mateos 900
+2167;James;33;M;Av. López Mateos 900
+2168;Marie;24;M;Calle Morelos 56
+2169;Karen;60;M;Av. Insurgentes 678
+2170;Karen;60;M;Av. Reforma 123
+2171;Carmen;68;F;Calle Zaragoza 12
+2172;Sofía;66;M;Calle Morelos 56
+2173;Michael;52;F;Av. Universidad 321
+2174;James;25;F;Calle Zaragoza 12
+2175;James;61;M;Calle Hidalgo 89
+2176;Michael;43;M;Calle Zaragoza 12
+2177;James;63;F;Av. Reforma 123
+2178;Cindy;48;F;Calle Morelos 56
+2179;Sofía;64;M;Calle Allende 34
+2180;Sofía;56;F;Av. López Mateos 900
+2181;Cindy;58;F;Av. Reforma 123
+2182;Louis;49;F;Av. Universidad 321
+2183;Sofía;58;F;Av. Universidad 321
+2184;Cindy;69;F;Av. Universidad 321
+2185;Joseph;30;F;Calle Juárez 45
+2186;Michael;22;M;Calle Zaragoza 12
+2187;Peter;23;M;Av. Insurgentes 678
+2188;Louis;62;M;Calle Zaragoza 12
+2189;Michael;23;M;Calle Juárez 45
+2190;Marie;54;F;Av. Reforma 123
+2191;Michael;63;F;Av. López Mateos 900
+2192;Karen;34;F;Calle Allende 34
+2193;Sofía;25;F;Calle Juárez 45
+2194;Marie;25;M;Av. Reforma 123
+2195;Carmen;53;M;Calle Morelos 56
+2196;Peter;37;M;Av. Insurgentes 678
+2197;Michael;63;F;Calle Juárez 45
+2198;Peter;63;F;Calle Morelos 56
+2199;Cindy;39;M;Av. Madero 777
+2200;Joseph;64;M;Av. Insurgentes 678
+2201;Michael;48;M;Av. Madero 777
+2202;Sofía;43;F;Av. Reforma 123
+2203;Michael;66;F;Calle Morelos 56
+2204;Cindy;69;F;Av. Reforma 123
+2205;Cindy;65;M;Calle Allende 34
+2206;Cindy;22;M;Av. Reforma 123
+2207;Joseph;40;F;Calle Morelos 56
+2208;Michael;52;M;Calle Juárez 45
+2209;Peter;37;F;Calle Morelos 56
+2210;Sofía;57;M;Av. Universidad 321
+2211;Michael;30;F;Av. López Mateos 900
+2212;Michael;43;M;Calle Juárez 45
+2213;Marie;27;F;Calle Allende 34
+2214;Karen;37;F;Av. López Mateos 900
+2215;Carmen;23;M;Calle Juárez 45
+2216;Louis;65;M;Calle Allende 34
+2217;Sofía;43;F;Av. Insurgentes 678
+2218;Sofía;45;F;Av. Insurgentes 678
+2219;Sofía;59;M;Av. Reforma 123
+2220;Peter;54;F;Av. Insurgentes 678
+2221;Michael;53;M;Av. Madero 777
+2222;Cindy;43;M;Av. López Mateos 900
+2223;Carmen;33;M;Calle Allende 34
+2224;Peter;69;F;Av. Madero 777
+2225;Michael;39;F;Calle Hidalgo 89
+2226;Peter;29;M;Av. Madero 777
+2227;Joseph;58;F;Calle Zaragoza 12
+2228;Peter;68;F;Av. López Mateos 900
+2229;Peter;64;F;Calle Hidalgo 89
+2230;James;67;M;Calle Juárez 45
+2231;Cindy;52;F;Calle Hidalgo 89
+2232;Michael;60;M;Av. López Mateos 900
+2233;Cindy;28;M;Calle Zaragoza 12
+2234;Carmen;48;M;Av. Reforma 123
+2235;Joseph;19;M;Av. Insurgentes 678
+2236;Carmen;33;F;Calle Zaragoza 12
+2237;Michael;21;M;Calle Juárez 45
+2238;Sofía;69;M;Av. Universidad 321
+2239;Joseph;35;F;Av. López Mateos 900
+2240;Carmen;67;F;Av. López Mateos 900
+2241;Peter;60;F;Av. López Mateos 900
+2242;Joseph;54;F;Calle Zaragoza 12
+2243;James;29;M;Calle Hidalgo 89
+2244;Karen;49;F;Av. Insurgentes 678
+2245;Michael;44;F;Av. Madero 777
+2246;Louis;61;F;Av. Insurgentes 678
+2247;Michael;62;F;Av. Universidad 321
+2248;Carmen;62;M;Calle Hidalgo 89
+2249;Carmen;22;F;Calle Juárez 45
+2250;Michael;23;F;Calle Zaragoza 12
+2251;James;21;F;Calle Zaragoza 12
+2252;Marie;19;F;Calle Zaragoza 12
+2253;Sofía;29;F;Calle Juárez 45
+2254;Louis;24;M;Calle Allende 34
+2255;Joseph;20;F;Calle Juárez 45
+2256;Marie;59;M;Calle Juárez 45
+2257;Michael;20;M;Av. Reforma 123
+2258;Sofía;24;F;Av. Insurgentes 678
+2259;Sofía;35;M;Calle Zaragoza 12
+2260;James;20;M;Calle Hidalgo 89
+2261;Peter;52;M;Av. Madero 777
+2262;James;56;M;Av. Madero 777
+2263;Joseph;68;M;Calle Juárez 45
+2264;Joseph;46;F;Calle Zaragoza 12
+2265;Carmen;69;F;Calle Morelos 56
+2266;James;24;F;Calle Allende 34
+2267;Marie;29;F;Av. López Mateos 900
+2268;Peter;42;M;Calle Morelos 56
+2269;Marie;59;F;Av. Reforma 123
+2270;Michael;55;M;Calle Zaragoza 12
+2271;Joseph;28;F;Calle Zaragoza 12
+2272;Karen;61;F;Av. Reforma 123
+2273;Cindy;41;M;Av. Madero 777
+2274;Louis;23;F;Calle Morelos 56
+2275;James;37;F;Calle Zaragoza 12
+2276;Sofía;59;M;Av. Reforma 123
+2277;Marie;39;M;Av. Universidad 321
+2278;Sofía;19;M;Calle Allende 34
+2279;Michael;64;M;Av. Reforma 123
+2280;Carmen;57;F;Calle Allende 34
+2281;James;49;M;Av. Madero 777
+2282;James;55;M;Av. Insurgentes 678
+2283;Peter;61;M;Calle Morelos 56
+2284;Peter;70;F;Calle Juárez 45
+2285;Michael;67;M;Av. Insurgentes 678
+2286;Joseph;25;M;Calle Allende 34
+2287;Michael;35;M;Av. Universidad 321
+2288;Sofía;57;F;Calle Allende 34
+2289;Karen;31;M;Calle Zaragoza 12
+2290;Marie;39;M;Calle Allende 34
+2291;Sofía;35;M;Calle Zaragoza 12
+2292;Marie;40;M;Calle Allende 34
+2293;Carmen;62;M;Av. Reforma 123
+2294;Michael;68;M;Av. Insurgentes 678
+2295;Karen;45;F;Av. Insurgentes 678
+2296;Joseph;48;F;Calle Zaragoza 12
+2297;Carmen;28;F;Av. Universidad 321
+2298;James;58;F;Calle Zaragoza 12
+2299;Carmen;28;M;Av. Insurgentes 678
+2300;Louis;35;F;Calle Hidalgo 89
+2301;Michael;22;F;Av. Insurgentes 678
+2302;Marie;46;M;Av. Universidad 321
+2303;Sofía;19;F;Calle Allende 34
+2304;Karen;42;M;Calle Hidalgo 89
+2305;Marie;58;F;Calle Juárez 45
+2306;Peter;30;M;Av. Madero 777
+2307;Louis;62;M;Calle Allende 34
+2308;Marie;51;F;Calle Zaragoza 12
+2309;Karen;22;F;Av. López Mateos 900
+2310;Karen;44;F;Av. Insurgentes 678
+2311;Marie;25;F;Av. Madero 777
+2312;Peter;52;M;Av. Insurgentes 678
+2313;Louis;55;M;Av. Reforma 123
+2314;Carmen;53;M;Calle Morelos 56
+2315;Cindy;32;M;Av. Reforma 123
+2316;Peter;37;F;Calle Hidalgo 89
+2317;Marie;26;F;Calle Allende 34
+2318;Sofía;56;M;Calle Juárez 45
+2319;James;37;F;Calle Juárez 45
+2320;Karen;31;M;Av. Universidad 321
+2321;Joseph;23;M;Calle Zaragoza 12
+2322;Marie;48;M;Calle Allende 34
+2323;Louis;18;F;Calle Allende 34
+2324;Cindy;49;F;Calle Juárez 45
+2325;Cindy;45;F;Av. Insurgentes 678
+2326;Michael;64;M;Calle Morelos 56
+2327;James;55;F;Av. López Mateos 900
+2328;Cindy;65;M;Av. López Mateos 900
+2329;Cindy;57;M;Av. López Mateos 900
+2330;Joseph;54;M;Av. Insurgentes 678
+2331;Sofía;33;M;Av. Insurgentes 678
+2332;Joseph;23;F;Calle Zaragoza 12
+2333;Cindy;18;M;Av. Reforma 123
+2334;Peter;18;M;Calle Allende 34
+2335;Joseph;59;M;Av. Madero 777
+2336;Peter;50;F;Calle Juárez 45
+2337;Peter;63;F;Av. Reforma 123
+2338;Cindy;46;F;Av. López Mateos 900
+2339;Cindy;46;F;Av. Universidad 321
+2340;Michael;23;M;Av. Madero 777
+2341;Carmen;29;M;Calle Morelos 56
+2342;Marie;34;F;Av. Insurgentes 678
+2343;Karen;63;F;Av. López Mateos 900
+2344;Michael;56;M;Calle Hidalgo 89
+2345;Sofía;70;F;Av. Reforma 123
+2346;Cindy;30;M;Calle Morelos 56
+2347;Marie;42;F;Calle Hidalgo 89
+2348;Peter;41;M;Calle Juárez 45
+2349;Carmen;18;M;Calle Zaragoza 12
+2350;Louis;34;M;Calle Morelos 56
+2351;Karen;19;F;Av. Reforma 123
+2352;Marie;25;M;Calle Morelos 56
+2353;Marie;66;F;Calle Zaragoza 12
+2354;Cindy;40;F;Av. Insurgentes 678
+2355;Louis;21;F;Av. Reforma 123
+2356;Marie;66;F;Av. Insurgentes 678
+2357;Karen;20;M;Calle Hidalgo 89
+2358;Cindy;59;M;Av. Reforma 123
+2359;Karen;58;F;Calle Morelos 56
+2360;Michael;61;M;Calle Morelos 56
+2361;Joseph;69;M;Av. López Mateos 900
+2362;Karen;70;M;Calle Zaragoza 12
+2363;Louis;30;F;Calle Hidalgo 89
+2364;Joseph;62;M;Calle Allende 34
+2365;Joseph;32;M;Av. Reforma 123
+2366;Marie;18;F;Calle Hidalgo 89
+2367;Louis;48;M;Av. Insurgentes 678
+2368;Michael;41;F;Calle Allende 34
+2369;Michael;55;M;Av. López Mateos 900
+2370;Karen;21;F;Calle Allende 34
+2371;Marie;44;M;Calle Allende 34
+2372;Louis;70;M;Calle Juárez 45
+2373;Marie;41;M;Av. Madero 777
+2374;Michael;70;M;Av. Madero 777
+2375;Cindy;66;F;Calle Morelos 56
+2376;Marie;24;F;Calle Juárez 45
+2377;Sofía;52;M;Av. Insurgentes 678
+2378;Michael;64;M;Calle Allende 34
+2379;Carmen;68;F;Calle Allende 34
+2380;Sofía;48;M;Av. López Mateos 900
+2381;Peter;35;F;Calle Zaragoza 12
+2382;Karen;54;M;Av. Madero 777
+2383;Louis;57;M;Calle Zaragoza 12
+2384;Karen;23;F;Av. López Mateos 900
+2385;Marie;31;F;Av. López Mateos 900
+2386;Joseph;46;M;Calle Juárez 45
+2387;Carmen;40;F;Av. Reforma 123
+2388;Karen;35;F;Av. Reforma 123
+2389;Michael;37;F;Calle Juárez 45
+2390;Joseph;54;M;Calle Zaragoza 12
+2391;Peter;31;F;Av. López Mateos 900
+2392;Michael;36;F;Calle Morelos 56
+2393;Michael;24;F;Av. Reforma 123
+2394;Karen;25;M;Av. Universidad 321
+2395;Marie;70;F;Av. López Mateos 900
+2396;Sofía;19;M;Av. Insurgentes 678
+2397;Marie;65;M;Calle Hidalgo 89
+2398;Cindy;65;M;Av. López Mateos 900
+2399;Louis;58;M;Av. Universidad 321
+2400;Karen;53;M;Av. Universidad 321
+2401;Peter;60;F;Av. Madero 777
+2402;Marie;62;M;Av. Madero 777
+2403;Louis;57;F;Av. Madero 777
+2404;James;33;M;Av. Reforma 123
+2405;Louis;43;M;Av. Universidad 321
+2406;Michael;20;F;Calle Zaragoza 12
+2407;Michael;47;M;Calle Allende 34
+2408;Cindy;35;M;Calle Morelos 56
+2409;Sofía;32;F;Calle Allende 34
+2410;Michael;58;M;Calle Hidalgo 89
+2411;Carmen;35;M;Calle Juárez 45
+2412;Karen;70;F;Calle Hidalgo 89
+2413;Carmen;62;F;Av. Madero 777
+2414;Marie;31;F;Calle Juárez 45
+2415;Carmen;28;M;Calle Hidalgo 89
+2416;Karen;63;M;Calle Allende 34
+2417;Marie;18;M;Av. Universidad 321
+2418;Cindy;21;M;Calle Hidalgo 89
+2419;Peter;34;M;Av. López Mateos 900
+2420;Louis;18;F;Calle Juárez 45
+2421;Peter;55;F;Av. Madero 777
+2422;James;47;F;Av. Universidad 321
+2423;Michael;44;M;Calle Allende 34
+2424;Joseph;65;M;Av. Insurgentes 678
+2425;Joseph;32;F;Av. Insurgentes 678
+2426;Cindy;41;M;Calle Zaragoza 12
+2427;Karen;20;M;Av. Insurgentes 678
+2428;Sofía;28;M;Calle Morelos 56
+2429;Carmen;32;F;Av. Reforma 123
+2430;Cindy;50;F;Av. Madero 777
+2431;Peter;22;M;Av. Reforma 123
+2432;Marie;31;M;Calle Allende 34
+2433;James;69;M;Av. Insurgentes 678
+2434;Marie;49;M;Av. Reforma 123
+2435;James;65;F;Calle Hidalgo 89
+2436;James;18;F;Calle Morelos 56
+2437;Sofía;27;M;Calle Allende 34
+2438;Cindy;52;M;Av. López Mateos 900
+2439;Karen;31;F;Av. Reforma 123
+2440;Cindy;45;M;Calle Hidalgo 89
+2441;Cindy;68;M;Av. Insurgentes 678
+2442;Peter;18;F;Calle Morelos 56
+2443;Peter;38;F;Av. López Mateos 900
+2444;Cindy;19;F;Calle Morelos 56
+2445;Cindy;32;F;Av. López Mateos 900
+2446;Louis;50;M;Calle Hidalgo 89
+2447;James;68;M;Calle Hidalgo 89
+2448;Sofía;45;M;Av. Insurgentes 678
+2449;Karen;51;F;Av. Reforma 123
+2450;Joseph;63;F;Av. Universidad 321
+2451;Sofía;67;F;Av. Universidad 321
+2452;Joseph;18;F;Av. Madero 777
+2453;Sofía;21;F;Calle Zaragoza 12
+2454;Cindy;33;M;Calle Hidalgo 89
+2455;Karen;68;F;Av. Universidad 321
+2456;Karen;55;M;Calle Allende 34
+2457;James;26;M;Av. Universidad 321
+2458;James;42;M;Av. Insurgentes 678
+2459;James;38;M;Calle Hidalgo 89
+2460;Karen;43;M;Av. López Mateos 900
+2461;Cindy;42;F;Av. López Mateos 900
+2462;Sofía;52;M;Calle Hidalgo 89
+2463;Louis;23;F;Calle Hidalgo 89
+2464;Cindy;67;M;Av. Universidad 321
+2465;Sofía;32;M;Calle Hidalgo 89
+2466;Sofía;47;F;Calle Juárez 45
+2467;Louis;40;M;Calle Allende 34
+2468;Marie;58;F;Av. Madero 777
+2469;Sofía;56;M;Av. López Mateos 900
+2470;Michael;31;F;Calle Allende 34
+2471;Sofía;36;M;Calle Hidalgo 89
+2472;Sofía;44;M;Calle Juárez 45
+2473;Peter;69;F;Calle Allende 34
+2474;Joseph;55;M;Av. Insurgentes 678
+2475;Michael;18;M;Calle Hidalgo 89
+2476;Michael;33;M;Av. Universidad 321
+2477;Joseph;29;M;Calle Zaragoza 12
+2478;Joseph;57;F;Calle Juárez 45
+2479;Sofía;38;F;Calle Juárez 45
+2480;Sofía;42;F;Calle Zaragoza 12
+2481;James;24;F;Calle Zaragoza 12
+2482;Joseph;23;F;Calle Juárez 45
+2483;Marie;51;F;Calle Juárez 45
+2484;Louis;64;F;Av. Insurgentes 678
+2485;Michael;66;M;Av. Universidad 321
+2486;Peter;46;M;Av. Reforma 123
+2487;Sofía;25;F;Av. Insurgentes 678
+2488;Louis;40;F;Av. Madero 777
+2489;Louis;27;F;Av. Reforma 123
+2490;Joseph;30;F;Av. López Mateos 900
+2491;Sofía;36;F;Av. Insurgentes 678
+2492;Karen;37;M;Calle Allende 34
+2493;Peter;38;F;Calle Morelos 56
+2494;Louis;52;F;Calle Juárez 45
+2495;Peter;62;M;Av. Madero 777
+2496;Karen;22;F;Av. Insurgentes 678
+2497;Karen;52;M;Calle Morelos 56
+2498;Karen;48;M;Calle Hidalgo 89
+2499;Joseph;43;M;Calle Allende 34
+2500;Louis;21;F;Av. Madero 777
+2501;Marie;41;F;Calle Allende 34
+2502;Marie;22;M;Av. Universidad 321
+2503;Peter;25;F;Calle Morelos 56
+2504;Karen;44;F;Calle Allende 34
+2505;Karen;70;M;Av. Madero 777
+2506;Peter;39;F;Av. Universidad 321
+2507;Louis;29;F;Calle Juárez 45
+2508;Peter;35;M;Calle Juárez 45
+2509;Louis;58;M;Calle Morelos 56
+2510;James;70;F;Av. López Mateos 900
+2511;Michael;19;F;Calle Morelos 56
+2512;Marie;49;M;Av. Insurgentes 678
+2513;Peter;49;F;Av. López Mateos 900
+2514;Peter;40;F;Av. López Mateos 900
+2515;James;27;F;Calle Morelos 56
+2516;Marie;41;F;Av. López Mateos 900
+2517;Marie;36;M;Calle Allende 34
+2518;Sofía;54;M;Calle Morelos 56
+2519;Louis;69;F;Av. Reforma 123
+2520;Joseph;28;F;Av. López Mateos 900
+2521;Marie;57;M;Calle Zaragoza 12
+2522;Peter;62;F;Calle Hidalgo 89
+2523;James;44;M;Calle Juárez 45
+2524;Karen;51;F;Calle Hidalgo 89
+2525;Joseph;46;F;Calle Hidalgo 89
+2526;Michael;26;F;Av. López Mateos 900
+2527;Marie;37;F;Calle Hidalgo 89
+2528;Louis;52;F;Calle Zaragoza 12
+2529;Michael;69;F;Calle Morelos 56
+2530;Karen;46;M;Av. Insurgentes 678
+2531;Carmen;69;M;Av. Reforma 123
+2532;Cindy;63;M;Calle Morelos 56
+2533;Peter;26;M;Calle Allende 34
+2534;Karen;70;M;Av. López Mateos 900
+2535;Karen;31;F;Calle Morelos 56
+2536;Cindy;63;F;Calle Juárez 45
+2537;Louis;51;F;Calle Morelos 56
+2538;Michael;53;M;Av. López Mateos 900
+2539;Marie;46;F;Calle Zaragoza 12
+2540;James;68;M;Av. López Mateos 900
+2541;Michael;70;M;Av. Reforma 123
+2542;Peter;35;M;Av. Universidad 321
+2543;Joseph;62;M;Av. Universidad 321
+2544;Carmen;24;F;Calle Hidalgo 89
+2545;James;55;M;Calle Allende 34
+2546;Peter;68;F;Calle Zaragoza 12
+2547;Marie;49;F;Av. López Mateos 900
+2548;Marie;55;M;Calle Hidalgo 89
+2549;Michael;63;F;Av. Madero 777
+2550;Carmen;34;M;Av. Madero 777
+2551;Karen;42;F;Av. Reforma 123
+2552;Joseph;67;M;Calle Juárez 45
+2553;Sofía;18;M;Av. López Mateos 900
+2554;Carmen;52;F;Calle Morelos 56
+2555;Michael;36;M;Calle Hidalgo 89
+2556;Sofía;32;M;Calle Morelos 56
+2557;Joseph;50;M;Calle Morelos 56
+2558;Joseph;54;M;Av. López Mateos 900
+2559;Marie;44;M;Av. Insurgentes 678
+2560;James;48;M;Av. Universidad 321
+2561;Cindy;52;M;Av. Reforma 123
+2562;Sofía;31;F;Calle Juárez 45
+2563;Marie;50;M;Av. Reforma 123
+2564;Louis;68;F;Av. Insurgentes 678
+2565;Cindy;64;F;Calle Allende 34
+2566;Louis;47;M;Calle Zaragoza 12
+2567;Sofía;27;M;Av. Madero 777
+2568;Carmen;31;M;Calle Allende 34
+2569;Karen;45;F;Av. Madero 777
+2570;Marie;35;F;Av. López Mateos 900
+2571;Louis;50;F;Av. Universidad 321
+2572;Sofía;30;M;Calle Zaragoza 12
+2573;Sofía;56;M;Av. López Mateos 900
+2574;Michael;28;M;Calle Morelos 56
+2575;Peter;35;M;Av. Madero 777
+2576;Carmen;45;M;Av. Insurgentes 678
+2577;Cindy;53;M;Calle Zaragoza 12
+2578;Marie;49;M;Av. Reforma 123
+2579;Sofía;43;F;Calle Zaragoza 12
+2580;Karen;61;M;Av. Insurgentes 678
+2581;Karen;35;M;Av. Universidad 321
+2582;Sofía;59;M;Av. Universidad 321
+2583;Louis;30;F;Calle Morelos 56
+2584;James;36;F;Av. Universidad 321
+2585;Carmen;24;M;Calle Morelos 56
+2586;Karen;57;F;Av. Universidad 321
+2587;Joseph;56;M;Av. Insurgentes 678
+2588;Michael;61;M;Calle Zaragoza 12
+2589;James;51;F;Av. Insurgentes 678
+2590;Michael;63;F;Av. López Mateos 900
+2591;Joseph;68;M;Calle Juárez 45
+2592;Carmen;65;M;Calle Juárez 45
+2593;Peter;63;M;Calle Allende 34
+2594;Carmen;44;M;Calle Juárez 45
+2595;Marie;39;M;Calle Allende 34
+2596;Karen;58;F;Av. Reforma 123
+2597;Cindy;26;F;Av. Universidad 321
+2598;Louis;47;F;Calle Morelos 56
+2599;Cindy;29;M;Calle Morelos 56
+2600;Marie;51;M;Calle Morelos 56
+2601;Sofía;59;M;Calle Hidalgo 89
+2602;Joseph;20;M;Calle Hidalgo 89
+2603;Cindy;52;M;Calle Juárez 45
+2604;Carmen;39;M;Calle Morelos 56
+2605;Sofía;40;F;Av. Insurgentes 678
+2606;Sofía;59;F;Calle Juárez 45
+2607;Marie;40;F;Av. López Mateos 900
+2608;Sofía;47;F;Calle Zaragoza 12
+2609;Marie;36;M;Av. Universidad 321
+2610;Michael;55;M;Calle Morelos 56
+2611;Marie;65;M;Calle Morelos 56
+2612;James;65;M;Av. Reforma 123
+2613;Carmen;31;F;Av. Reforma 123
+2614;Michael;33;M;Av. Universidad 321
+2615;Peter;40;F;Calle Allende 34
+2616;Carmen;66;F;Av. Reforma 123
+2617;Carmen;57;M;Av. Universidad 321
+2618;Cindy;63;M;Calle Morelos 56
+2619;Joseph;50;M;Av. López Mateos 900
+2620;Joseph;36;F;Calle Allende 34
+2621;Joseph;59;M;Calle Juárez 45
+2622;Carmen;27;M;Av. Universidad 321
+2623;Louis;52;F;Calle Hidalgo 89
+2624;Joseph;61;F;Calle Juárez 45
+2625;James;45;F;Av. Reforma 123
+2626;Louis;43;F;Av. Reforma 123
+2627;Carmen;47;M;Calle Allende 34
+2628;Carmen;59;M;Av. Universidad 321
+2629;Carmen;37;F;Av. Reforma 123
+2630;Louis;68;F;Calle Allende 34
+2631;Carmen;48;M;Calle Juárez 45
+2632;Karen;37;F;Calle Allende 34
+2633;Michael;22;M;Calle Zaragoza 12
+2634;Louis;64;M;Av. Universidad 321
+2635;Marie;45;F;Calle Allende 34
+2636;Cindy;55;F;Calle Juárez 45
+2637;Karen;44;F;Av. Madero 777
+2638;Sofía;23;M;Av. Universidad 321
+2639;Cindy;70;M;Av. Madero 777
+2640;James;40;M;Calle Juárez 45
+2641;Karen;44;F;Av. Madero 777
+2642;Peter;69;F;Av. Universidad 321
+2643;Louis;43;M;Av. Insurgentes 678
+2644;Peter;33;M;Calle Morelos 56
+2645;Sofía;56;M;Av. López Mateos 900
+2646;Cindy;64;F;Calle Morelos 56
+2647;Louis;67;F;Av. Madero 777
+2648;Michael;30;F;Calle Zaragoza 12
+2649;Joseph;45;M;Calle Juárez 45
+2650;James;35;M;Av. Madero 777
+2651;Michael;64;F;Calle Zaragoza 12
+2652;Marie;21;F;Calle Juárez 45
+2653;Carmen;25;M;Av. López Mateos 900
+2654;Carmen;61;M;Av. Reforma 123
+2655;Carmen;50;M;Av. Universidad 321
+2656;Carmen;39;F;Calle Morelos 56
+2657;James;18;M;Av. Madero 777
+2658;Carmen;40;F;Av. López Mateos 900
+2659;Michael;50;F;Av. Universidad 321
+2660;Joseph;48;F;Calle Juárez 45
+2661;Peter;59;F;Calle Hidalgo 89
+2662;Cindy;69;M;Av. Madero 777
+2663;Sofía;66;M;Calle Morelos 56
+2664;Joseph;34;F;Calle Juárez 45
+2665;Michael;56;F;Av. López Mateos 900
+2666;James;41;F;Av. Madero 777
+2667;Michael;70;F;Av. López Mateos 900
+2668;Cindy;19;M;Av. López Mateos 900
+2669;Sofía;42;F;Calle Juárez 45
+2670;Sofía;45;M;Av. Insurgentes 678
+2671;Michael;35;M;Calle Juárez 45
+2672;Michael;56;M;Calle Morelos 56
+2673;Sofía;57;M;Av. Insurgentes 678
+2674;Carmen;24;F;Calle Zaragoza 12
+2675;Michael;51;M;Av. Madero 777
+2676;Marie;35;M;Calle Hidalgo 89
+2677;Cindy;43;M;Av. Insurgentes 678
+2678;Joseph;43;M;Av. Reforma 123
+2679;Carmen;31;F;Calle Zaragoza 12
+2680;Peter;27;M;Av. López Mateos 900
+2681;Michael;32;M;Calle Allende 34
+2682;Michael;28;F;Calle Juárez 45
+2683;Louis;57;F;Av. Universidad 321
+2684;Sofía;60;M;Av. Universidad 321
+2685;Sofía;42;F;Av. Reforma 123
+2686;Joseph;34;M;Av. Madero 777
+2687;Carmen;20;M;Av. Insurgentes 678
+2688;Karen;32;M;Av. Insurgentes 678
+2689;Marie;46;F;Av. López Mateos 900
+2690;James;68;M;Calle Hidalgo 89
+2691;Sofía;21;M;Av. López Mateos 900
+2692;Peter;49;M;Av. Universidad 321
+2693;James;29;M;Av. Madero 777
+2694;Karen;58;F;Av. Madero 777
+2695;Michael;34;F;Calle Hidalgo 89
+2696;Louis;26;M;Av. López Mateos 900
+2697;Joseph;40;M;Av. Reforma 123
+2698;Marie;47;M;Av. Madero 777
+2699;Marie;47;F;Calle Hidalgo 89
+2700;Peter;29;F;Av. Reforma 123
+2701;Marie;39;M;Calle Zaragoza 12
+2702;Peter;68;M;Calle Hidalgo 89
+2703;Karen;54;M;Calle Zaragoza 12
+2704;Karen;28;M;Calle Allende 34
+2705;Cindy;28;M;Calle Hidalgo 89
+2706;James;64;F;Calle Hidalgo 89
+2707;Louis;68;M;Av. Reforma 123
+2708;Karen;53;M;Av. Madero 777
+2709;Karen;59;M;Av. López Mateos 900
+2710;Michael;50;M;Calle Morelos 56
+2711;Carmen;41;F;Calle Hidalgo 89
+2712;Cindy;36;M;Calle Morelos 56
+2713;Marie;60;F;Av. Insurgentes 678
+2714;Peter;37;M;Calle Morelos 56
+2715;Karen;34;F;Calle Zaragoza 12
+2716;James;30;M;Av. Insurgentes 678
+2717;Peter;34;F;Calle Allende 34
+2718;Sofía;43;F;Calle Hidalgo 89
+2719;Joseph;58;F;Av. Insurgentes 678
+2720;Michael;34;M;Av. Insurgentes 678
+2721;Michael;62;M;Calle Hidalgo 89
+2722;Carmen;63;F;Calle Hidalgo 89
+2723;James;50;M;Calle Juárez 45
+2724;Michael;61;F;Av. López Mateos 900
+2725;Karen;44;M;Av. López Mateos 900
+2726;Carmen;61;M;Av. Reforma 123
+2727;Carmen;69;M;Calle Morelos 56
+2728;Karen;42;M;Calle Allende 34
+2729;James;19;M;Calle Juárez 45
+2730;Carmen;23;M;Calle Morelos 56
+2731;James;32;M;Av. Madero 777
+2732;Sofía;18;F;Calle Allende 34
+2733;Michael;36;M;Calle Zaragoza 12
+2734;Karen;69;M;Calle Zaragoza 12
+2735;Louis;26;F;Av. Universidad 321
+2736;Peter;50;M;Av. Reforma 123
+2737;Marie;70;F;Calle Juárez 45
+2738;Joseph;52;M;Av. Insurgentes 678
+2739;Joseph;59;F;Calle Morelos 56
+2740;Peter;27;M;Av. Insurgentes 678
+2741;Cindy;62;F;Av. López Mateos 900
+2742;Peter;45;F;Av. Insurgentes 678
+2743;Sofía;63;M;Av. Insurgentes 678
+2744;Peter;49;M;Av. Madero 777
+2745;James;38;F;Av. Reforma 123
+2746;Joseph;64;F;Calle Hidalgo 89
+2747;Louis;27;M;Calle Juárez 45
+2748;Carmen;41;M;Calle Morelos 56
+2749;Carmen;19;F;Av. Insurgentes 678
+2750;Karen;49;M;Av. Insurgentes 678
+2751;Cindy;58;M;Av. Insurgentes 678
+2752;Michael;28;F;Calle Morelos 56
+2753;Sofía;44;M;Av. López Mateos 900
+2754;Peter;30;F;Calle Morelos 56
+2755;Karen;40;F;Av. Madero 777
+2756;Cindy;31;M;Av. Insurgentes 678
+2757;Joseph;44;M;Calle Zaragoza 12
+2758;Karen;45;F;Av. Madero 777
+2759;Cindy;69;F;Calle Zaragoza 12
+2760;Peter;40;M;Av. Insurgentes 678
+2761;Michael;63;F;Av. Insurgentes 678
+2762;Cindy;29;F;Av. Madero 777
+2763;Peter;37;M;Calle Hidalgo 89
+2764;Peter;19;F;Av. Reforma 123
+2765;Sofía;24;M;Av. Madero 777
+2766;Michael;47;F;Calle Juárez 45
+2767;Sofía;64;F;Calle Juárez 45
+2768;Carmen;48;F;Av. Madero 777
+2769;James;26;M;Av. Madero 777
+2770;Peter;27;M;Av. Madero 777
+2771;Peter;56;F;Calle Juárez 45
+2772;Louis;39;F;Av. Reforma 123
+2773;Sofía;55;M;Av. Universidad 321
+2774;Cindy;38;M;Av. Reforma 123
+2775;Karen;18;M;Av. Insurgentes 678
+2776;Marie;60;F;Calle Allende 34
+2777;Michael;31;M;Calle Zaragoza 12
+2778;Carmen;39;F;Av. López Mateos 900
+2779;Peter;22;F;Av. Reforma 123
+2780;Marie;33;F;Calle Allende 34
+2781;Cindy;41;F;Calle Zaragoza 12
+2782;Karen;67;F;Calle Zaragoza 12
+2783;Peter;46;M;Av. Universidad 321
+2784;Karen;37;M;Av. Madero 777
+2785;Carmen;63;M;Calle Morelos 56
+2786;Karen;43;M;Av. Madero 777
+2787;Sofía;36;F;Calle Juárez 45
+2788;Marie;39;M;Calle Allende 34
+2789;Marie;47;F;Calle Morelos 56
+2790;Marie;20;F;Calle Hidalgo 89
+2791;Louis;51;M;Av. López Mateos 900
+2792;Cindy;67;F;Calle Zaragoza 12
+2793;Michael;70;M;Calle Hidalgo 89
+2794;Michael;51;F;Av. Universidad 321
+2795;Peter;40;F;Av. Madero 777
+2796;James;44;F;Calle Hidalgo 89
+2797;Joseph;29;M;Calle Zaragoza 12
+2798;Karen;55;F;Calle Morelos 56
+2799;Michael;64;F;Av. López Mateos 900
+2800;Louis;64;F;Av. López Mateos 900
+2801;Karen;42;F;Av. Madero 777
+2802;Joseph;66;F;Av. Insurgentes 678
+2803;Cindy;45;M;Calle Zaragoza 12
+2804;Michael;24;M;Calle Juárez 45
+2805;Joseph;54;F;Av. Madero 777
+2806;Karen;68;F;Calle Morelos 56
+2807;Carmen;25;M;Calle Hidalgo 89
+2808;Sofía;64;M;Av. Universidad 321
+2809;Joseph;65;F;Av. López Mateos 900
+2810;Karen;35;M;Calle Allende 34
+2811;Louis;54;F;Av. Reforma 123
+2812;Michael;47;F;Calle Hidalgo 89
+2813;Sofía;43;M;Av. Reforma 123
+2814;Cindy;42;F;Calle Zaragoza 12
+2815;Cindy;59;F;Av. López Mateos 900
+2816;Joseph;33;M;Calle Allende 34
+2817;Louis;60;F;Av. Insurgentes 678
+2818;Louis;39;F;Av. Reforma 123
+2819;Marie;18;M;Av. Madero 777
+2820;Peter;20;M;Av. Insurgentes 678
+2821;Karen;52;M;Av. Madero 777
+2822;Karen;65;F;Av. Universidad 321
+2823;Louis;60;M;Calle Allende 34
+2824;Cindy;68;F;Av. Universidad 321
+2825;Joseph;36;F;Calle Morelos 56
+2826;Louis;54;M;Av. Universidad 321
+2827;Joseph;63;F;Av. Reforma 123
+2828;Sofía;57;F;Av. Madero 777
+2829;Michael;32;M;Calle Zaragoza 12
+2830;Louis;44;M;Calle Morelos 56
+2831;Joseph;20;M;Calle Morelos 56
+2832;Karen;59;M;Calle Juárez 45
+2833;Carmen;18;M;Av. Reforma 123
+2834;Cindy;64;M;Av. Insurgentes 678
+2835;Joseph;25;M;Av. Reforma 123
+2836;James;47;M;Av. Madero 777
+2837;Sofía;37;M;Av. Universidad 321
+2838;Peter;46;M;Av. Universidad 321
+2839;Louis;55;M;Av. Madero 777
+2840;Carmen;20;F;Calle Hidalgo 89
+2841;Sofía;38;F;Calle Allende 34
+2842;Joseph;55;M;Av. López Mateos 900
+2843;Karen;31;M;Av. Insurgentes 678
+2844;Carmen;21;F;Calle Hidalgo 89
+2845;Joseph;28;F;Av. Reforma 123
+2846;Joseph;49;M;Calle Hidalgo 89
+2847;Cindy;35;M;Calle Hidalgo 89
+2848;Louis;57;M;Av. López Mateos 900
+2849;Marie;25;F;Av. López Mateos 900
+2850;Cindy;35;M;Av. Madero 777
+2851;Joseph;42;M;Av. Universidad 321
+2852;Joseph;40;F;Calle Allende 34
+2853;Louis;18;M;Av. Universidad 321
+2854;Sofía;63;F;Av. López Mateos 900
+2855;James;47;F;Calle Zaragoza 12
+2856;Louis;19;M;Calle Allende 34
+2857;Cindy;28;M;Calle Morelos 56
+2858;Cindy;39;M;Av. López Mateos 900
+2859;Michael;50;M;Calle Hidalgo 89
+2860;Cindy;32;M;Av. Universidad 321
+2861;Cindy;34;F;Calle Allende 34
+2862;Michael;36;M;Calle Morelos 56
+2863;James;41;M;Av. Madero 777
+2864;Sofía;46;M;Av. Reforma 123
+2865;Marie;67;M;Calle Juárez 45
+2866;Marie;49;F;Av. López Mateos 900
+2867;Carmen;25;F;Av. Insurgentes 678
+2868;Sofía;59;M;Calle Juárez 45
+2869;Cindy;55;F;Calle Hidalgo 89
+2870;Cindy;23;F;Calle Juárez 45
+2871;Michael;28;F;Calle Hidalgo 89
+2872;Joseph;58;M;Av. Madero 777
+2873;Michael;25;F;Calle Allende 34
+2874;Carmen;22;F;Calle Hidalgo 89
+2875;Marie;59;F;Calle Hidalgo 89
+2876;Sofía;65;F;Av. Insurgentes 678
+2877;Peter;44;F;Av. Insurgentes 678
+2878;Carmen;49;M;Calle Hidalgo 89
+2879;Michael;39;F;Av. López Mateos 900
+2880;Louis;35;F;Calle Zaragoza 12
+2881;James;56;F;Av. López Mateos 900
+2882;Carmen;38;M;Av. Reforma 123
+2883;Michael;28;F;Av. Universidad 321
+2884;Louis;25;F;Av. Universidad 321
+2885;Joseph;59;F;Av. López Mateos 900
+2886;Karen;50;F;Av. López Mateos 900
+2887;Louis;31;M;Calle Morelos 56
+2888;Marie;36;M;Av. Reforma 123
+2889;Michael;57;F;Calle Hidalgo 89
+2890;Carmen;39;F;Calle Allende 34
+2891;Joseph;51;F;Av. Madero 777
+2892;Marie;21;F;Av. Reforma 123
+2893;Joseph;44;M;Calle Hidalgo 89
+2894;Marie;47;F;Av. López Mateos 900
+2895;Carmen;69;F;Calle Allende 34
+2896;James;67;M;Av. Madero 777
+2897;Cindy;57;F;Av. López Mateos 900
+2898;Cindy;20;M;Av. Reforma 123
+2899;Peter;42;M;Av. Insurgentes 678
+2900;Michael;23;M;Av. López Mateos 900
+2901;Cindy;41;M;Av. Universidad 321
+2902;Michael;38;M;Calle Juárez 45
+2903;Cindy;53;F;Av. Universidad 321
+2904;James;57;F;Calle Hidalgo 89
+2905;Cindy;24;F;Av. Madero 777
+2906;Carmen;32;F;Calle Zaragoza 12
+2907;James;52;M;Av. Madero 777
+2908;James;65;M;Av. Insurgentes 678
+2909;Louis;39;F;Calle Hidalgo 89
+2910;Peter;41;M;Calle Zaragoza 12
+2911;Cindy;26;F;Av. López Mateos 900
+2912;Peter;32;M;Calle Allende 34
+2913;Joseph;67;M;Av. Insurgentes 678
+2914;Cindy;58;M;Calle Zaragoza 12
+2915;Marie;63;M;Calle Zaragoza 12
+2916;Carmen;52;F;Calle Juárez 45
+2917;Carmen;57;M;Av. Insurgentes 678
+2918;James;66;M;Calle Juárez 45
+2919;Marie;50;F;Calle Hidalgo 89
+2920;Marie;44;M;Calle Zaragoza 12
+2921;Joseph;21;M;Calle Morelos 56
+2922;Peter;65;M;Av. Reforma 123
+2923;Michael;57;F;Av. Reforma 123
+2924;Karen;68;F;Av. López Mateos 900
+2925;Louis;51;F;Av. Reforma 123
+2926;Marie;38;F;Av. Madero 777
+2927;Sofía;55;F;Calle Zaragoza 12
+2928;Michael;24;F;Av. Universidad 321
+2929;Karen;67;M;Av. López Mateos 900
+2930;Marie;33;M;Calle Morelos 56
+2931;Marie;25;F;Calle Zaragoza 12
+2932;Louis;37;F;Av. Universidad 321
+2933;Cindy;57;M;Av. Universidad 321
+2934;Cindy;62;F;Calle Zaragoza 12
+2935;James;30;F;Calle Morelos 56
+2936;Marie;32;M;Av. López Mateos 900
+2937;Carmen;63;M;Calle Juárez 45
+2938;Karen;20;F;Calle Morelos 56
+2939;Louis;70;F;Av. Insurgentes 678
+2940;Karen;53;M;Calle Zaragoza 12
+2941;Karen;60;M;Calle Morelos 56
+2942;Michael;55;M;Av. Insurgentes 678
+2943;Michael;35;F;Calle Allende 34
+2944;Peter;64;M;Calle Allende 34
+2945;Cindy;38;F;Av. Madero 777
+2946;Michael;21;F;Av. Madero 777
+2947;Marie;25;F;Av. Madero 777
+2948;Karen;66;M;Av. Universidad 321
+2949;Cindy;55;M;Calle Juárez 45
+2950;Joseph;32;M;Calle Morelos 56
+2951;Michael;51;F;Calle Allende 34
+2952;Karen;19;F;Av. Reforma 123
+2953;Joseph;63;M;Av. Insurgentes 678
+2954;Michael;28;M;Calle Zaragoza 12
+2955;Louis;52;M;Av. Reforma 123
+2956;Carmen;70;F;Av. Madero 777
+2957;Michael;56;F;Av. Reforma 123
+2958;Louis;32;M;Av. Universidad 321
+2959;Sofía;49;F;Av. Reforma 123
+2960;Michael;38;F;Av. Reforma 123
+2961;Joseph;66;M;Calle Allende 34
+2962;Carmen;34;F;Av. Insurgentes 678
+2963;Peter;21;M;Calle Zaragoza 12
+2964;Cindy;46;M;Av. López Mateos 900
+2965;Carmen;33;M;Av. Reforma 123
+2966;Michael;24;F;Calle Zaragoza 12
+2967;James;43;F;Av. Insurgentes 678
+2968;Peter;18;F;Calle Allende 34
+2969;Carmen;31;M;Calle Hidalgo 89
+2970;Carmen;34;F;Av. Reforma 123
+2971;Karen;28;F;Av. Universidad 321
+2972;Louis;19;F;Av. Reforma 123
+2973;Peter;23;M;Av. López Mateos 900
+2974;Sofía;42;M;Av. Reforma 123
+2975;Cindy;68;M;Av. Universidad 321
+2976;Marie;24;M;Av. López Mateos 900
+2977;Cindy;47;F;Calle Zaragoza 12
+2978;Louis;61;F;Calle Juárez 45
+2979;Carmen;51;M;Calle Allende 34
+2980;Cindy;66;F;Calle Zaragoza 12
+2981;Joseph;38;M;Av. Madero 777
+2982;Karen;59;M;Av. Madero 777
+2983;Marie;32;M;Av. López Mateos 900
+2984;Cindy;48;M;Av. López Mateos 900
+2985;Joseph;20;F;Av. López Mateos 900
+2986;Sofía;65;M;Calle Juárez 45
+2987;Cindy;51;M;Calle Allende 34
+2988;Peter;49;M;Av. Universidad 321
+2989;Sofía;66;M;Calle Allende 34
+2990;Marie;69;F;Av. Madero 777
+2991;James;26;F;Calle Zaragoza 12
+2992;Sofía;45;F;Av. López Mateos 900
+2993;Michael;56;M;Av. Madero 777
+2994;Karen;19;F;Av. Universidad 321
+2995;Sofía;41;M;Av. Insurgentes 678
+2996;Michael;67;F;Av. Insurgentes 678
+2997;Karen;19;F;Av. Madero 777
+2998;Carmen;44;M;Calle Juárez 45
+2999;Carmen;60;F;Calle Zaragoza 12
+3000;Carmen;59;F;Calle Zaragoza 12
+3001;Marie;46;M;Av. Reforma 123
+3002;Peter;53;M;Av. Madero 777
+3003;Joseph;28;F;Av. Insurgentes 678
+3004;Louis;42;F;Calle Allende 34
+3005;Peter;27;M;Calle Juárez 45
+3006;Peter;43;M;Calle Zaragoza 12
+3007;James;62;F;Av. Madero 777
+3008;Cindy;40;M;Calle Allende 34
+3009;Michael;43;M;Av. Insurgentes 678
+3010;Karen;42;M;Calle Juárez 45
+3011;Louis;29;M;Calle Juárez 45
+3012;Peter;31;M;Calle Morelos 56
+3013;Joseph;36;M;Av. Reforma 123
+3014;Louis;64;F;Av. López Mateos 900
+3015;Karen;35;F;Calle Allende 34
+3016;Sofía;35;M;Calle Allende 34
+3017;Joseph;35;F;Av. Insurgentes 678
+3018;Peter;58;F;Calle Morelos 56
+3019;Cindy;53;F;Av. Universidad 321
+3020;Carmen;54;M;Av. López Mateos 900
+3021;Cindy;70;M;Av. Universidad 321
+3022;Carmen;36;F;Calle Morelos 56
+3023;Karen;66;M;Av. Universidad 321
+3024;James;50;F;Av. López Mateos 900
+3025;Joseph;63;M;Av. Insurgentes 678
+3026;Cindy;50;M;Av. Madero 777
+3027;Marie;20;M;Av. Madero 777
+3028;Michael;59;M;Calle Allende 34
+3029;Joseph;64;M;Av. Madero 777
+3030;Louis;46;F;Av. Universidad 321
+3031;Marie;37;F;Calle Allende 34
+3032;Cindy;23;M;Calle Hidalgo 89
+3033;Marie;52;M;Calle Hidalgo 89
+3034;Karen;66;F;Calle Hidalgo 89
+3035;Carmen;59;M;Calle Hidalgo 89
+3036;Peter;31;F;Av. Reforma 123
+3037;Joseph;23;M;Av. Universidad 321
+3038;Joseph;47;F;Av. Reforma 123
+3039;Peter;24;M;Av. Universidad 321
+3040;Louis;25;F;Av. Madero 777
+3041;Karen;19;F;Av. Universidad 321
+3042;Michael;41;F;Calle Juárez 45
+3043;Karen;22;M;Av. Madero 777
+3044;Cindy;47;F;Calle Allende 34
+3045;Cindy;18;M;Av. Reforma 123
+3046;Michael;68;M;Calle Morelos 56
+3047;Carmen;64;M;Calle Zaragoza 12
+3048;James;66;M;Av. Insurgentes 678
+3049;Peter;58;F;Calle Hidalgo 89
+3050;Carmen;51;M;Calle Juárez 45
+3051;Marie;41;M;Calle Allende 34
+3052;Carmen;29;M;Calle Hidalgo 89
+3053;Louis;63;M;Av. Universidad 321
+3054;Peter;69;F;Calle Zaragoza 12
+3055;Cindy;67;F;Calle Hidalgo 89
+3056;Karen;35;F;Calle Allende 34
+3057;Cindy;58;F;Calle Hidalgo 89
+3058;Louis;21;F;Av. Insurgentes 678
+3059;Carmen;49;M;Av. López Mateos 900
+3060;Louis;48;F;Calle Allende 34
+3061;Michael;62;M;Calle Hidalgo 89
+3062;Joseph;31;F;Calle Juárez 45
+3063;Peter;48;F;Av. Madero 777
+3064;James;23;M;Av. Insurgentes 678
+3065;James;34;F;Calle Zaragoza 12
+3066;Cindy;24;M;Calle Hidalgo 89
+3067;Louis;42;M;Av. Madero 777
+3068;Sofía;59;F;Av. Universidad 321
+3069;Louis;47;M;Av. Reforma 123
+3070;Cindy;29;F;Calle Morelos 56
+3071;Peter;30;M;Av. Reforma 123
+3072;Karen;64;M;Av. Madero 777
+3073;Peter;66;F;Av. Reforma 123
+3074;Peter;59;F;Av. Insurgentes 678
+3075;Joseph;55;F;Calle Zaragoza 12
+3076;Sofía;33;M;Av. López Mateos 900
+3077;James;24;M;Calle Juárez 45
+3078;Karen;30;F;Av. Universidad 321
+3079;Michael;59;M;Av. Madero 777
+3080;Carmen;68;F;Calle Zaragoza 12
+3081;Peter;41;F;Calle Allende 34
+3082;Karen;63;M;Calle Allende 34
+3083;Peter;47;M;Av. Reforma 123
+3084;Louis;22;M;Calle Juárez 45
+3085;Joseph;67;M;Av. Madero 777
+3086;Joseph;39;F;Av. Universidad 321
+3087;Marie;55;F;Av. Insurgentes 678
+3088;James;62;F;Av. López Mateos 900
+3089;Marie;51;M;Calle Morelos 56
+3090;Louis;49;M;Calle Hidalgo 89
+3091;Louis;22;M;Calle Zaragoza 12
+3092;Carmen;30;M;Calle Juárez 45
+3093;Louis;29;F;Calle Juárez 45
+3094;Marie;69;F;Calle Juárez 45
+3095;Louis;40;M;Calle Juárez 45
+3096;Marie;70;M;Av. López Mateos 900
+3097;Joseph;30;F;Av. Madero 777
+3098;James;44;F;Av. Madero 777
+3099;Cindy;19;F;Calle Juárez 45
+3100;Peter;61;F;Av. Madero 777
+3101;Carmen;33;M;Av. Reforma 123
+3102;Louis;44;M;Av. Madero 777
+3103;Carmen;18;M;Calle Zaragoza 12
+3104;Louis;63;F;Av. Universidad 321
+3105;Carmen;46;M;Calle Morelos 56
+3106;Peter;61;F;Av. Reforma 123
+3107;Marie;42;F;Av. Madero 777
+3108;Sofía;55;M;Av. Madero 777
+3109;Karen;29;F;Av. López Mateos 900
+3110;Carmen;63;M;Av. Insurgentes 678
+3111;Carmen;54;M;Av. Insurgentes 678
+3112;Joseph;50;F;Av. Universidad 321
+3113;Carmen;57;M;Calle Zaragoza 12
+3114;James;63;M;Calle Zaragoza 12
+3115;Marie;62;M;Av. Insurgentes 678
+3116;Sofía;61;F;Av. Universidad 321
+3117;Cindy;54;F;Av. Reforma 123
+3118;Louis;39;F;Av. Madero 777
+3119;Marie;29;F;Calle Zaragoza 12
+3120;Cindy;44;M;Calle Zaragoza 12
+3121;James;50;M;Av. Insurgentes 678
+3122;Joseph;47;F;Av. Reforma 123
+3123;James;48;M;Av. Madero 777
+3124;Joseph;52;F;Calle Zaragoza 12
+3125;Sofía;61;F;Av. López Mateos 900
+3126;Joseph;48;F;Calle Hidalgo 89
+3127;James;69;M;Calle Morelos 56
+3128;Louis;47;F;Av. Reforma 123
+3129;Cindy;27;M;Av. López Mateos 900
+3130;Peter;43;M;Av. Insurgentes 678
+3131;Louis;38;M;Calle Hidalgo 89
+3132;Louis;29;F;Calle Juárez 45
+3133;Sofía;19;M;Calle Hidalgo 89
+3134;Joseph;43;F;Av. Madero 777
+3135;Peter;59;F;Av. Insurgentes 678
+3136;Marie;19;F;Calle Allende 34
+3137;Sofía;59;F;Calle Juárez 45
+3138;Sofía;69;F;Av. Universidad 321
+3139;James;57;M;Av. Madero 777
+3140;Carmen;31;M;Av. Reforma 123
+3141;Peter;36;M;Av. López Mateos 900
+3142;Marie;68;M;Av. López Mateos 900
+3143;Karen;30;F;Calle Zaragoza 12
+3144;Carmen;30;F;Calle Hidalgo 89
+3145;Sofía;35;M;Calle Juárez 45
+3146;Karen;43;M;Calle Morelos 56
+3147;Karen;68;F;Calle Hidalgo 89
+3148;Joseph;68;M;Av. López Mateos 900
+3149;Peter;35;F;Calle Juárez 45
+3150;Peter;36;F;Calle Juárez 45
+3151;Joseph;18;M;Av. Reforma 123
+3152;James;30;F;Calle Hidalgo 89
+3153;James;30;F;Calle Zaragoza 12
+3154;Cindy;29;F;Av. Reforma 123
+3155;Cindy;56;M;Av. López Mateos 900
+3156;James;26;M;Av. Reforma 123
+3157;Cindy;49;F;Av. López Mateos 900
+3158;Cindy;47;F;Calle Juárez 45
+3159;Joseph;19;M;Av. Madero 777
+3160;Cindy;57;F;Calle Juárez 45
+3161;Michael;47;M;Av. Madero 777
+3162;Sofía;27;F;Calle Morelos 56
+3163;Joseph;52;M;Av. Universidad 321
+3164;James;53;M;Calle Hidalgo 89
+3165;Carmen;36;M;Calle Morelos 56
+3166;Sofía;48;M;Calle Zaragoza 12
+3167;Peter;65;F;Av. Universidad 321
+3168;Louis;29;M;Av. Madero 777
+3169;Sofía;34;F;Calle Zaragoza 12
+3170;Marie;48;M;Calle Allende 34
+3171;Carmen;41;F;Calle Hidalgo 89
+3172;Peter;35;F;Calle Hidalgo 89
+3173;Peter;69;F;Av. Insurgentes 678
+3174;Michael;38;M;Calle Morelos 56
+3175;Peter;56;F;Av. Madero 777
+3176;James;45;F;Av. López Mateos 900
+3177;Joseph;48;F;Av. Universidad 321
+3178;Joseph;39;F;Av. Reforma 123
+3179;James;27;F;Calle Zaragoza 12
+3180;James;39;F;Calle Allende 34
+3181;Cindy;39;M;Av. Reforma 123
+3182;Michael;57;F;Calle Juárez 45
+3183;Peter;43;F;Av. Universidad 321
+3184;Joseph;34;F;Av. Insurgentes 678
+3185;James;43;F;Av. Insurgentes 678
+3186;Carmen;58;F;Calle Juárez 45
+3187;James;61;M;Calle Allende 34
+3188;Cindy;22;F;Av. Insurgentes 678
+3189;Sofía;27;M;Av. Universidad 321
+3190;Sofía;42;M;Calle Allende 34
+3191;James;28;F;Av. Insurgentes 678
+3192;Marie;45;F;Av. Madero 777
+3193;Joseph;19;F;Av. Reforma 123
+3194;Karen;40;M;Av. Reforma 123
+3195;Louis;27;M;Av. Reforma 123
+3196;Peter;69;M;Av. Reforma 123
+3197;Michael;49;M;Av. Insurgentes 678
+3198;Marie;39;M;Calle Morelos 56
+3199;Cindy;44;M;Av. Madero 777
+3200;Cindy;42;M;Av. Madero 777
+3201;Cindy;61;M;Av. Insurgentes 678
+3202;Michael;40;F;Av. López Mateos 900
+3203;Michael;18;M;Av. López Mateos 900
+3204;Joseph;42;M;Av. Madero 777
+3205;Carmen;57;F;Calle Zaragoza 12
+3206;Sofía;64;M;Calle Morelos 56
+3207;Peter;34;M;Av. Reforma 123
+3208;Cindy;31;M;Calle Zaragoza 12
+3209;Joseph;62;F;Calle Zaragoza 12
+3210;Peter;25;M;Calle Juárez 45
+3211;Peter;39;F;Calle Allende 34
+3212;Sofía;59;F;Calle Juárez 45
+3213;Carmen;47;F;Calle Zaragoza 12
+3214;Sofía;52;M;Av. López Mateos 900
+3215;Louis;33;M;Av. Reforma 123
+3216;Sofía;26;F;Calle Hidalgo 89
+3217;Karen;27;M;Av. Madero 777
+3218;Michael;50;M;Av. Reforma 123
+3219;Sofía;64;M;Calle Allende 34
+3220;Michael;20;F;Av. Reforma 123
+3221;Carmen;51;F;Av. López Mateos 900
+3222;Louis;66;F;Calle Allende 34
+3223;Karen;58;M;Calle Hidalgo 89
+3224;Karen;32;F;Av. Insurgentes 678
+3225;Peter;26;M;Av. Reforma 123
+3226;James;23;F;Av. Reforma 123
+3227;Peter;18;F;Calle Morelos 56
+3228;Cindy;33;F;Av. López Mateos 900
+3229;Michael;46;F;Av. Reforma 123
+3230;Louis;29;M;Av. Insurgentes 678
+3231;Cindy;65;M;Calle Morelos 56
+3232;Joseph;61;F;Calle Allende 34
+3233;Carmen;46;F;Av. Universidad 321
+3234;Joseph;40;M;Calle Juárez 45
+3235;Karen;57;M;Calle Allende 34
+3236;Louis;56;F;Calle Juárez 45
+3237;Peter;26;F;Calle Juárez 45
+3238;Cindy;44;F;Av. Reforma 123
+3239;Joseph;60;F;Av. López Mateos 900
+3240;Carmen;19;F;Av. Reforma 123
+3241;Peter;64;F;Av. Reforma 123
+3242;Karen;61;M;Av. López Mateos 900
+3243;Cindy;21;M;Av. Madero 777
+3244;Karen;30;F;Calle Zaragoza 12
+3245;Carmen;32;F;Av. Madero 777
+3246;Carmen;64;F;Av. Madero 777
+3247;Louis;60;F;Calle Juárez 45
+3248;Joseph;55;F;Av. Madero 777
+3249;Sofía;64;M;Calle Allende 34
+3250;Peter;35;M;Calle Hidalgo 89
+3251;Carmen;22;M;Calle Juárez 45
+3252;Michael;18;M;Av. Insurgentes 678
+3253;Louis;29;M;Calle Allende 34
+3254;Cindy;24;F;Av. Insurgentes 678
+3255;Joseph;41;F;Calle Zaragoza 12
+3256;Marie;57;F;Av. Reforma 123
+3257;Marie;18;F;Calle Juárez 45
+3258;Sofía;31;F;Calle Morelos 56
+3259;Marie;51;F;Av. Insurgentes 678
+3260;Michael;56;M;Calle Hidalgo 89
+3261;Peter;63;M;Calle Morelos 56
+3262;Karen;29;M;Av. Reforma 123
+3263;Louis;22;M;Av. Universidad 321
+3264;Louis;65;F;Av. López Mateos 900
+3265;Louis;34;M;Calle Allende 34
+3266;James;38;F;Av. Reforma 123
+3267;Karen;63;F;Calle Morelos 56
+3268;Marie;63;M;Av. Reforma 123
+3269;Karen;32;M;Calle Zaragoza 12
+3270;Louis;57;F;Calle Hidalgo 89
+3271;Joseph;20;F;Calle Zaragoza 12
+3272;Sofía;22;F;Av. Madero 777
+3273;Carmen;65;F;Calle Allende 34
+3274;Joseph;18;F;Av. Reforma 123
+3275;Joseph;23;M;Calle Juárez 45
+3276;Sofía;50;F;Av. López Mateos 900
+3277;Marie;45;F;Av. Madero 777
+3278;Karen;18;F;Av. Madero 777
+3279;Carmen;18;F;Calle Allende 34
+3280;Sofía;18;M;Calle Zaragoza 12
+3281;Michael;70;F;Calle Hidalgo 89
+3282;Louis;42;M;Calle Allende 34
+3283;Karen;48;M;Av. Universidad 321
+3284;Cindy;18;M;Calle Hidalgo 89
+3285;Marie;52;F;Calle Zaragoza 12
+3286;Carmen;67;M;Calle Juárez 45
+3287;Louis;41;M;Calle Morelos 56
+3288;Sofía;50;F;Calle Allende 34
+3289;Cindy;52;F;Av. Universidad 321
+3290;Louis;61;F;Calle Zaragoza 12
+3291;Carmen;23;M;Av. Reforma 123
+3292;James;50;F;Av. Reforma 123
+3293;Peter;19;F;Av. López Mateos 900
+3294;Michael;21;F;Calle Hidalgo 89
+3295;Carmen;41;M;Calle Hidalgo 89
+3296;Louis;62;M;Av. Madero 777
+3297;Peter;45;M;Calle Hidalgo 89
+3298;Carmen;60;M;Av. Reforma 123
+3299;Karen;32;M;Av. Madero 777
+3300;Karen;60;M;Calle Morelos 56
+3301;Carmen;22;F;Calle Zaragoza 12
+3302;Sofía;33;F;Av. López Mateos 900
+3303;Marie;69;M;Calle Morelos 56
+3304;Michael;35;M;Calle Allende 34
+3305;Peter;44;M;Av. López Mateos 900
+3306;Louis;21;M;Av. Universidad 321
+3307;Marie;30;M;Calle Allende 34
+3308;Carmen;69;M;Calle Allende 34
+3309;Michael;60;M;Av. López Mateos 900
+3310;Michael;26;F;Calle Morelos 56
+3311;Peter;47;F;Calle Morelos 56
+3312;Peter;54;F;Calle Zaragoza 12
+3313;Carmen;46;M;Calle Zaragoza 12
+3314;Carmen;34;M;Calle Morelos 56
+3315;Louis;18;F;Calle Zaragoza 12
+3316;Louis;35;F;Av. Universidad 321
+3317;Michael;58;M;Av. Reforma 123
+3318;Peter;45;F;Calle Allende 34
+3319;Marie;55;M;Calle Zaragoza 12
+3320;James;45;M;Av. Reforma 123
+3321;Karen;29;M;Calle Allende 34
+3322;Karen;61;F;Calle Allende 34
+3323;James;19;F;Calle Zaragoza 12
+3324;Joseph;58;F;Av. Insurgentes 678
+3325;James;20;F;Calle Morelos 56
+3326;Peter;24;F;Calle Zaragoza 12
+3327;Marie;37;F;Calle Morelos 56
+3328;Karen;19;F;Calle Hidalgo 89
+3329;Karen;39;M;Av. López Mateos 900
+3330;Cindy;29;F;Av. Madero 777
+3331;Louis;47;F;Av. López Mateos 900
+3332;Michael;46;F;Calle Juárez 45
+3333;Joseph;70;F;Av. Reforma 123
+3334;Joseph;33;M;Calle Allende 34
+3335;Louis;70;F;Av. Insurgentes 678
+3336;Joseph;47;M;Calle Morelos 56
+3337;Carmen;20;F;Calle Hidalgo 89
+3338;Sofía;19;M;Calle Morelos 56
+3339;Sofía;22;F;Av. Reforma 123
+3340;Joseph;36;M;Calle Juárez 45
+3341;Joseph;18;M;Calle Juárez 45
+3342;Carmen;35;M;Calle Hidalgo 89
+3343;Michael;49;M;Calle Morelos 56
+3344;Joseph;55;M;Av. López Mateos 900
+3345;Peter;47;F;Av. López Mateos 900
+3346;Carmen;18;F;Av. Universidad 321
+3347;Marie;65;F;Av. Reforma 123
+3348;Michael;61;M;Calle Allende 34
+3349;Louis;65;F;Calle Morelos 56
+3350;Peter;61;M;Av. López Mateos 900
+3351;Karen;50;M;Av. Insurgentes 678
+3352;Michael;34;F;Calle Hidalgo 89
+3353;Sofía;46;F;Av. Reforma 123
+3354;Joseph;60;F;Av. Reforma 123
+3355;Sofía;53;F;Av. Reforma 123
+3356;Michael;57;M;Av. Reforma 123
+3357;Carmen;51;F;Calle Hidalgo 89
+3358;Sofía;53;M;Calle Allende 34
+3359;Karen;51;M;Calle Morelos 56
+3360;Carmen;19;M;Calle Allende 34
+3361;Joseph;45;M;Calle Allende 34
+3362;Michael;67;M;Calle Zaragoza 12
+3363;Karen;40;F;Calle Zaragoza 12
+3364;Peter;27;F;Av. Madero 777
+3365;Michael;49;M;Av. Insurgentes 678
+3366;Carmen;64;F;Calle Hidalgo 89
+3367;Cindy;26;F;Av. Insurgentes 678
+3368;Cindy;50;F;Calle Hidalgo 89
+3369;James;32;M;Av. Insurgentes 678
+3370;Sofía;29;M;Av. Madero 777
+3371;James;45;F;Av. Universidad 321
+3372;Cindy;40;M;Av. Madero 777
+3373;Peter;27;F;Av. López Mateos 900
+3374;James;66;M;Calle Zaragoza 12
+3375;James;20;F;Av. Reforma 123
+3376;Sofía;37;M;Calle Zaragoza 12
+3377;Joseph;53;M;Calle Juárez 45
+3378;Joseph;37;F;Av. Reforma 123
+3379;Peter;29;F;Av. Universidad 321
+3380;Michael;31;M;Av. Insurgentes 678
+3381;Karen;38;M;Calle Hidalgo 89
+3382;Sofía;63;M;Av. Reforma 123
+3383;Cindy;56;M;Av. Insurgentes 678
+3384;Cindy;60;M;Calle Juárez 45
+3385;Marie;42;F;Calle Allende 34
+3386;James;67;F;Av. Reforma 123
+3387;Peter;53;M;Av. Madero 777
+3388;Carmen;49;M;Calle Hidalgo 89
+3389;James;55;M;Calle Allende 34
+3390;James;22;F;Calle Zaragoza 12
+3391;Louis;27;M;Av. Universidad 321
+3392;Karen;20;M;Calle Allende 34
+3393;Cindy;67;M;Calle Hidalgo 89
+3394;Cindy;56;F;Calle Juárez 45
+3395;Carmen;23;F;Av. Universidad 321
+3396;Marie;41;F;Av. Madero 777
+3397;Carmen;34;M;Calle Hidalgo 89
+3398;Louis;39;M;Av. Madero 777
+3399;Cindy;22;M;Calle Allende 34
+3400;Carmen;25;M;Calle Hidalgo 89
+3401;Joseph;29;F;Calle Allende 34
+3402;Karen;70;F;Av. Insurgentes 678
+3403;Sofía;26;M;Calle Zaragoza 12
+3404;Louis;37;F;Av. López Mateos 900
+3405;Karen;48;M;Av. Universidad 321
+3406;Karen;43;F;Av. Reforma 123
+3407;Marie;29;F;Calle Zaragoza 12
+3408;James;48;F;Calle Hidalgo 89
+3409;James;23;M;Calle Hidalgo 89
+3410;Karen;55;M;Calle Hidalgo 89
+3411;Carmen;47;M;Av. Madero 777
+3412;Joseph;64;F;Av. Madero 777
+3413;Joseph;24;F;Calle Hidalgo 89
+3414;Joseph;42;M;Av. López Mateos 900
+3415;Peter;69;F;Calle Allende 34
+3416;Marie;56;F;Calle Allende 34
+3417;Carmen;59;F;Av. Insurgentes 678
+3418;Sofía;23;M;Av. López Mateos 900
+3419;Karen;60;M;Av. Reforma 123
+3420;Carmen;31;F;Av. Madero 777
+3421;Michael;51;M;Av. Madero 777
+3422;Louis;59;M;Calle Zaragoza 12
+3423;Peter;58;F;Av. López Mateos 900
+3424;Karen;66;F;Calle Hidalgo 89
+3425;Louis;59;M;Calle Allende 34
+3426;Marie;35;F;Av. López Mateos 900
+3427;Peter;27;M;Av. Reforma 123
+3428;Joseph;67;F;Calle Juárez 45
+3429;Marie;67;F;Av. Universidad 321
+3430;Marie;34;M;Calle Juárez 45
+3431;Carmen;41;M;Av. López Mateos 900
+3432;Peter;21;F;Calle Zaragoza 12
+3433;Karen;38;F;Av. Madero 777
+3434;Karen;47;M;Av. Universidad 321
+3435;Louis;19;F;Av. Insurgentes 678
+3436;Karen;32;F;Av. López Mateos 900
+3437;Louis;55;F;Calle Morelos 56
+3438;Peter;54;F;Calle Hidalgo 89
+3439;Joseph;65;F;Av. Universidad 321
+3440;James;50;F;Av. López Mateos 900
+3441;Karen;42;M;Av. Insurgentes 678
+3442;Marie;42;F;Av. López Mateos 900
+3443;Michael;50;M;Av. Universidad 321
+3444;James;38;F;Calle Zaragoza 12
+3445;Marie;61;F;Av. Insurgentes 678
+3446;Michael;33;F;Av. Universidad 321
+3447;Peter;38;F;Av. Insurgentes 678
+3448;James;69;M;Av. Universidad 321
+3449;Cindy;61;M;Av. Reforma 123
+3450;Carmen;29;F;Calle Juárez 45
+3451;Joseph;45;F;Calle Allende 34
+3452;Peter;33;M;Av. López Mateos 900
+3453;Joseph;68;M;Calle Allende 34
+3454;Carmen;34;F;Av. Reforma 123
+3455;Sofía;43;M;Calle Juárez 45
+3456;Sofía;47;M;Av. Madero 777
+3457;Peter;34;F;Calle Zaragoza 12
+3458;Karen;33;F;Av. Universidad 321
+3459;Michael;43;F;Av. Insurgentes 678
+3460;Michael;27;F;Av. López Mateos 900
+3461;Louis;68;M;Av. Madero 777
+3462;Cindy;60;M;Av. Insurgentes 678
+3463;Louis;30;F;Av. Universidad 321
+3464;Louis;70;M;Av. Madero 777
+3465;Peter;63;F;Calle Juárez 45
+3466;Michael;32;M;Calle Zaragoza 12
+3467;James;65;M;Calle Morelos 56
+3468;Louis;24;F;Calle Hidalgo 89
+3469;Joseph;24;F;Av. Madero 777
+3470;Michael;32;M;Calle Zaragoza 12
+3471;Louis;69;M;Av. Madero 777
+3472;Marie;50;M;Calle Zaragoza 12
+3473;James;44;F;Av. Universidad 321
+3474;Carmen;32;M;Av. Madero 777
+3475;Michael;40;M;Calle Hidalgo 89
+3476;Joseph;35;M;Calle Morelos 56
+3477;Karen;18;F;Calle Morelos 56
+3478;James;32;M;Calle Hidalgo 89
+3479;Cindy;33;F;Av. Universidad 321
+3480;Louis;36;M;Calle Allende 34
+3481;James;70;F;Calle Zaragoza 12
+3482;Louis;55;M;Av. Insurgentes 678
+3483;Peter;67;F;Av. Madero 777
+3484;Karen;42;F;Calle Morelos 56
+3485;Karen;63;M;Calle Allende 34
+3486;Karen;43;M;Av. Madero 777
+3487;Joseph;27;M;Av. López Mateos 900
+3488;Louis;57;F;Av. López Mateos 900
+3489;Karen;21;F;Calle Allende 34
+3490;James;21;F;Av. Universidad 321
+3491;Louis;67;F;Calle Hidalgo 89
+3492;James;39;F;Av. Universidad 321
+3493;Cindy;52;F;Av. Universidad 321
+3494;Sofía;33;F;Av. Madero 777
+3495;James;65;M;Calle Hidalgo 89
+3496;Karen;34;M;Calle Juárez 45
+3497;Peter;48;F;Av. Madero 777
+3498;Carmen;35;M;Av. Madero 777
+3499;Cindy;63;F;Calle Morelos 56
+3500;Karen;62;F;Calle Allende 34
+3501;Karen;46;M;Av. López Mateos 900
+3502;Sofía;57;F;Av. Insurgentes 678
+3503;Louis;66;F;Av. Reforma 123
+3504;Joseph;41;M;Calle Juárez 45
+3505;Peter;56;F;Av. Universidad 321
+3506;Louis;62;F;Av. Insurgentes 678
+3507;Joseph;28;M;Av. López Mateos 900
+3508;Michael;51;F;Av. Madero 777
+3509;Carmen;32;F;Av. Madero 777
+3510;Carmen;61;F;Av. López Mateos 900
+3511;Carmen;56;F;Av. López Mateos 900
+3512;Carmen;63;M;Calle Hidalgo 89
+3513;Marie;42;F;Av. Reforma 123
+3514;Marie;48;F;Av. Reforma 123
+3515;Peter;23;M;Av. Universidad 321
+3516;Peter;43;M;Calle Juárez 45
+3517;Joseph;51;F;Av. Insurgentes 678
+3518;Cindy;44;F;Calle Juárez 45
+3519;Louis;27;M;Calle Allende 34
+3520;Joseph;37;M;Calle Allende 34
+3521;James;44;F;Calle Zaragoza 12
+3522;Joseph;49;F;Calle Allende 34
+3523;Peter;50;M;Av. Reforma 123
+3524;Carmen;30;F;Av. Insurgentes 678
+3525;Carmen;63;M;Calle Juárez 45
+3526;James;53;F;Av. Reforma 123
+3527;Peter;25;F;Av. Insurgentes 678
+3528;Louis;28;F;Calle Zaragoza 12
+3529;Carmen;33;F;Calle Hidalgo 89
+3530;Louis;70;F;Av. Madero 777
+3531;Cindy;65;M;Calle Morelos 56
+3532;Carmen;68;F;Calle Allende 34
+3533;Sofía;63;F;Av. Reforma 123
+3534;Peter;44;F;Av. Madero 777
+3535;Marie;36;F;Calle Allende 34
+3536;Peter;62;M;Av. Madero 777
+3537;Peter;45;M;Calle Hidalgo 89
+3538;Louis;48;M;Av. Universidad 321
+3539;Marie;65;M;Calle Zaragoza 12
+3540;Cindy;45;F;Av. Reforma 123
+3541;Peter;45;F;Calle Juárez 45
+3542;Cindy;34;F;Calle Morelos 56
+3543;Carmen;33;F;Av. López Mateos 900
+3544;Cindy;57;F;Calle Allende 34
+3545;James;53;M;Av. López Mateos 900
+3546;Cindy;22;F;Av. Insurgentes 678
+3547;Carmen;70;F;Av. Reforma 123
+3548;Peter;23;M;Av. Universidad 321
+3549;Karen;44;F;Av. Madero 777
+3550;Joseph;30;M;Av. López Mateos 900
+3551;James;62;M;Av. Insurgentes 678
+3552;Carmen;65;F;Av. Reforma 123
+3553;Joseph;67;F;Av. Reforma 123
+3554;Marie;53;F;Calle Allende 34
+3555;Louis;33;M;Calle Juárez 45
+3556;Cindy;51;F;Av. Reforma 123
+3557;Karen;44;F;Av. Madero 777
+3558;Joseph;48;M;Av. Insurgentes 678
+3559;Marie;66;M;Av. Insurgentes 678
+3560;Marie;61;M;Av. Madero 777
+3561;Carmen;50;M;Av. Madero 777
+3562;Peter;53;F;Av. Universidad 321
+3563;Karen;27;F;Calle Hidalgo 89
+3564;Louis;33;F;Av. Reforma 123
+3565;Sofía;35;M;Calle Allende 34
+3566;Joseph;37;M;Av. Universidad 321
+3567;Marie;22;F;Calle Allende 34
+3568;Joseph;68;M;Av. Madero 777
+3569;Joseph;22;F;Calle Juárez 45
+3570;Karen;50;F;Av. Universidad 321
+3571;Marie;28;M;Calle Zaragoza 12
+3572;Louis;43;F;Calle Morelos 56
+3573;Louis;34;F;Calle Hidalgo 89
+3574;James;33;M;Calle Zaragoza 12
+3575;Marie;22;M;Av. Reforma 123
+3576;Carmen;40;F;Calle Zaragoza 12
+3577;Peter;54;M;Av. Universidad 321
+3578;Sofía;61;F;Calle Hidalgo 89
+3579;Sofía;20;M;Av. López Mateos 900
+3580;Carmen;57;F;Calle Allende 34
+3581;Sofía;19;F;Calle Allende 34
+3582;Joseph;24;F;Av. López Mateos 900
+3583;Michael;66;M;Av. López Mateos 900
+3584;Peter;47;F;Calle Hidalgo 89
+3585;Sofía;46;F;Av. Universidad 321
+3586;Karen;20;M;Calle Hidalgo 89
+3587;James;21;F;Av. Universidad 321
+3588;Cindy;51;F;Av. Universidad 321
+3589;Sofía;20;M;Calle Allende 34
+3590;Michael;69;M;Calle Hidalgo 89
+3591;Sofía;52;M;Calle Juárez 45
+3592;Carmen;52;F;Calle Allende 34
+3593;Karen;44;F;Calle Hidalgo 89
+3594;Peter;38;M;Calle Morelos 56
+3595;Sofía;18;M;Av. Reforma 123
+3596;Marie;57;M;Av. Madero 777
+3597;Cindy;39;F;Calle Hidalgo 89
+3598;Carmen;41;F;Calle Juárez 45
+3599;Joseph;53;M;Av. Madero 777
+3600;Louis;30;M;Av. López Mateos 900
+3601;Louis;63;F;Calle Hidalgo 89
+3602;Cindy;21;M;Calle Juárez 45
+3603;Carmen;60;F;Av. López Mateos 900
+3604;Karen;44;M;Calle Allende 34
+3605;Cindy;36;M;Calle Zaragoza 12
+3606;Sofía;27;M;Av. López Mateos 900
+3607;Carmen;53;F;Av. Insurgentes 678
+3608;Karen;42;F;Av. Reforma 123
+3609;Michael;45;F;Av. Universidad 321
+3610;Marie;26;F;Av. Universidad 321
+3611;Michael;59;F;Calle Juárez 45
+3612;James;37;F;Calle Morelos 56
+3613;Peter;52;M;Calle Hidalgo 89
+3614;Cindy;28;F;Calle Morelos 56
+3615;Louis;39;F;Calle Allende 34
+3616;Peter;39;M;Calle Morelos 56
+3617;Carmen;33;M;Av. Reforma 123
+3618;Carmen;36;M;Av. López Mateos 900
+3619;Michael;34;M;Calle Hidalgo 89
+3620;Joseph;21;F;Calle Juárez 45
+3621;Cindy;41;M;Calle Allende 34
+3622;Carmen;45;M;Av. Universidad 321
+3623;Louis;50;M;Calle Allende 34
+3624;Marie;45;M;Calle Zaragoza 12
+3625;Michael;31;F;Av. López Mateos 900
+3626;Cindy;38;F;Av. Universidad 321
+3627;Joseph;59;M;Calle Zaragoza 12
+3628;Sofía;56;F;Av. López Mateos 900
+3629;Peter;69;M;Calle Allende 34
+3630;Michael;65;F;Av. Reforma 123
+3631;James;21;M;Av. Madero 777
+3632;Marie;63;M;Calle Morelos 56
+3633;Joseph;21;M;Calle Juárez 45
+3634;Peter;45;M;Av. Madero 777
+3635;Louis;54;M;Calle Allende 34
+3636;Sofía;35;M;Calle Zaragoza 12
+3637;Joseph;43;F;Calle Hidalgo 89
+3638;Carmen;54;F;Av. Madero 777
+3639;Michael;50;M;Av. Madero 777
+3640;Carmen;59;F;Av. Insurgentes 678
+3641;Karen;18;M;Calle Allende 34
+3642;Marie;21;F;Av. López Mateos 900
+3643;Cindy;55;M;Av. Universidad 321
+3644;Karen;41;F;Av. Universidad 321
+3645;Karen;66;F;Av. Madero 777
+3646;Karen;22;F;Av. Insurgentes 678
+3647;Marie;44;M;Av. Insurgentes 678
+3648;Michael;42;M;Av. Reforma 123
+3649;Joseph;53;F;Av. Insurgentes 678
+3650;Louis;21;M;Calle Juárez 45
+3651;Joseph;58;F;Av. Universidad 321
+3652;Michael;38;M;Calle Zaragoza 12
+3653;Karen;64;F;Av. López Mateos 900
+3654;Carmen;63;F;Calle Zaragoza 12
+3655;Louis;20;M;Calle Juárez 45
+3656;Carmen;36;F;Calle Zaragoza 12
+3657;Carmen;29;F;Av. Universidad 321
+3658;Michael;66;F;Av. Universidad 321
+3659;Carmen;68;M;Av. Reforma 123
+3660;Carmen;26;F;Calle Hidalgo 89
+3661;Cindy;35;F;Av. Universidad 321
+3662;James;49;F;Calle Juárez 45
+3663;Carmen;35;M;Calle Zaragoza 12
+3664;Karen;38;M;Av. Madero 777
+3665;Karen;47;M;Calle Juárez 45
+3666;Louis;32;F;Calle Zaragoza 12
+3667;Marie;42;F;Av. López Mateos 900
+3668;Joseph;41;F;Av. Madero 777
+3669;Michael;67;M;Calle Zaragoza 12
+3670;Carmen;62;M;Calle Allende 34
+3671;Joseph;41;F;Av. López Mateos 900
+3672;Marie;54;F;Av. López Mateos 900
+3673;Michael;48;F;Calle Allende 34
+3674;Karen;58;F;Av. Universidad 321
+3675;Karen;65;F;Av. Reforma 123
+3676;Michael;62;F;Calle Zaragoza 12
+3677;Louis;19;F;Calle Morelos 56
+3678;Marie;62;F;Calle Allende 34
+3679;Carmen;31;F;Calle Juárez 45
+3680;James;20;M;Av. Insurgentes 678
+3681;Peter;37;F;Calle Hidalgo 89
+3682;Cindy;39;M;Calle Hidalgo 89
+3683;Peter;62;F;Av. Reforma 123
+3684;Joseph;56;M;Calle Zaragoza 12
+3685;Karen;39;F;Av. Insurgentes 678
+3686;Louis;66;F;Av. Madero 777
+3687;Joseph;61;F;Calle Zaragoza 12
+3688;Louis;53;M;Calle Hidalgo 89
+3689;Sofía;65;M;Calle Morelos 56
+3690;Carmen;61;M;Calle Allende 34
+3691;Peter;31;M;Av. Insurgentes 678
+3692;Karen;40;M;Av. Reforma 123
+3693;Sofía;51;F;Av. Reforma 123
+3694;Louis;63;F;Av. López Mateos 900
+3695;Louis;68;M;Calle Hidalgo 89
+3696;Marie;25;F;Av. López Mateos 900
+3697;Carmen;25;M;Av. Insurgentes 678
+3698;James;64;F;Av. Universidad 321
+3699;Cindy;51;F;Av. Madero 777
+3700;James;56;M;Av. Insurgentes 678
+3701;Joseph;18;F;Av. Reforma 123
+3702;Sofía;36;M;Calle Hidalgo 89
+3703;Joseph;42;M;Calle Hidalgo 89
+3704;James;56;M;Av. Insurgentes 678
+3705;Sofía;22;F;Av. López Mateos 900
+3706;Sofía;54;F;Calle Allende 34
+3707;Karen;25;F;Calle Zaragoza 12
+3708;Louis;19;M;Calle Morelos 56
+3709;Karen;50;F;Av. Insurgentes 678
+3710;Marie;36;F;Calle Zaragoza 12
+3711;Cindy;24;M;Av. Insurgentes 678
+3712;Karen;30;F;Calle Juárez 45
+3713;James;18;F;Av. Universidad 321
+3714;James;59;M;Av. Madero 777
+3715;Louis;49;F;Av. Universidad 321
+3716;James;55;F;Calle Zaragoza 12
+3717;James;57;F;Calle Hidalgo 89
+3718;Louis;23;F;Av. López Mateos 900
+3719;James;69;M;Calle Zaragoza 12
+3720;Joseph;67;M;Av. Reforma 123
+3721;Karen;42;M;Av. Reforma 123
+3722;Michael;18;F;Av. Madero 777
+3723;Cindy;24;F;Calle Morelos 56
+3724;Cindy;59;F;Calle Allende 34
+3725;Michael;35;M;Av. Reforma 123
+3726;Sofía;19;M;Calle Hidalgo 89
+3727;Louis;37;F;Calle Zaragoza 12
+3728;Cindy;61;M;Av. Insurgentes 678
+3729;Joseph;37;M;Calle Allende 34
+3730;Marie;35;M;Calle Juárez 45
+3731;Karen;59;M;Calle Allende 34
+3732;Joseph;37;M;Calle Morelos 56
+3733;Louis;55;M;Av. Insurgentes 678
+3734;Joseph;68;F;Calle Allende 34
+3735;Joseph;20;F;Av. Insurgentes 678
+3736;Michael;18;F;Calle Allende 34
+3737;James;39;M;Av. López Mateos 900
+3738;Carmen;26;M;Av. Madero 777
+3739;Louis;50;M;Calle Morelos 56
+3740;Michael;27;M;Calle Morelos 56
+3741;Marie;33;M;Calle Allende 34
+3742;Carmen;38;M;Calle Juárez 45
+3743;James;49;M;Av. Madero 777
+3744;Marie;18;F;Calle Allende 34
+3745;Peter;63;F;Av. Universidad 321
+3746;Carmen;57;M;Av. Madero 777
+3747;Peter;47;F;Av. Reforma 123
+3748;Michael;26;M;Calle Morelos 56
+3749;Louis;43;M;Av. López Mateos 900
+3750;Michael;59;F;Av. Reforma 123
+3751;Carmen;18;M;Calle Morelos 56
+3752;Karen;48;F;Av. Madero 777
+3753;Michael;29;F;Calle Juárez 45
+3754;Sofía;67;F;Av. Madero 777
+3755;James;66;M;Av. Insurgentes 678
+3756;Marie;21;M;Calle Juárez 45
+3757;Louis;28;M;Calle Juárez 45
+3758;Carmen;29;M;Calle Hidalgo 89
+3759;Marie;62;F;Calle Zaragoza 12
+3760;Michael;59;F;Av. Universidad 321
+3761;Louis;24;F;Av. López Mateos 900
+3762;Michael;21;M;Calle Hidalgo 89
+3763;Peter;24;F;Calle Hidalgo 89
+3764;Karen;32;M;Calle Morelos 56
+3765;Karen;38;F;Calle Juárez 45
+3766;Michael;68;M;Av. Insurgentes 678
+3767;Louis;63;F;Av. Insurgentes 678
+3768;Sofía;70;M;Av. Universidad 321
+3769;Louis;28;M;Av. Madero 777
+3770;Cindy;30;M;Av. Reforma 123
+3771;Karen;30;M;Calle Morelos 56
+3772;Karen;68;M;Av. López Mateos 900
+3773;Louis;22;M;Av. Madero 777
+3774;Sofía;66;M;Calle Zaragoza 12
+3775;Cindy;55;F;Av. López Mateos 900
+3776;Marie;53;F;Av. López Mateos 900
+3777;Joseph;66;M;Calle Morelos 56
+3778;Michael;22;F;Calle Zaragoza 12
+3779;Michael;44;F;Calle Morelos 56
+3780;Peter;42;M;Calle Hidalgo 89
+3781;Michael;70;M;Av. Universidad 321
+3782;Peter;22;F;Calle Allende 34
+3783;Joseph;51;F;Av. López Mateos 900
+3784;Sofía;43;M;Calle Hidalgo 89
+3785;Michael;27;M;Av. Universidad 321
+3786;Marie;42;F;Calle Morelos 56
+3787;Joseph;64;M;Calle Hidalgo 89
+3788;Joseph;30;F;Av. Madero 777
+3789;Michael;28;M;Calle Juárez 45
+3790;Cindy;27;M;Av. Universidad 321
+3791;Sofía;61;M;Calle Hidalgo 89
+3792;Carmen;32;M;Calle Zaragoza 12
+3793;James;61;M;Av. Reforma 123
+3794;Karen;46;M;Calle Zaragoza 12
+3795;Marie;61;F;Av. Reforma 123
+3796;James;41;F;Calle Morelos 56
+3797;Louis;28;F;Calle Zaragoza 12
+3798;Joseph;58;M;Av. López Mateos 900
+3799;Karen;50;M;Av. Universidad 321
+3800;James;27;F;Av. Insurgentes 678
+3801;Sofía;20;F;Calle Juárez 45
+3802;Sofía;20;M;Calle Allende 34
+3803;Marie;20;M;Calle Juárez 45
+3804;Karen;69;M;Calle Zaragoza 12
+3805;Marie;63;F;Calle Zaragoza 12
+3806;James;18;F;Av. Universidad 321
+3807;Joseph;62;F;Calle Allende 34
+3808;Joseph;30;M;Av. Universidad 321
+3809;Peter;46;F;Av. Universidad 321
+3810;Peter;37;M;Av. Universidad 321
+3811;Carmen;46;F;Calle Zaragoza 12
+3812;Carmen;58;F;Calle Hidalgo 89
+3813;Marie;50;F;Av. Madero 777
+3814;Marie;21;M;Calle Allende 34
+3815;Joseph;65;M;Calle Allende 34
+3816;Michael;64;M;Av. Insurgentes 678
+3817;Carmen;69;M;Calle Allende 34
+3818;Michael;45;F;Calle Allende 34
+3819;Michael;25;M;Av. Universidad 321
+3820;James;69;F;Av. López Mateos 900
+3821;Louis;70;M;Calle Hidalgo 89
+3822;Karen;55;M;Calle Hidalgo 89
+3823;Sofía;58;M;Av. Madero 777
+3824;Marie;31;F;Calle Morelos 56
+3825;Peter;35;M;Calle Zaragoza 12
+3826;Louis;61;M;Av. Reforma 123
+3827;Carmen;31;M;Av. Insurgentes 678
+3828;Carmen;59;M;Av. Insurgentes 678
+3829;Louis;45;M;Av. López Mateos 900
+3830;Marie;70;F;Av. Universidad 321
+3831;James;40;F;Av. Madero 777
+3832;Marie;67;F;Calle Juárez 45
+3833;Carmen;67;F;Av. Madero 777
+3834;Cindy;41;F;Av. Reforma 123
+3835;James;21;F;Av. Insurgentes 678
+3836;Marie;61;F;Calle Allende 34
+3837;Karen;45;M;Calle Hidalgo 89
+3838;Michael;29;M;Av. Madero 777
+3839;Sofía;65;M;Calle Hidalgo 89
+3840;Michael;67;F;Av. Reforma 123
+3841;Peter;48;M;Calle Hidalgo 89
+3842;Marie;64;F;Av. López Mateos 900
+3843;Joseph;33;F;Calle Hidalgo 89
+3844;Michael;34;M;Av. Insurgentes 678
+3845;James;38;M;Av. Insurgentes 678
+3846;Karen;39;M;Av. Madero 777
+3847;Michael;59;M;Av. Insurgentes 678
+3848;Peter;29;F;Av. Universidad 321
+3849;Louis;70;M;Calle Morelos 56
+3850;James;50;F;Av. Universidad 321
+3851;Sofía;33;M;Calle Allende 34
+3852;Marie;52;F;Av. Universidad 321
+3853;Marie;62;F;Av. Universidad 321
+3854;James;67;F;Calle Zaragoza 12
+3855;Cindy;64;M;Av. López Mateos 900
+3856;Peter;28;F;Calle Allende 34
+3857;Louis;63;M;Calle Juárez 45
+3858;James;32;M;Calle Morelos 56
+3859;Joseph;22;F;Av. Madero 777
+3860;Carmen;32;M;Calle Allende 34
+3861;Marie;41;M;Av. Universidad 321
+3862;Louis;31;F;Calle Juárez 45
+3863;Peter;18;M;Av. López Mateos 900
+3864;Karen;44;M;Calle Allende 34
+3865;Michael;59;M;Calle Juárez 45
+3866;Sofía;34;F;Av. Universidad 321
+3867;Joseph;28;M;Av. López Mateos 900
+3868;Carmen;29;F;Av. López Mateos 900
+3869;James;31;F;Calle Juárez 45
+3870;Carmen;21;M;Calle Zaragoza 12
+3871;Joseph;34;F;Calle Juárez 45
+3872;Peter;64;M;Av. Reforma 123
+3873;Marie;52;F;Calle Zaragoza 12
+3874;James;65;M;Av. Insurgentes 678
+3875;Marie;34;F;Calle Morelos 56
+3876;Karen;46;M;Av. Insurgentes 678
+3877;Peter;45;M;Av. López Mateos 900
+3878;Michael;18;F;Av. López Mateos 900
+3879;Michael;69;M;Av. Universidad 321
+3880;James;57;F;Av. Madero 777
+3881;Peter;42;F;Av. Reforma 123
+3882;Louis;69;M;Calle Juárez 45
+3883;Michael;47;F;Calle Allende 34
+3884;Sofía;20;F;Calle Hidalgo 89
+3885;Peter;28;F;Calle Juárez 45
+3886;Michael;61;F;Av. Universidad 321
+3887;James;42;F;Calle Morelos 56
+3888;Marie;39;M;Av. Reforma 123
+3889;Joseph;48;F;Av. Universidad 321
+3890;Carmen;27;M;Av. Reforma 123
+3891;Joseph;58;M;Av. López Mateos 900
+3892;Cindy;33;F;Av. Insurgentes 678
+3893;Karen;61;F;Calle Juárez 45
+3894;Sofía;42;M;Calle Hidalgo 89
+3895;Joseph;60;M;Calle Zaragoza 12
+3896;Karen;61;M;Calle Allende 34
+3897;Karen;33;F;Av. Reforma 123
+3898;Sofía;44;F;Av. Universidad 321
+3899;Karen;27;F;Calle Zaragoza 12
+3900;Sofía;70;M;Calle Hidalgo 89
+3901;James;56;F;Av. Universidad 321
+3902;Sofía;46;F;Av. López Mateos 900
+3903;Michael;43;F;Av. Insurgentes 678
+3904;Joseph;23;M;Av. López Mateos 900
+3905;Marie;48;F;Av. Madero 777
+3906;Peter;24;M;Av. Reforma 123
+3907;Marie;57;F;Av. López Mateos 900
+3908;Sofía;69;F;Calle Allende 34
+3909;James;60;F;Av. Universidad 321
+3910;Sofía;65;F;Av. López Mateos 900
+3911;Louis;49;F;Av. Insurgentes 678
+3912;Louis;51;F;Calle Juárez 45
+3913;Peter;60;M;Calle Zaragoza 12
+3914;Louis;52;M;Av. Madero 777
+3915;Carmen;22;M;Av. Universidad 321
+3916;Peter;39;F;Calle Juárez 45
+3917;James;70;M;Av. Reforma 123
+3918;Louis;61;M;Calle Zaragoza 12
+3919;Marie;27;M;Calle Juárez 45
+3920;Marie;67;M;Calle Allende 34
+3921;Sofía;62;M;Calle Juárez 45
+3922;Joseph;37;M;Av. Universidad 321
+3923;Sofía;30;F;Calle Allende 34
+3924;Peter;42;F;Calle Allende 34
+3925;Sofía;22;M;Av. Reforma 123
+3926;Louis;68;M;Av. López Mateos 900
+3927;Carmen;32;M;Av. Madero 777
+3928;Cindy;54;M;Calle Allende 34
+3929;James;63;F;Av. López Mateos 900
+3930;Louis;29;F;Av. Reforma 123
+3931;Sofía;23;F;Calle Allende 34
+3932;Cindy;24;F;Calle Juárez 45
+3933;Cindy;34;M;Calle Morelos 56
+3934;Carmen;26;M;Av. Insurgentes 678
+3935;Peter;62;F;Calle Allende 34
+3936;Louis;50;M;Av. Insurgentes 678
+3937;Peter;22;F;Calle Zaragoza 12
+3938;Louis;69;F;Av. Reforma 123
+3939;James;36;M;Av. Reforma 123
+3940;Karen;62;F;Av. Universidad 321
+3941;Michael;52;F;Calle Allende 34
+3942;Michael;18;F;Calle Hidalgo 89
+3943;Karen;21;M;Av. Madero 777
+3944;Peter;47;M;Calle Allende 34
+3945;Louis;18;M;Calle Hidalgo 89
+3946;James;20;M;Av. Insurgentes 678
+3947;Peter;21;F;Calle Hidalgo 89
+3948;James;57;M;Av. Insurgentes 678
+3949;Karen;37;M;Calle Juárez 45
+3950;James;23;M;Calle Juárez 45
+3951;James;54;M;Calle Juárez 45
+3952;Carmen;24;F;Av. López Mateos 900
+3953;Karen;43;M;Av. López Mateos 900
+3954;Carmen;29;F;Calle Allende 34
+3955;Peter;27;M;Calle Allende 34
+3956;Cindy;41;F;Av. Universidad 321
+3957;Karen;42;M;Av. Universidad 321
+3958;Karen;47;F;Calle Hidalgo 89
+3959;Karen;41;M;Calle Zaragoza 12
+3960;Carmen;39;M;Calle Juárez 45
+3961;Cindy;37;M;Calle Hidalgo 89
+3962;Michael;31;M;Av. Madero 777
+3963;Louis;59;M;Av. Insurgentes 678
+3964;Marie;52;F;Calle Morelos 56
+3965;Cindy;61;M;Av. Reforma 123
+3966;James;61;F;Av. Universidad 321
+3967;Peter;22;M;Calle Zaragoza 12
+3968;Joseph;65;M;Calle Zaragoza 12
+3969;Marie;35;M;Av. Madero 777
+3970;Peter;35;F;Av. López Mateos 900
+3971;Karen;69;F;Calle Hidalgo 89
+3972;Carmen;31;M;Av. Reforma 123
+3973;James;29;M;Av. Universidad 321
+3974;Michael;29;F;Calle Hidalgo 89
+3975;Louis;27;M;Calle Morelos 56
+3976;Peter;22;M;Av. Universidad 321
+3977;Louis;22;F;Calle Hidalgo 89
+3978;Michael;69;M;Calle Juárez 45
+3979;Sofía;19;M;Calle Allende 34
+3980;James;39;M;Av. López Mateos 900
+3981;James;62;M;Calle Hidalgo 89
+3982;Karen;54;M;Av. Insurgentes 678
+3983;James;66;F;Calle Allende 34
+3984;Karen;55;F;Calle Allende 34
+3985;Michael;25;F;Calle Juárez 45
+3986;Joseph;49;F;Av. Reforma 123
+3987;Cindy;45;M;Av. Madero 777
+3988;Sofía;29;M;Av. Universidad 321
+3989;Cindy;27;M;Av. López Mateos 900
+3990;James;59;M;Av. Madero 777
+3991;Marie;47;F;Av. Insurgentes 678
+3992;Sofía;44;F;Av. Universidad 321
+3993;Joseph;47;M;Av. López Mateos 900
+3994;Karen;54;M;Calle Hidalgo 89
+3995;Louis;47;M;Calle Allende 34
+3996;Marie;27;F;Av. López Mateos 900
+3997;Cindy;64;F;Calle Juárez 45
+3998;Peter;45;M;Calle Juárez 45
+3999;Louis;58;M;Calle Juárez 45
+4000;Peter;65;M;Av. Reforma 123
+4001;James;58;F;Calle Allende 34
+4002;Sofía;46;M;Calle Allende 34
+4003;Cindy;52;M;Av. López Mateos 900
+4004;Karen;42;F;Av. Madero 777
+4005;Louis;31;F;Av. Insurgentes 678
+4006;Cindy;32;F;Calle Hidalgo 89
+4007;Sofía;50;M;Calle Hidalgo 89
+4008;Marie;50;F;Calle Juárez 45
+4009;Louis;57;F;Av. Universidad 321
+4010;James;23;F;Av. Insurgentes 678
+4011;Louis;38;F;Calle Zaragoza 12
+4012;Sofía;54;M;Av. Insurgentes 678
+4013;Sofía;54;M;Calle Zaragoza 12
+4014;Cindy;36;F;Calle Juárez 45
+4015;James;47;M;Av. Reforma 123
+4016;Joseph;64;M;Calle Juárez 45
+4017;Michael;58;M;Av. Reforma 123
+4018;Carmen;21;M;Calle Allende 34
+4019;James;47;M;Calle Zaragoza 12
+4020;Michael;32;M;Av. Madero 777
+4021;James;58;F;Calle Allende 34
+4022;Joseph;54;M;Av. López Mateos 900
+4023;Peter;33;F;Calle Allende 34
+4024;James;35;F;Calle Morelos 56
+4025;Sofía;24;F;Av. López Mateos 900
+4026;Michael;40;F;Calle Allende 34
+4027;Sofía;46;M;Av. Reforma 123
+4028;Carmen;29;M;Av. Reforma 123
+4029;James;32;M;Calle Allende 34
+4030;Karen;30;F;Calle Allende 34
+4031;James;57;F;Calle Zaragoza 12
+4032;Carmen;52;M;Calle Zaragoza 12
+4033;Cindy;68;F;Av. Universidad 321
+4034;Marie;46;M;Av. Madero 777
+4035;Carmen;57;M;Calle Juárez 45
+4036;Sofía;33;F;Av. Universidad 321
+4037;Michael;64;F;Av. Universidad 321
+4038;Sofía;59;F;Av. Insurgentes 678
+4039;Cindy;29;F;Av. Madero 777
+4040;Cindy;70;M;Av. Reforma 123
+4041;Peter;64;M;Calle Zaragoza 12
+4042;Louis;45;M;Calle Morelos 56
+4043;Joseph;65;M;Calle Hidalgo 89
+4044;Karen;41;F;Av. Madero 777
+4045;Karen;38;F;Av. Madero 777
+4046;Louis;48;M;Av. Reforma 123
+4047;James;49;M;Calle Morelos 56
+4048;Cindy;46;M;Calle Morelos 56
+4049;James;40;F;Av. López Mateos 900
+4050;Michael;65;F;Av. Universidad 321
+4051;Sofía;30;F;Calle Morelos 56
+4052;Marie;47;F;Calle Allende 34
+4053;Marie;33;F;Calle Hidalgo 89
+4054;Sofía;53;M;Calle Hidalgo 89
+4055;Karen;40;F;Av. Insurgentes 678
+4056;Cindy;42;M;Av. Madero 777
+4057;Joseph;70;M;Calle Hidalgo 89
+4058;James;42;M;Calle Allende 34
+4059;Cindy;31;F;Av. López Mateos 900
+4060;Michael;29;F;Av. Universidad 321
+4061;Karen;19;F;Calle Morelos 56
+4062;Michael;57;M;Calle Morelos 56
+4063;Peter;63;M;Av. Universidad 321
+4064;Cindy;24;F;Calle Morelos 56
+4065;Carmen;20;M;Av. López Mateos 900
+4066;Michael;38;M;Calle Allende 34
+4067;Michael;42;F;Av. Universidad 321
+4068;Louis;24;F;Calle Allende 34
+4069;Peter;55;M;Av. Universidad 321
+4070;Joseph;35;F;Calle Morelos 56
+4071;Karen;56;F;Calle Hidalgo 89
+4072;Michael;46;F;Av. López Mateos 900
+4073;Peter;42;M;Calle Zaragoza 12
+4074;Marie;30;M;Calle Zaragoza 12
+4075;Marie;56;M;Av. López Mateos 900
+4076;Peter;22;F;Calle Hidalgo 89
+4077;Louis;68;M;Av. Universidad 321
+4078;Karen;37;M;Av. Reforma 123
+4079;Michael;24;M;Av. Universidad 321
+4080;Marie;32;M;Calle Hidalgo 89
+4081;Marie;64;M;Calle Zaragoza 12
+4082;Cindy;19;M;Calle Zaragoza 12
+4083;Louis;34;F;Calle Morelos 56
+4084;Michael;48;F;Av. Reforma 123
+4085;Joseph;21;M;Av. Universidad 321
+4086;James;56;F;Av. Reforma 123
+4087;Peter;59;M;Calle Zaragoza 12
+4088;Michael;64;M;Av. Insurgentes 678
+4089;Marie;27;M;Av. Reforma 123
+4090;Michael;36;M;Calle Morelos 56
+4091;Marie;18;F;Av. Insurgentes 678
+4092;Sofía;56;F;Calle Morelos 56
+4093;Karen;25;M;Av. Madero 777
+4094;Marie;51;M;Calle Hidalgo 89
+4095;Cindy;52;F;Av. López Mateos 900
+4096;James;54;M;Calle Zaragoza 12
+4097;Michael;49;M;Av. Insurgentes 678
+4098;Peter;49;F;Calle Juárez 45
+4099;Joseph;50;F;Calle Allende 34
+4100;Louis;20;M;Av. Universidad 321
+4101;Michael;38;F;Av. López Mateos 900
+4102;Cindy;61;F;Calle Zaragoza 12
+4103;Marie;35;M;Av. Madero 777
+4104;Peter;51;F;Av. López Mateos 900
+4105;Sofía;53;F;Calle Morelos 56
+4106;Sofía;28;F;Av. Universidad 321
+4107;Karen;23;F;Calle Morelos 56
+4108;Sofía;60;F;Av. López Mateos 900
+4109;Karen;29;M;Calle Juárez 45
+4110;Marie;20;F;Calle Hidalgo 89
+4111;Marie;42;M;Av. Madero 777
+4112;Carmen;64;M;Av. Universidad 321
+4113;Louis;64;F;Av. Madero 777
+4114;Karen;19;F;Calle Juárez 45
+4115;Marie;49;F;Av. Reforma 123
+4116;Michael;47;M;Calle Morelos 56
+4117;Louis;42;M;Av. Reforma 123
+4118;Sofía;21;F;Av. Reforma 123
+4119;James;65;F;Calle Morelos 56
+4120;Sofía;27;F;Av. Universidad 321
+4121;Michael;58;F;Calle Morelos 56
+4122;Marie;63;F;Calle Zaragoza 12
+4123;Peter;45;F;Av. Reforma 123
+4124;Peter;47;F;Calle Hidalgo 89
+4125;James;64;M;Calle Morelos 56
+4126;Peter;49;F;Calle Hidalgo 89
+4127;James;26;F;Calle Zaragoza 12
+4128;Joseph;39;M;Calle Zaragoza 12
+4129;Michael;42;F;Av. Universidad 321
+4130;Sofía;40;F;Calle Allende 34
+4131;Joseph;20;M;Calle Juárez 45
+4132;Sofía;22;M;Calle Hidalgo 89
+4133;Carmen;66;F;Calle Allende 34
+4134;Sofía;70;M;Calle Zaragoza 12
+4135;Marie;69;M;Av. Madero 777
+4136;Louis;22;F;Av. Madero 777
+4137;Peter;37;M;Calle Allende 34
+4138;Carmen;50;F;Av. López Mateos 900
+4139;James;47;M;Calle Zaragoza 12
+4140;Marie;26;F;Av. Reforma 123
+4141;Michael;39;M;Av. Insurgentes 678
+4142;Michael;57;F;Calle Morelos 56
+4143;Karen;28;M;Calle Juárez 45
+4144;Peter;50;F;Av. Insurgentes 678
+4145;Marie;24;F;Calle Allende 34
+4146;Michael;24;F;Calle Allende 34
+4147;Peter;51;M;Calle Allende 34
+4148;Cindy;59;M;Calle Hidalgo 89
+4149;Louis;45;M;Calle Morelos 56
+4150;Sofía;55;M;Calle Allende 34
+4151;Sofía;29;F;Av. Insurgentes 678
+4152;Peter;20;M;Av. Reforma 123
+4153;Cindy;20;F;Av. Reforma 123
+4154;Marie;65;F;Calle Allende 34
+4155;James;18;F;Calle Morelos 56
+4156;Marie;52;F;Av. Universidad 321
+4157;James;45;F;Av. Insurgentes 678
+4158;Louis;68;F;Calle Zaragoza 12
+4159;James;70;M;Calle Juárez 45
+4160;Sofía;55;M;Calle Zaragoza 12
+4161;Louis;20;M;Calle Allende 34
+4162;Carmen;24;F;Av. Madero 777
+4163;Louis;24;M;Av. Insurgentes 678
+4164;Sofía;60;M;Av. Reforma 123
+4165;Cindy;61;F;Calle Hidalgo 89
+4166;Peter;18;M;Calle Juárez 45
+4167;Cindy;70;F;Calle Juárez 45
+4168;James;34;F;Calle Morelos 56
+4169;Marie;69;M;Calle Juárez 45
+4170;James;62;F;Calle Hidalgo 89
+4171;Cindy;67;F;Av. López Mateos 900
+4172;Michael;64;F;Calle Hidalgo 89
+4173;Carmen;20;F;Calle Juárez 45
+4174;James;52;F;Av. López Mateos 900
+4175;Cindy;55;M;Av. Reforma 123
+4176;Karen;44;M;Calle Hidalgo 89
+4177;Marie;24;F;Calle Morelos 56
+4178;Carmen;22;F;Calle Hidalgo 89
+4179;Louis;44;F;Av. Universidad 321
+4180;Karen;42;F;Av. Insurgentes 678
+4181;Peter;43;F;Av. Reforma 123
+4182;Carmen;26;F;Av. Insurgentes 678
+4183;James;34;M;Av. Insurgentes 678
+4184;Joseph;70;M;Av. Insurgentes 678
+4185;Michael;39;M;Calle Zaragoza 12
+4186;Sofía;61;M;Calle Juárez 45
+4187;Joseph;40;M;Av. López Mateos 900
+4188;Marie;67;M;Calle Allende 34
+4189;Louis;27;F;Calle Hidalgo 89
+4190;James;53;F;Calle Juárez 45
+4191;Marie;66;F;Calle Allende 34
+4192;Peter;60;F;Av. Reforma 123
+4193;Louis;27;F;Av. Madero 777
+4194;Louis;43;F;Calle Hidalgo 89
+4195;Carmen;53;F;Calle Morelos 56
+4196;Cindy;36;M;Av. Madero 777
+4197;James;50;F;Calle Allende 34
+4198;Marie;44;M;Calle Juárez 45
+4199;Peter;62;M;Calle Juárez 45
+4200;Michael;66;M;Av. López Mateos 900
+4201;Carmen;27;F;Calle Morelos 56
+4202;Michael;48;M;Av. Universidad 321
+4203;Cindy;49;M;Calle Juárez 45
+4204;Louis;52;M;Calle Juárez 45
+4205;Peter;67;M;Calle Hidalgo 89
+4206;Karen;68;F;Av. Universidad 321
+4207;Karen;47;M;Calle Juárez 45
+4208;Louis;52;F;Calle Allende 34
+4209;Karen;18;F;Calle Allende 34
+4210;Michael;26;F;Av. Insurgentes 678
+4211;Sofía;67;F;Calle Juárez 45
+4212;Peter;36;F;Calle Morelos 56
+4213;Peter;38;F;Av. Insurgentes 678
+4214;James;59;F;Calle Allende 34
+4215;Marie;69;M;Av. López Mateos 900
+4216;Carmen;50;F;Av. Reforma 123
+4217;Carmen;50;M;Calle Allende 34
+4218;Karen;57;F;Av. López Mateos 900
+4219;Louis;62;M;Av. Reforma 123
+4220;Sofía;67;M;Av. Madero 777
+4221;Carmen;52;F;Calle Hidalgo 89
+4222;James;31;F;Av. López Mateos 900
+4223;Karen;43;M;Av. Universidad 321
+4224;Cindy;32;F;Av. Reforma 123
+4225;Louis;29;F;Av. Insurgentes 678
+4226;Joseph;44;F;Av. Reforma 123
+4227;Marie;22;F;Calle Zaragoza 12
+4228;Karen;70;M;Calle Morelos 56
+4229;Sofía;61;M;Av. Universidad 321
+4230;Marie;61;M;Calle Allende 34
+4231;Karen;30;M;Av. Reforma 123
+4232;Carmen;33;F;Av. López Mateos 900
+4233;Michael;52;F;Calle Hidalgo 89
+4234;Cindy;49;F;Calle Hidalgo 89
+4235;Karen;58;M;Calle Morelos 56
+4236;Sofía;56;M;Calle Zaragoza 12
+4237;Michael;30;F;Av. Madero 777
+4238;Michael;45;F;Av. Insurgentes 678
+4239;James;22;F;Av. Universidad 321
+4240;Karen;58;M;Av. Universidad 321
+4241;Peter;22;M;Calle Allende 34
+4242;Marie;44;F;Av. López Mateos 900
+4243;Karen;43;M;Av. Insurgentes 678
+4244;Carmen;18;M;Av. López Mateos 900
+4245;Carmen;55;F;Av. Universidad 321
+4246;Carmen;21;F;Calle Hidalgo 89
+4247;James;19;F;Calle Zaragoza 12
+4248;Marie;51;M;Calle Hidalgo 89
+4249;Cindy;61;F;Calle Zaragoza 12
+4250;Michael;19;M;Calle Allende 34
+4251;Marie;26;F;Calle Allende 34
+4252;James;30;F;Calle Hidalgo 89
+4253;James;39;M;Calle Juárez 45
+4254;Louis;43;F;Calle Zaragoza 12
+4255;Carmen;32;M;Av. Reforma 123
+4256;Louis;35;M;Calle Zaragoza 12
+4257;Louis;70;M;Av. Insurgentes 678
+4258;Louis;25;M;Av. Madero 777
+4259;Carmen;35;F;Calle Zaragoza 12
+4260;James;61;F;Av. Reforma 123
+4261;James;58;M;Calle Hidalgo 89
+4262;James;27;M;Calle Zaragoza 12
+4263;Joseph;40;M;Calle Hidalgo 89
+4264;Cindy;35;F;Av. Insurgentes 678
+4265;Louis;40;F;Av. Universidad 321
+4266;Michael;60;M;Calle Allende 34
+4267;Sofía;21;M;Av. Madero 777
+4268;Sofía;53;F;Av. López Mateos 900
+4269;Michael;61;F;Calle Zaragoza 12
+4270;Louis;36;M;Calle Zaragoza 12
+4271;Karen;54;F;Calle Hidalgo 89
+4272;Carmen;42;M;Av. Reforma 123
+4273;Sofía;49;F;Av. Reforma 123
+4274;Carmen;19;F;Calle Morelos 56
+4275;Louis;44;F;Calle Morelos 56
+4276;Michael;55;M;Av. Insurgentes 678
+4277;Marie;52;M;Calle Zaragoza 12
+4278;Joseph;25;M;Calle Allende 34
+4279;James;23;F;Av. Reforma 123
+4280;Michael;20;F;Calle Allende 34
+4281;Carmen;45;F;Av. Insurgentes 678
+4282;Louis;46;M;Calle Zaragoza 12
+4283;Sofía;51;M;Av. Insurgentes 678
+4284;Michael;51;F;Av. López Mateos 900
+4285;Cindy;43;M;Calle Morelos 56
+4286;Peter;51;M;Calle Juárez 45
+4287;Marie;53;F;Av. Madero 777
+4288;Michael;34;M;Calle Morelos 56
+4289;Sofía;62;M;Av. López Mateos 900
+4290;Karen;53;F;Av. López Mateos 900
+4291;James;32;M;Av. Reforma 123
+4292;Sofía;28;F;Calle Morelos 56
+4293;Cindy;68;M;Calle Hidalgo 89
+4294;James;38;M;Calle Juárez 45
+4295;Carmen;69;F;Av. Insurgentes 678
+4296;Karen;49;M;Calle Zaragoza 12
+4297;James;23;F;Av. Universidad 321
+4298;Peter;70;F;Av. López Mateos 900
+4299;Cindy;43;F;Av. Insurgentes 678
+4300;Sofía;32;F;Calle Morelos 56
+4301;Cindy;54;F;Calle Morelos 56
+4302;James;21;F;Av. Universidad 321
+4303;Louis;22;M;Av. Madero 777
+4304;Karen;69;M;Av. López Mateos 900
+4305;Louis;56;F;Av. Insurgentes 678
+4306;Carmen;55;M;Calle Allende 34
+4307;Louis;44;F;Av. Universidad 321
+4308;Karen;44;F;Av. Madero 777
+4309;Michael;34;M;Av. Madero 777
+4310;Cindy;29;M;Calle Hidalgo 89
+4311;Joseph;25;M;Av. Madero 777
+4312;Sofía;42;F;Calle Morelos 56
+4313;Joseph;31;F;Calle Allende 34
+4314;Carmen;42;M;Calle Morelos 56
+4315;Peter;61;M;Av. López Mateos 900
+4316;Louis;20;M;Calle Juárez 45
+4317;Marie;24;F;Av. Insurgentes 678
+4318;Karen;59;M;Av. Reforma 123
+4319;Marie;30;F;Calle Morelos 56
+4320;Peter;61;M;Av. Madero 777
+4321;Louis;23;F;Calle Juárez 45
+4322;James;24;F;Av. Madero 777
+4323;Louis;22;M;Av. Reforma 123
+4324;Peter;67;F;Av. Universidad 321
+4325;Carmen;52;M;Calle Juárez 45
+4326;Cindy;27;M;Av. Reforma 123
+4327;Karen;69;M;Calle Allende 34
+4328;Karen;27;M;Calle Allende 34
+4329;Peter;51;F;Calle Zaragoza 12
+4330;Michael;58;F;Calle Hidalgo 89
+4331;James;57;M;Calle Allende 34
+4332;Karen;69;M;Calle Zaragoza 12
+4333;Carmen;52;M;Calle Morelos 56
+4334;Carmen;18;M;Calle Hidalgo 89
+4335;James;43;F;Av. López Mateos 900
+4336;Marie;58;M;Av. Universidad 321
+4337;Peter;43;M;Calle Morelos 56
+4338;Karen;41;F;Av. Insurgentes 678
+4339;Marie;35;M;Calle Morelos 56
+4340;Carmen;31;F;Av. Madero 777
+4341;Carmen;51;M;Av. Universidad 321
+4342;Cindy;56;F;Calle Juárez 45
+4343;Peter;56;F;Calle Allende 34
+4344;Peter;29;F;Calle Juárez 45
+4345;James;51;M;Calle Hidalgo 89
+4346;Cindy;35;F;Calle Allende 34
+4347;Karen;44;M;Calle Hidalgo 89
+4348;James;50;M;Calle Hidalgo 89
+4349;Louis;63;F;Av. Reforma 123
+4350;Cindy;61;F;Av. Reforma 123
+4351;Peter;60;M;Calle Allende 34
+4352;Michael;31;F;Av. Madero 777
+4353;Cindy;67;M;Av. Madero 777
+4354;Louis;40;M;Av. Universidad 321
+4355;Cindy;52;M;Av. Madero 777
+4356;James;54;M;Av. Reforma 123
+4357;Sofía;58;M;Av. López Mateos 900
+4358;Cindy;57;F;Av. Insurgentes 678
+4359;Peter;43;M;Calle Juárez 45
+4360;Joseph;37;F;Calle Juárez 45
+4361;Karen;57;F;Calle Zaragoza 12
+4362;Peter;52;M;Calle Zaragoza 12
+4363;Peter;59;F;Av. Reforma 123
+4364;Carmen;28;F;Calle Morelos 56
+4365;Sofía;20;F;Calle Hidalgo 89
+4366;Louis;59;F;Calle Morelos 56
+4367;Carmen;55;F;Calle Juárez 45
+4368;Karen;43;M;Av. Madero 777
+4369;Marie;64;M;Av. López Mateos 900
+4370;Marie;22;F;Av. Insurgentes 678
+4371;Marie;41;F;Calle Allende 34
+4372;Peter;45;F;Calle Hidalgo 89
+4373;Sofía;25;M;Av. Universidad 321
+4374;James;70;M;Calle Zaragoza 12
+4375;James;37;M;Calle Hidalgo 89
+4376;Marie;19;F;Av. Madero 777
+4377;Marie;33;M;Av. Reforma 123
+4378;Karen;44;F;Calle Zaragoza 12
+4379;Peter;50;F;Av. Reforma 123
+4380;Cindy;31;M;Calle Allende 34
+4381;James;68;F;Calle Hidalgo 89
+4382;Sofía;60;M;Calle Juárez 45
+4383;Marie;67;F;Calle Hidalgo 89
+4384;James;53;F;Calle Allende 34
+4385;Marie;20;F;Av. López Mateos 900
+4386;Michael;37;F;Calle Hidalgo 89
+4387;Carmen;49;F;Calle Morelos 56
+4388;Marie;51;F;Av. Madero 777
+4389;Louis;70;F;Calle Morelos 56
+4390;Joseph;37;F;Av. Reforma 123
+4391;Michael;55;F;Av. Reforma 123
+4392;Joseph;51;F;Av. Insurgentes 678
+4393;Sofía;61;F;Calle Zaragoza 12
+4394;Carmen;65;F;Av. Madero 777
+4395;Karen;68;M;Av. Universidad 321
+4396;Michael;34;F;Calle Juárez 45
+4397;James;47;F;Calle Hidalgo 89
+4398;Carmen;61;F;Av. Reforma 123
+4399;Michael;42;M;Calle Morelos 56
+4400;Karen;30;M;Calle Zaragoza 12
+4401;Cindy;70;F;Av. Insurgentes 678
+4402;James;37;F;Av. Madero 777
+4403;James;23;F;Calle Hidalgo 89
+4404;Karen;33;M;Calle Allende 34
+4405;Marie;49;M;Av. Madero 777
+4406;Cindy;55;F;Av. López Mateos 900
+4407;Louis;30;F;Calle Allende 34
+4408;Karen;49;M;Av. Universidad 321
+4409;Joseph;37;F;Av. López Mateos 900
+4410;Marie;50;M;Av. Universidad 321
+4411;Joseph;27;F;Calle Morelos 56
+4412;Michael;67;M;Av. Reforma 123
+4413;Karen;49;M;Av. Madero 777
+4414;Michael;47;F;Calle Zaragoza 12
+4415;Joseph;69;M;Calle Morelos 56
+4416;Louis;31;M;Av. Universidad 321
+4417;Peter;28;M;Calle Juárez 45
+4418;Peter;52;F;Av. Insurgentes 678
+4419;Joseph;58;M;Calle Juárez 45
+4420;Cindy;31;F;Av. Madero 777
+4421;Michael;53;F;Av. Madero 777
+4422;James;55;F;Av. Insurgentes 678
+4423;Cindy;22;F;Av. López Mateos 900
+4424;Louis;39;M;Calle Hidalgo 89
+4425;Cindy;70;F;Calle Zaragoza 12
+4426;Joseph;20;F;Av. Insurgentes 678
+4427;Marie;57;F;Av. Universidad 321
+4428;Karen;42;M;Av. Universidad 321
+4429;Louis;24;F;Calle Zaragoza 12
+4430;James;29;M;Av. Madero 777
+4431;Louis;31;M;Calle Allende 34
+4432;Carmen;61;F;Calle Zaragoza 12
+4433;Michael;29;M;Av. Insurgentes 678
+4434;Peter;42;M;Calle Zaragoza 12
+4435;Marie;29;M;Av. Madero 777
+4436;James;19;F;Calle Morelos 56
+4437;Sofía;43;F;Av. López Mateos 900
+4438;James;51;M;Calle Juárez 45
+4439;James;60;M;Calle Allende 34
+4440;Cindy;51;F;Av. Reforma 123
+4441;Peter;61;F;Av. Madero 777
+4442;James;68;M;Calle Zaragoza 12
+4443;Peter;63;M;Av. Insurgentes 678
+4444;Louis;28;M;Av. López Mateos 900
+4445;Carmen;23;M;Av. López Mateos 900
+4446;Sofía;69;F;Calle Allende 34
+4447;Michael;54;F;Av. Universidad 321
+4448;Karen;28;F;Av. Reforma 123
+4449;Karen;51;F;Calle Zaragoza 12
+4450;Michael;39;F;Calle Hidalgo 89
+4451;Michael;70;M;Calle Allende 34
+4452;James;66;F;Av. Reforma 123
+4453;Joseph;31;M;Calle Juárez 45
+4454;Louis;41;F;Av. Reforma 123
+4455;Karen;42;F;Av. López Mateos 900
+4456;Cindy;54;M;Calle Hidalgo 89
+4457;Sofía;53;M;Calle Allende 34
+4458;Karen;53;M;Av. Insurgentes 678
+4459;Michael;28;M;Av. Reforma 123
+4460;Michael;36;M;Av. Universidad 321
+4461;James;20;M;Av. Reforma 123
+4462;Joseph;53;M;Calle Juárez 45
+4463;Joseph;43;F;Calle Zaragoza 12
+4464;Joseph;64;M;Calle Zaragoza 12
+4465;Peter;40;F;Av. Insurgentes 678
+4466;Joseph;46;M;Calle Juárez 45
+4467;Carmen;47;M;Av. Universidad 321
+4468;Sofía;45;F;Calle Zaragoza 12
+4469;James;53;M;Calle Hidalgo 89
+4470;Louis;21;F;Av. Madero 777
+4471;Sofía;53;F;Av. Insurgentes 678
+4472;Karen;27;F;Av. López Mateos 900
+4473;Marie;30;M;Av. Universidad 321
+4474;Carmen;52;M;Calle Hidalgo 89
+4475;James;46;M;Calle Hidalgo 89
+4476;Michael;29;M;Av. Madero 777
+4477;Cindy;32;M;Calle Morelos 56
+4478;James;46;F;Av. López Mateos 900
+4479;Cindy;27;M;Calle Juárez 45
+4480;Cindy;50;M;Av. López Mateos 900
+4481;Karen;61;F;Calle Allende 34
+4482;Joseph;36;M;Av. Reforma 123
+4483;Karen;35;F;Calle Morelos 56
+4484;Sofía;31;M;Calle Allende 34
+4485;Marie;62;F;Av. Universidad 321
+4486;Michael;38;M;Calle Hidalgo 89
+4487;Marie;65;M;Calle Hidalgo 89
+4488;Michael;68;M;Av. Universidad 321
+4489;Karen;56;F;Calle Morelos 56
+4490;Joseph;30;M;Calle Zaragoza 12
+4491;Karen;45;M;Av. Reforma 123
+4492;Cindy;34;F;Av. Universidad 321
+4493;Cindy;33;M;Calle Zaragoza 12
+4494;Karen;20;M;Calle Juárez 45
+4495;James;28;F;Calle Zaragoza 12
+4496;Sofía;18;F;Calle Zaragoza 12
+4497;James;20;M;Av. López Mateos 900
+4498;Karen;36;F;Av. Insurgentes 678
+4499;Sofía;50;M;Calle Juárez 45
+4500;Peter;54;M;Av. Reforma 123
+4501;Louis;23;F;Av. López Mateos 900
+4502;Peter;34;F;Av. Madero 777
+4503;Carmen;40;F;Calle Morelos 56
+4504;Peter;29;M;Av. Reforma 123
+4505;Carmen;30;F;Av. Insurgentes 678
+4506;Peter;27;F;Av. Reforma 123
+4507;Karen;34;M;Calle Morelos 56
+4508;Cindy;46;M;Calle Morelos 56
+4509;Peter;43;F;Calle Juárez 45
+4510;Carmen;66;F;Av. Madero 777
+4511;Michael;44;F;Av. Madero 777
+4512;Joseph;49;F;Av. Insurgentes 678
+4513;Cindy;41;M;Calle Zaragoza 12
+4514;Peter;68;M;Av. Insurgentes 678
+4515;Peter;62;M;Av. Reforma 123
+4516;James;60;F;Calle Hidalgo 89
+4517;James;51;M;Calle Zaragoza 12
+4518;Marie;46;M;Calle Allende 34
+4519;Peter;70;M;Av. Universidad 321
+4520;Marie;57;F;Calle Zaragoza 12
+4521;Cindy;62;F;Calle Allende 34
+4522;Marie;26;F;Calle Juárez 45
+4523;Louis;66;M;Av. Universidad 321
+4524;James;57;F;Av. Insurgentes 678
+4525;James;69;M;Av. Reforma 123
+4526;James;44;M;Av. Universidad 321
+4527;James;46;M;Calle Zaragoza 12
+4528;James;41;M;Calle Zaragoza 12
+4529;Michael;54;F;Calle Allende 34
+4530;James;32;M;Calle Hidalgo 89
+4531;Michael;31;F;Calle Juárez 45
+4532;Carmen;36;M;Av. López Mateos 900
+4533;Louis;40;F;Calle Allende 34
+4534;Sofía;55;M;Av. Reforma 123
+4535;Marie;50;M;Av. Madero 777
+4536;Karen;63;F;Calle Allende 34
+4537;Sofía;68;F;Av. Reforma 123
+4538;Marie;41;F;Calle Juárez 45
+4539;James;47;M;Calle Hidalgo 89
+4540;Marie;53;M;Calle Hidalgo 89
+4541;Louis;33;F;Calle Morelos 56
+4542;Peter;43;M;Calle Zaragoza 12
+4543;James;62;F;Calle Zaragoza 12
+4544;James;64;M;Av. Reforma 123
+4545;Louis;59;M;Calle Juárez 45
+4546;Karen;40;F;Av. López Mateos 900
+4547;James;70;F;Calle Hidalgo 89
+4548;Joseph;25;M;Calle Allende 34
+4549;Carmen;38;M;Calle Morelos 56
+4550;Joseph;37;M;Calle Zaragoza 12
+4551;Louis;46;M;Calle Allende 34
+4552;Joseph;67;F;Av. Madero 777
+4553;James;25;F;Calle Hidalgo 89
+4554;Cindy;46;F;Calle Allende 34
+4555;James;40;M;Av. Madero 777
+4556;Michael;30;F;Calle Morelos 56
+4557;Karen;28;F;Calle Juárez 45
+4558;Joseph;29;F;Calle Morelos 56
+4559;Michael;70;M;Calle Hidalgo 89
+4560;Karen;51;M;Av. López Mateos 900
+4561;James;61;M;Calle Juárez 45
+4562;James;36;M;Av. Reforma 123
+4563;Joseph;39;F;Av. Insurgentes 678
+4564;Marie;26;M;Av. Insurgentes 678
+4565;Joseph;62;M;Calle Allende 34
+4566;Carmen;53;M;Calle Juárez 45
+4567;Sofía;31;M;Av. Madero 777
+4568;Carmen;36;F;Calle Juárez 45
+4569;Michael;33;F;Calle Zaragoza 12
+4570;Joseph;30;M;Av. López Mateos 900
+4571;Marie;47;F;Calle Juárez 45
+4572;Karen;56;F;Av. Insurgentes 678
+4573;Karen;56;M;Av. López Mateos 900
+4574;Sofía;62;M;Av. Reforma 123
+4575;Marie;28;F;Calle Hidalgo 89
+4576;Carmen;61;F;Av. Reforma 123
+4577;Karen;53;F;Av. Reforma 123
+4578;Karen;63;M;Av. Reforma 123
+4579;Sofía;32;F;Av. Reforma 123
+4580;James;19;M;Calle Juárez 45
+4581;Michael;22;M;Av. Madero 777
+4582;Marie;59;F;Av. Madero 777
+4583;Peter;47;F;Calle Zaragoza 12
+4584;Joseph;61;M;Av. Universidad 321
+4585;Sofía;62;M;Av. Universidad 321
+4586;Peter;29;M;Av. Universidad 321
+4587;Carmen;24;M;Av. Madero 777
+4588;James;40;M;Calle Zaragoza 12
+4589;James;60;M;Calle Juárez 45
+4590;Michael;40;F;Av. López Mateos 900
+4591;Joseph;27;M;Av. Universidad 321
+4592;Cindy;46;F;Calle Zaragoza 12
+4593;Sofía;45;F;Av. Reforma 123
+4594;Peter;62;M;Calle Allende 34
+4595;Sofía;27;F;Calle Allende 34
+4596;Cindy;49;M;Calle Zaragoza 12
+4597;James;58;M;Calle Morelos 56
+4598;Carmen;43;M;Calle Allende 34
+4599;Joseph;49;M;Av. Madero 777
+4600;James;25;M;Av. López Mateos 900
+4601;Carmen;63;M;Calle Juárez 45
+4602;Cindy;32;F;Av. Madero 777
+4603;Peter;33;F;Av. Reforma 123
+4604;Karen;50;M;Av. Madero 777
+4605;Cindy;33;F;Calle Morelos 56
+4606;Peter;25;M;Calle Hidalgo 89
+4607;Cindy;33;F;Av. López Mateos 900
+4608;Joseph;53;F;Av. Universidad 321
+4609;Carmen;20;F;Av. Madero 777
+4610;Louis;22;M;Calle Juárez 45
+4611;Louis;24;F;Calle Zaragoza 12
+4612;Sofía;53;F;Av. Reforma 123
+4613;Cindy;53;M;Calle Allende 34
+4614;Peter;39;M;Calle Juárez 45
+4615;Joseph;51;F;Av. López Mateos 900
+4616;Cindy;46;F;Av. Reforma 123
+4617;Joseph;29;M;Av. Reforma 123
+4618;Louis;24;F;Av. Reforma 123
+4619;Sofía;19;M;Av. Reforma 123
+4620;Joseph;44;F;Calle Juárez 45
+4621;Sofía;21;M;Av. Insurgentes 678
+4622;Sofía;31;M;Calle Allende 34
+4623;Sofía;60;M;Calle Morelos 56
+4624;Carmen;46;M;Av. Reforma 123
+4625;Marie;31;M;Calle Juárez 45
+4626;Louis;29;M;Av. Madero 777
+4627;Sofía;53;F;Av. Universidad 321
+4628;Joseph;48;F;Av. Reforma 123
+4629;Carmen;27;M;Av. Reforma 123
+4630;Peter;26;M;Av. López Mateos 900
+4631;James;37;M;Calle Zaragoza 12
+4632;Joseph;56;M;Av. Madero 777
+4633;Karen;23;F;Av. Madero 777
+4634;James;54;M;Av. López Mateos 900
+4635;Cindy;64;F;Calle Hidalgo 89
+4636;Michael;60;F;Calle Hidalgo 89
+4637;Marie;42;M;Calle Morelos 56
+4638;Michael;51;F;Calle Allende 34
+4639;Michael;23;M;Av. Reforma 123
+4640;Sofía;23;F;Av. Reforma 123
+4641;Carmen;43;F;Calle Morelos 56
+4642;Joseph;37;F;Calle Morelos 56
+4643;Sofía;21;F;Calle Morelos 56
+4644;Marie;21;F;Av. Reforma 123
+4645;Peter;27;M;Calle Allende 34
+4646;James;34;F;Calle Zaragoza 12
+4647;Joseph;43;F;Calle Hidalgo 89
+4648;James;56;F;Calle Juárez 45
+4649;Peter;61;F;Calle Allende 34
+4650;Peter;40;M;Calle Allende 34
+4651;Carmen;21;M;Av. Madero 777
+4652;Joseph;19;M;Av. Insurgentes 678
+4653;Peter;45;M;Av. Universidad 321
+4654;Joseph;65;F;Calle Allende 34
+4655;Carmen;50;F;Calle Juárez 45
+4656;Peter;65;F;Av. Reforma 123
+4657;James;22;F;Av. López Mateos 900
+4658;Louis;62;M;Calle Juárez 45
+4659;Michael;70;M;Calle Allende 34
+4660;Karen;46;M;Av. Universidad 321
+4661;Karen;65;F;Calle Hidalgo 89
+4662;Louis;60;M;Av. Universidad 321
+4663;Sofía;53;F;Av. Madero 777
+4664;Joseph;42;F;Av. Insurgentes 678
+4665;James;46;F;Av. Madero 777
+4666;Peter;41;M;Calle Morelos 56
+4667;Cindy;29;F;Av. Madero 777
+4668;James;67;M;Av. López Mateos 900
+4669;Joseph;24;M;Av. López Mateos 900
+4670;Joseph;60;M;Calle Juárez 45
+4671;Peter;35;M;Calle Zaragoza 12
+4672;Cindy;58;M;Av. Insurgentes 678
+4673;Michael;34;F;Calle Hidalgo 89
+4674;Joseph;41;F;Av. Madero 777
+4675;Marie;36;M;Calle Hidalgo 89
+4676;Carmen;31;F;Av. López Mateos 900
+4677;Sofía;46;F;Calle Hidalgo 89
+4678;Joseph;48;F;Calle Hidalgo 89
+4679;Peter;22;M;Av. López Mateos 900
+4680;Cindy;59;F;Av. Insurgentes 678
+4681;Sofía;47;F;Calle Morelos 56
+4682;Marie;69;M;Av. Universidad 321
+4683;Peter;60;M;Av. Insurgentes 678
+4684;Joseph;38;F;Calle Allende 34
+4685;Karen;68;F;Calle Zaragoza 12
+4686;Carmen;70;M;Calle Zaragoza 12
+4687;Peter;65;F;Av. Reforma 123
+4688;Cindy;56;M;Av. López Mateos 900
+4689;Michael;26;M;Calle Hidalgo 89
+4690;James;22;M;Calle Hidalgo 89
+4691;Karen;33;M;Calle Juárez 45
+4692;Peter;38;F;Av. Insurgentes 678
+4693;Joseph;66;F;Calle Juárez 45
+4694;Sofía;43;M;Av. Reforma 123
+4695;Sofía;44;M;Av. Universidad 321
+4696;Joseph;24;F;Calle Zaragoza 12
+4697;Marie;20;F;Calle Zaragoza 12
+4698;Carmen;27;M;Av. López Mateos 900
+4699;Joseph;54;F;Av. Madero 777
+4700;Louis;30;M;Av. Madero 777
+4701;Marie;55;F;Calle Hidalgo 89
+4702;James;30;M;Av. Reforma 123
+4703;James;62;F;Av. Universidad 321
+4704;Michael;28;F;Calle Morelos 56
+4705;Marie;27;F;Av. Universidad 321
+4706;Cindy;48;M;Calle Zaragoza 12
+4707;Peter;22;F;Calle Hidalgo 89
+4708;Michael;60;F;Calle Allende 34
+4709;James;64;F;Calle Morelos 56
+4710;Louis;64;M;Calle Hidalgo 89
+4711;Carmen;41;M;Calle Zaragoza 12
+4712;Marie;44;F;Calle Hidalgo 89
+4713;Louis;27;F;Av. López Mateos 900
+4714;Peter;26;M;Av. Insurgentes 678
+4715;Louis;69;M;Av. Madero 777
+4716;Marie;66;F;Calle Juárez 45
+4717;Louis;25;F;Av. López Mateos 900
+4718;Carmen;62;M;Calle Zaragoza 12
+4719;Carmen;70;M;Av. Reforma 123
+4720;Karen;24;F;Av. Insurgentes 678
+4721;Karen;64;M;Calle Morelos 56
+4722;Louis;63;F;Calle Allende 34
+4723;Michael;62;M;Av. Universidad 321
+4724;James;61;F;Calle Morelos 56
+4725;Marie;32;M;Calle Allende 34
+4726;Cindy;27;F;Calle Zaragoza 12
+4727;Michael;68;M;Calle Zaragoza 12
+4728;Cindy;36;M;Calle Zaragoza 12
+4729;James;37;M;Av. López Mateos 900
+4730;James;20;F;Calle Morelos 56
+4731;Louis;19;M;Av. Madero 777
+4732;James;68;M;Calle Juárez 45
+4733;Karen;68;M;Calle Zaragoza 12
+4734;Sofía;34;F;Calle Morelos 56
+4735;Michael;35;M;Calle Zaragoza 12
+4736;Louis;69;F;Av. López Mateos 900
+4737;Carmen;46;M;Calle Hidalgo 89
+4738;Louis;67;F;Calle Allende 34
+4739;Karen;28;F;Av. Insurgentes 678
+4740;Carmen;62;M;Av. Universidad 321
+4741;Peter;52;F;Av. Insurgentes 678
+4742;Joseph;63;F;Av. Reforma 123
+4743;Peter;50;F;Av. Insurgentes 678
+4744;Karen;28;M;Calle Zaragoza 12
+4745;Joseph;29;F;Av. López Mateos 900
+4746;Peter;46;F;Calle Allende 34
+4747;James;30;M;Av. Reforma 123
+4748;Sofía;25;F;Av. Reforma 123
+4749;Peter;54;F;Calle Morelos 56
+4750;Joseph;19;F;Calle Morelos 56
+4751;Karen;48;F;Calle Allende 34
+4752;Cindy;24;M;Av. Reforma 123
+4753;Marie;49;F;Av. Insurgentes 678
+4754;Louis;54;F;Av. Universidad 321
+4755;Marie;53;F;Av. Reforma 123
+4756;Karen;66;F;Calle Hidalgo 89
+4757;James;62;F;Av. Reforma 123
+4758;Carmen;18;M;Calle Hidalgo 89
+4759;Peter;54;M;Calle Morelos 56
+4760;Carmen;29;M;Calle Hidalgo 89
+4761;Carmen;37;F;Av. Madero 777
+4762;James;60;F;Calle Juárez 45
+4763;Louis;38;M;Av. López Mateos 900
+4764;Louis;24;F;Av. Universidad 321
+4765;Peter;41;M;Calle Juárez 45
+4766;Carmen;61;M;Av. Universidad 321
+4767;Michael;58;F;Calle Morelos 56
+4768;Michael;69;F;Av. López Mateos 900
+4769;Karen;38;F;Calle Allende 34
+4770;Cindy;42;F;Av. Madero 777
+4771;Michael;40;M;Calle Allende 34
+4772;Michael;52;F;Av. López Mateos 900
+4773;Cindy;46;F;Calle Morelos 56
+4774;Carmen;21;F;Calle Zaragoza 12
+4775;Michael;67;F;Av. Madero 777
+4776;Joseph;40;M;Calle Hidalgo 89
+4777;Marie;23;M;Calle Zaragoza 12
+4778;Michael;23;M;Av. Madero 777
+4779;Michael;44;F;Av. López Mateos 900
+4780;Joseph;21;M;Av. López Mateos 900
+4781;Cindy;27;M;Av. Reforma 123
+4782;Peter;65;F;Av. Madero 777
+4783;Michael;39;M;Calle Allende 34
+4784;Peter;62;F;Calle Morelos 56
+4785;Michael;29;F;Av. Insurgentes 678
+4786;Cindy;55;F;Av. López Mateos 900
+4787;Karen;60;F;Calle Zaragoza 12
+4788;Cindy;24;F;Calle Morelos 56
+4789;Joseph;45;F;Av. Madero 777
+4790;Marie;69;M;Av. Reforma 123
+4791;Michael;29;M;Calle Zaragoza 12
+4792;Michael;45;M;Av. Madero 777
+4793;James;27;F;Calle Hidalgo 89
+4794;Karen;29;M;Calle Hidalgo 89
+4795;Karen;46;M;Calle Morelos 56
+4796;Cindy;69;M;Calle Juárez 45
+4797;Carmen;48;M;Calle Juárez 45
+4798;James;50;F;Av. Universidad 321
+4799;Michael;22;M;Calle Juárez 45
+4800;Sofía;47;F;Calle Morelos 56
+4801;Joseph;56;M;Calle Allende 34
+4802;James;38;M;Calle Allende 34
+4803;Marie;26;M;Calle Allende 34
+4804;Sofía;56;M;Calle Hidalgo 89
+4805;Louis;59;F;Calle Morelos 56
+4806;Carmen;50;M;Calle Hidalgo 89
+4807;Karen;37;M;Av. López Mateos 900
+4808;Sofía;42;M;Av. Reforma 123
+4809;Cindy;21;M;Av. Madero 777
+4810;James;59;M;Calle Allende 34
+4811;James;66;F;Calle Hidalgo 89
+4812;Sofía;37;F;Calle Morelos 56
+4813;Michael;34;M;Calle Allende 34
+4814;Peter;70;F;Calle Juárez 45
+4815;Louis;67;F;Av. Universidad 321
+4816;Carmen;32;F;Calle Morelos 56
+4817;Michael;62;M;Calle Morelos 56
+4818;Louis;34;F;Av. Insurgentes 678
+4819;Joseph;27;M;Calle Juárez 45
+4820;James;40;M;Av. Insurgentes 678
+4821;Marie;35;F;Calle Zaragoza 12
+4822;Carmen;28;F;Calle Zaragoza 12
+4823;Carmen;70;M;Calle Morelos 56
+4824;Louis;23;M;Av. Madero 777
+4825;Peter;64;F;Av. Universidad 321
+4826;Carmen;56;M;Av. Universidad 321
+4827;Peter;35;M;Calle Zaragoza 12
+4828;Cindy;60;M;Av. Insurgentes 678
+4829;Karen;18;M;Av. Universidad 321
+4830;Michael;33;M;Av. Madero 777
+4831;Karen;37;M;Calle Juárez 45
+4832;Louis;63;M;Av. Madero 777
+4833;Michael;22;F;Calle Zaragoza 12
+4834;Carmen;39;F;Av. Insurgentes 678
+4835;Michael;45;F;Calle Allende 34
+4836;Cindy;62;M;Calle Allende 34
+4837;Sofía;64;M;Calle Zaragoza 12
+4838;Carmen;32;F;Calle Zaragoza 12
+4839;Karen;22;F;Av. López Mateos 900
+4840;Karen;42;F;Av. Insurgentes 678
+4841;Karen;38;F;Av. Reforma 123
+4842;Marie;56;F;Calle Zaragoza 12
+4843;Sofía;47;M;Av. Insurgentes 678
+4844;Michael;21;F;Calle Hidalgo 89
+4845;Peter;60;F;Calle Morelos 56
+4846;Marie;39;M;Calle Hidalgo 89
+4847;Michael;68;F;Av. Madero 777
+4848;Carmen;33;F;Av. López Mateos 900
+4849;Marie;69;F;Av. Reforma 123
+4850;Carmen;46;M;Av. Reforma 123
+4851;Karen;30;M;Calle Juárez 45
+4852;Marie;61;F;Calle Zaragoza 12
+4853;Peter;58;M;Av. Reforma 123
+4854;Joseph;43;M;Calle Allende 34
+4855;Michael;44;F;Av. Madero 777
+4856;Carmen;39;F;Calle Zaragoza 12
+4857;Carmen;36;M;Calle Morelos 56
+4858;Peter;43;F;Av. Madero 777
+4859;Michael;34;F;Calle Morelos 56
+4860;Sofía;30;F;Calle Zaragoza 12
+4861;Carmen;65;M;Av. Universidad 321
+4862;Carmen;41;F;Av. Madero 777
+4863;Sofía;56;F;Calle Juárez 45
+4864;Sofía;33;F;Calle Morelos 56
+4865;Marie;30;F;Calle Juárez 45
+4866;Michael;54;F;Av. Madero 777
+4867;Karen;49;F;Av. Reforma 123
+4868;Joseph;39;M;Calle Hidalgo 89
+4869;James;19;M;Av. Madero 777
+4870;Marie;30;F;Av. Reforma 123
+4871;Marie;63;F;Calle Juárez 45
+4872;Cindy;38;F;Av. Insurgentes 678
+4873;Sofía;46;M;Av. López Mateos 900
+4874;Cindy;43;M;Calle Allende 34
+4875;Michael;52;M;Av. Reforma 123
+4876;Michael;68;F;Av. López Mateos 900
+4877;Michael;24;F;Av. Universidad 321
+4878;James;61;M;Av. Universidad 321
+4879;Karen;49;M;Av. Reforma 123
+4880;Joseph;65;M;Av. Reforma 123
+4881;Cindy;26;F;Calle Zaragoza 12
+4882;Cindy;55;M;Av. Reforma 123
+4883;Carmen;34;M;Av. Universidad 321
+4884;Sofía;66;F;Calle Morelos 56
+4885;James;57;M;Av. Insurgentes 678
+4886;Marie;20;F;Calle Hidalgo 89
+4887;Cindy;55;M;Av. Insurgentes 678
+4888;Michael;25;M;Calle Allende 34
+4889;Michael;46;M;Calle Hidalgo 89
+4890;Cindy;67;M;Calle Allende 34
+4891;Cindy;68;F;Calle Allende 34
+4892;Marie;58;F;Calle Morelos 56
+4893;James;68;M;Av. Madero 777
+4894;Michael;33;M;Av. Universidad 321
+4895;Cindy;18;F;Av. Universidad 321
+4896;Michael;44;M;Calle Hidalgo 89
+4897;Cindy;65;F;Calle Morelos 56
+4898;Marie;35;M;Calle Zaragoza 12
+4899;Michael;70;F;Av. Insurgentes 678
+4900;Joseph;67;F;Av. López Mateos 900
+4901;James;57;M;Calle Hidalgo 89
+4902;Joseph;28;M;Calle Juárez 45
+4903;Cindy;69;F;Calle Morelos 56
+4904;Carmen;53;F;Av. Madero 777
+4905;Carmen;46;F;Calle Zaragoza 12
+4906;Karen;69;F;Av. Madero 777
+4907;Peter;18;F;Calle Hidalgo 89
+4908;Peter;49;F;Av. Madero 777
+4909;Joseph;60;M;Calle Morelos 56
+4910;Cindy;45;M;Av. Reforma 123
+4911;James;18;M;Calle Hidalgo 89
+4912;Peter;63;M;Calle Allende 34
+4913;James;65;F;Av. Insurgentes 678
+4914;Marie;34;M;Calle Morelos 56
+4915;Michael;23;F;Calle Hidalgo 89
+4916;Marie;37;F;Av. Insurgentes 678
+4917;Karen;40;F;Calle Juárez 45
+4918;Cindy;55;F;Calle Zaragoza 12
+4919;Marie;31;F;Calle Zaragoza 12
+4920;Michael;31;F;Calle Juárez 45
+4921;Carmen;55;F;Av. Insurgentes 678
+4922;James;70;F;Av. Universidad 321
+4923;Michael;66;M;Calle Hidalgo 89
+4924;Louis;49;M;Av. López Mateos 900
+4925;Michael;50;M;Av. Insurgentes 678
+4926;Michael;45;M;Calle Morelos 56
+4927;Marie;18;F;Av. Universidad 321
+4928;Peter;49;F;Av. López Mateos 900
+4929;James;47;M;Av. López Mateos 900
+4930;Carmen;63;M;Calle Zaragoza 12
+4931;Peter;63;M;Av. Universidad 321
+4932;Sofía;55;F;Av. López Mateos 900
+4933;Louis;47;F;Av. López Mateos 900
+4934;Michael;46;F;Av. Madero 777
+4935;Cindy;21;F;Calle Hidalgo 89
+4936;James;30;F;Av. López Mateos 900
+4937;Sofía;48;M;Av. Madero 777
+4938;Peter;18;F;Calle Zaragoza 12
+4939;Louis;48;M;Calle Zaragoza 12
+4940;Cindy;30;F;Av. Insurgentes 678
+4941;Sofía;64;F;Av. Madero 777
+4942;Joseph;24;M;Av. Madero 777
+4943;Carmen;36;F;Av. Madero 777
+4944;Karen;44;F;Av. Universidad 321
+4945;Joseph;61;F;Av. Insurgentes 678
+4946;Marie;62;F;Calle Hidalgo 89
+4947;Cindy;61;M;Av. Madero 777
+4948;Carmen;23;M;Calle Morelos 56
+4949;Sofía;53;M;Calle Hidalgo 89
+4950;Marie;42;F;Av. Insurgentes 678
+4951;Sofía;53;M;Av. Universidad 321
+4952;Peter;39;M;Calle Morelos 56
+4953;Joseph;53;F;Av. Reforma 123
+4954;Michael;56;F;Calle Hidalgo 89
+4955;Carmen;33;F;Av. López Mateos 900
+4956;Sofía;56;F;Av. López Mateos 900
+4957;Marie;18;F;Av. López Mateos 900
+4958;Michael;49;M;Calle Morelos 56
+4959;Cindy;54;F;Calle Morelos 56
+4960;Louis;42;M;Av. Reforma 123
+4961;Michael;25;F;Calle Allende 34
+4962;Peter;45;M;Av. Madero 777
+4963;Peter;54;F;Calle Morelos 56
+4964;Karen;61;M;Calle Morelos 56
+4965;Peter;68;M;Calle Allende 34
+4966;Marie;53;F;Av. Universidad 321
+4967;James;43;M;Calle Zaragoza 12
+4968;Louis;26;M;Calle Juárez 45
+4969;James;23;F;Av. López Mateos 900
+4970;Sofía;69;F;Calle Juárez 45
+4971;Karen;57;M;Calle Hidalgo 89
+4972;James;30;M;Av. Insurgentes 678
+4973;Sofía;56;F;Av. Insurgentes 678
+4974;James;29;M;Av. Universidad 321
+4975;Sofía;37;F;Calle Allende 34
+4976;Cindy;57;M;Av. Reforma 123
+4977;Carmen;18;M;Calle Allende 34
+4978;Sofía;57;F;Av. Insurgentes 678
+4979;Sofía;20;F;Av. Reforma 123
+4980;Cindy;40;F;Calle Allende 34
+4981;James;34;M;Calle Hidalgo 89
+4982;Marie;22;F;Calle Allende 34
+4983;Marie;34;F;Av. Reforma 123
+4984;Karen;70;F;Calle Juárez 45
+4985;Karen;70;F;Av. Universidad 321
+4986;Karen;40;M;Calle Morelos 56
+4987;Peter;18;M;Av. Madero 777
+4988;Carmen;33;F;Calle Allende 34
+4989;Joseph;22;M;Av. Universidad 321
+4990;Michael;57;M;Calle Hidalgo 89
+4991;Sofía;54;F;Calle Juárez 45
+4992;Karen;19;F;Av. Insurgentes 678
+4993;Marie;55;F;Calle Allende 34
+4994;Marie;43;M;Av. Reforma 123
+4995;Louis;36;M;Av. López Mateos 900
+4996;Joseph;40;F;Calle Allende 34
+4997;Michael;27;M;Av. López Mateos 900
+4998;James;59;M;Calle Morelos 56
+4999;Peter;46;F;Calle Morelos 56
+5000;Peter;57;M;Av. Universidad 321
