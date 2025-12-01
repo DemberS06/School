@@ -1,0 +1,152 @@
+---
+title: "Ejercicios usando Software R"
+author: "Juan Pablo Salinas Muñoz"
+date: "2025-11-30"
+output: word_document
+---
+
+**Objetivo:** El alumno utiliza las instrucciones adecuadas del software R para resolver, nuevamente, los siguientes ejemplos resueltos del libro “Probabilidad y Estadística Aplicaciones a la Ingeniería” de los autores Depool y Monasterio.
+
+**Software a emplear:** RStudio
+
+**Instrucciones:** El reporte con las respuestas a los siguientes ejercicios debe ser elaborado en RMarkdown y entregado en la plataforma Aula Virtual dentro del apartado correspondiente con
+formato PDF.
+
+
+**Distribucion Normal. Ejemplo 7.1** Una máquina que expende bebidas en vasos esta calibrada de modo que descarga el producto con un promedio de 250 mililitros por vaso. Si la cantidad de líquido está distribuida normalmente con una desviación estándar de 14 mililitros. 
+
+**(a)** ¿Qué porcentaje de vasos contendrá menos de 240 ml?
+
+**Respuesta del inciso (a):**
+```{r}
+P <- pnorm(240, mean = 250, sd = 14)
+print(P)
+```
+
+**(b)** ¿Qué porcentaje de vasos contendrá más de 256 ml? 
+
+**Respuesta del inciso (b):**
+```{r}
+P <- 1 - pnorm(256, mean = 250, sd = 14)
+print(P)
+```
+
+**(c)** ¿Qué porcentaje de vasos contendrá entre 240 y 256 ml? 
+
+**Respuesta del inciso (c):**
+```{r}
+P <- pnorm(256, mean = 250, sd = 14) - pnorm(240, mean = 250, sd = 14)
+print(paste0(as.character(100*P), "%"))
+```
+
+**(d)** Si se usan vasos de 240 ml, ¿cuántos de los siguientes 500 vasos, se derramarán? 
+
+**Respuesta del inciso (d):**
+```{r}
+P <-(1 - pnorm(240, mean = 250, sd = 14))
+print(paste(as.character(as.integer(500*P)), "vasos"))
+```
+
+**(e)** ¿Bajo qué valor estará el 30% de los vasos con menos contenido?
+
+**Respuesta del inciso (e):**
+```{r}
+Q <- qnorm(0.30, mean = 250, sd = 14)
+print(Q)
+```
+
+**(f)** ¿Bajo qué valores está el 50% de los valores centrales? 
+
+**Respuesta del inciso (f):**
+```{r}
+L <- qnorm(0.25, mean = 250, sd = 14)
+R <- qnorm(0.75, mean = 250, sd = 14)
+print(L)
+print(R)
+```
+
+**Distribucion Normal. Ejemplo 7.2** Supóngase que el voltaje medido en un circuito eléctrico tiene Distribución Normal con media 110 voltios y desviación estándar 1,5 voltios.
+
+**(a)**  Si se toman cuatro mediciones independientes del voltaje ¿Cuál es la probabilidad de que las cuatro mediciones estén entre 106 y 108 voltios?
+
+**Respuesta del inciso (a):**
+```{r}
+P <- pnorm(108, mean = 110, sd = 1.5) - pnorm(106, mean = 110, sd = 1.5)
+print(P^4)
+```
+
+**Distribucion Uniforme. Ejemplo 7.5** Un sistema computarizado se detiene cuando uno de sus circuitos deja de funcionar. El tiempo que se tarda en que el departamento de mantenimiento compre el circuito dañado, está distribuido uniformemente en un intervalo de 1 a 6 días.
+
+**(a)** Definir la función de densidad. 
+
+**Respuesta del inciso (a):**
+```{r}
+f_x <- function(x) ifelse(x >= 1 & x <= 6, 1/(6-1), 0)
+print(f_x(2))
+```
+
+**(b)** Definir la función de densidad acumulada.
+
+**Respuesta del inciso (b):**
+```{r}
+F_x <- function(x) integrate (f_x, lower = 1, upper=x)
+print(F_x(3))
+```
+
+**(c)** Calcular la probabilidad de que el tiempo de entrega sea mayor o igual a 2 días. 
+
+**Respuesta del inciso (c):**
+```{r}
+P <- 1 - punif(2, min = 1, max = 6)
+print(P)
+```
+
+**(d)** Calcular la probabilidad de que el tiempo de entrega este entre 2 y 5 días (inclusive). 
+
+**Respuesta del inciso (d):**
+```{r}
+P <- punif(5, min = 1, max = 6) - punif(2, min = 1, max = 6)
+print(P)
+```
+
+**(e)** Calcule la media, varianza y desviación estándar de la distribución. 
+
+**Respuesta del inciso (e):**
+```{r}
+V <- runif(10^6, min = 1, max = 6) 
+mean(V) 
+var(V) 
+sd(V)
+```
+
+**Distribucion Gamma. Ejemplo 7.10** USupóngase que el intervalo de tiempo X necesario para efectuar una comprobación periódica de mantenimiento, de acuerdo a la experiencia, en un dictáfono, sigue una Distribución Gamma con α=3 y β=2 (minutos).
+
+**(a)** Definir la función de densidad. 
+
+**Respuesta del inciso (a):**
+```{r}
+f_x <- function(X) dgamma(x = X, shape = 3, scale = 2)
+print(f_x(4))
+```
+
+**Distribucion exponencial. Ejemplo 7.11** Una refinadora de azúcar tiene cinco plantas de proceso, y todas reciben azúcar blanca a granel. La cantidad de azúcar que puede procesar una planta en un día se
+puede representar mediante una función de densidad exponencial con promedio de 3(medidas en toneladas), para cada una de las cinco plantas.
+
+**(a)**  Si las plantas trabajan en forma independiente, calcular la probabilidad de que sean exactamente dos de las cinco plantas las que procesen más de 4 toneladas en un día determinado. 
+
+**Respuesta del inciso (a):**
+```{r}
+P <- dbinom(2, size = 5, prob = pexp(4, rate = 1/3, lower.tail = FALSE))
+print(P)
+```
+
+**Distribucion Weibull. Ejemplo 7.12** La vida de servicio de un determinado tipo de termistor produce
+resistencias dentro de sus especificaciones sigue una Distribución de Weibull con α=40 y β=2 (mediciones en miles de horas).
+
+**(a)**  ¿Cuál es la probabilidad de que uno de esos termistores, que se ha de instalar en un sistema, trabaje en forma adecuada durante más de 10000 horas?  
+
+**Respuesta del inciso (a):**
+```{r}
+P <- pweibull(10, shape = 40, scale = 2, lower.tail = FALSE)
+print(P)
+```

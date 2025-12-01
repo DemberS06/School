@@ -1,0 +1,67 @@
+---
+title: "Práctica #3 de la unidad 1"
+author: "Aquí debe estar tu nombre"
+date: "2025-09-02"
+output: word_document
+---
+
+**Objetivo:** El alumno obtendrá medidas y gráficos resumen mediante el uso de software estadístico.
+
+**Software a emplear:** RStudio
+
+**Instrucciones:** El reporte con las respuestas a los siguientes ejercicios debe ser elaborado en RMarkdown y entregado en la plataforma Aula Virtual dentro del apartado correspondiente con
+formato PDF.
+
+
+**Ejercicio 1** Realiza lo indicado en cada uno de los siguientes incisos y contesta correctamente.
+
+**(a) [Valor 18%]** Ejecuta el siguiente fragmento de código (code chunk) para abrir el archivo de datos referente a la Representación de las Mujeres en la Educación STEM Global.
+
+La descripción del conjunto de datos se puede consultar en el siguiente enlace
+
+[Mujeres en STEM](https://www.kaggle.com/datasets/bismasajjad/womens-representation-in-global-stem-education)
+
+Responde, ¿Qué es STEM? ¿A qué se refiere cada una de las seis variables del conjunto de datos? 
+
+```{r, warning=FALSE}
+datos <- read.csv(file.choose(), header=TRUE)
+colnames(datos)
+```
+**Respuesta del inciso (a):**
+
+**(b) [Valor 18%]** Ejecuta el siguiente fragmento de código (code chunk) y proporciona una interpretación del gráfico. 
+```{r, warning=FALSE}
+library(ggplot2)
+p <- ggplot(data=datos, aes(x=STEM.Fields, fill=STEM.Fields)) + 
+  geom_bar() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  labs(y="Frecuencia")
+plot(p)
+```
+
+**(c) [Valor 18%]** Repite el gráfico del inciso anterior pero para la variable Country. Proporciona una interpretación del gráfico. 
+
+**Respuesta del inciso (c):**
+
+
+**(d) [Valor 18%]** Ejecuta el siguiente fragmento de código (code chunk) e interpreta los resultados obtenidos.  
+
+```{r, warning=FALSE}
+library(tidyverse)
+library(knitr)
+resultado <- datos%>%
+  group_by(Country) %>%
+  summarise(Media = mean(Female.Enrollment....), std = sd(Female.Enrollment....),
+            Min = min(Female.Enrollment....), Max = max(Female.Enrollment....))
+kable(resultado, caption = "Tabla 1")
+```
+**Respuesta del inciso (d):**
+
+**(e) [Valor 18%]** Repite el inciso anterior para la variable Gender.Gap.Index e interpreta los resultados obtenidos.  
+
+**Respuesta del inciso (e):**
+
+
+**Ejercicio 2. [Valor 10%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
+
+**Respuesta del ejercicio 2:**

@@ -1,0 +1,52 @@
+---
+title: "Práctica #1 de la unidad 3"
+author: "Aquí debe estar tu nombre"
+date: "2025-11-18"
+output: word_document
+---
+
+**Objetivo:** El alumno obtendrá probabilidades de variables aleatorias continuas con distribución uniforme mediante el uso de software estadístico.
+
+**Software a emplear:** RStudio
+
+**Instrucciones:** El reporte con las respuestas a los siguientes ejercicios debe ser elaborado en RMarkdown y entregado en la plataforma Aula Virtual dentro del apartado correspondiente con
+formato PDF.
+
+
+**Ejercicio 1** Sea $X$ una variable continua con distribución uniforme en el intervalo $a \leq x \leq b$. Para obtener probabilidades acumuladas con el software R se utiliza la función punif(). Por ejemplo, si $X$ es una variable continua con distribución uniforme en el intervalo $3 \leq x \leq 8$ entonces la probabilidad de que $X$ pueda ocurrir entre 4 y 5 se obtiene de la siguiente forma:
+
+```{r}
+punif(q=5, min=3, max=8) - punif(q=4, min=3, max=8)
+```
+
+**(a) [Valor 15%]** Si $X$ es una variable continua con distribución uniforme en el intervalo $11 \leq x \leq 37$, ¿Cuál es la probabilidad de que $X$ pueda ocurrir entre 17 y 25? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (a):**
+
+**(b) [Valor 15%]** Si $X$ es una variable continua con distribución uniforme en el intervalo $41 \leq x \leq 111$, ¿Cuál es la probabilidad de que $X$ pueda ser menor a 85? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (b):**
+
+**(c) [Valor 15%]** Si $X$ es una variable continua con distribución uniforme en el intervalo $100 \leq x \leq 250$, ¿Cuál es la probabilidad de que $X$ pueda ser mayor a 175? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (c):**
+
+
+**Ejercicio 2.** Suponga que el tiempo máximo que se puede reservar una sala de conferencias grande de cierta empresa son cuatro horas. Con mucha frecuencia tienen conferencias extensas y breves. De hecho, se puede suponer que la duración $X$ de una conferencia tiene una distribución uniforme en el intervalo $[0, 4]$.
+
+**(a) [Valor 15%]** ¿Cuál es la probabilidad de que cualquier conferencia determinada dure al menos 3 horas? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (a):**
+
+**(b) [Valor 15%]** ¿Cuál es la probabilidad de que cualquier conferencia determinada dure a lo más media hora? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (b):**
+
+**(c) [Valor 15%]** ¿Cuál es la probabilidad de que cualquier conferencia determinada dure entre 45 minutos y dos horas? Incluye en el reporte el código (code chunk) utilizado junto con el resultado de la probabilidad.
+
+**Respuesta del inciso (c):**
+
+
+**Ejercicio 3. [Valor 10%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
+
+**Respuesta del ejercicio 3:**

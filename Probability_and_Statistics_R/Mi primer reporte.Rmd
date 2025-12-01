@@ -1,0 +1,37 @@
+---
+title: "Mi primer reporte en RMarkdown"
+author: "Juan Pablo Salinas Muñoz"
+date: "2025-08-19"
+output: pdf_document
+---
+# Los comentarios inician con el simbolo "#" (almohadilla, gato, numeral o hashtag en inglés)
+# La siguiente instrucción imprime un mensaje
+print("Hola mundo")
+## [1] "Hola mundo"
+# Fijamos el valor de la semilla para simular datos
+set.seed(20250814)
+# Se generan 35 datos aleatorios de una distribución normal
+edades <- round(rnorm(n=35, mean=20, sd=0.5), 0)
+# Se imprimen los datos generados
+print(edades)
+## [1] 20 19 20 20 20 20 20 20 20 20 21 19 20 20 21 20 20 20 20 20 20 19 20 21 20
+## [26] 19 20 20 19 20 19 20 21 21 20
+# media
+mean(edades)
+## [1] 19.97143
+# mediana
+median(edades)
+## [1] 20
+# ordenamos los datos
+sort(edades)
+## [1] 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+## [26] 20 20 20 20 20 21 21 21 21 21
+1
+# varianza
+var(edades)
+## [1] 0.3226891
+# desviación estándar
+sd(edades)
+## [1] 0.5680573
+# histograma
+hist(edades, ylab="Frecuencia", main="Mi primer histograma en R")

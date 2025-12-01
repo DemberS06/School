@@ -1,0 +1,47 @@
+---
+title: "Práctica #1 de la unidad 2"
+author: "Aquí debe estar tu nombre"
+date: "2025-09-30"
+output: word_document
+---
+
+**Objetivo:** El alumno usará simulación de una variable aleatoria discreta para obtener medidas y gráficos resumen mediante el uso de software estadístico.
+
+**Software a emplear:** RStudio
+
+**Instrucciones:** El reporte con las respuestas a los siguientes ejercicios debe ser elaborado en RMarkdown y entregado en la plataforma Aula Virtual dentro del apartado correspondiente con
+formato PDF.
+
+
+**Ejercicio 1** Realiza lo indicado en cada uno de los siguientes incisos y contesta correctamente.
+
+*Contexto*
+
+Un equipo de ingenieros en computación está modelando la confiabilidad de un sistema de cajeros automáticos en Aguascalientes. Se sabe que en promedio, un cajero automático en la Aguascalientes recibe 20 transacciones por hora. Sin embargo, no todas las transacciones son exitosas: aproximadamente el 5% de las transacciones fallan por problemas de red o de energía.
+
+**(a) [Valor 20%]** El equipo de ingenieros ha decidido utilizar el software R para simular el número de fallas por hora de un cajero automático.
+
+Ejecuta el siguiente fragmento de código (code chunk) para simular el número de fallas por hora de un cajero automático.
+
+
+```{r}
+fallas <- sample(x=c("No falla","Sí falla"), size=20, replace=TRUE, prob=c(0.95,0.05))
+print(fallas)
+```
+Responde, ¿Para qué se utiliza la función sample? ¿Qué papel tiene cada uno de los argumentos x, size, replace y prob de la función sample? Puedes consultar la documentación de la función sample pero las respuestas deben ser escritas en el reporte con tu propia explicación.
+
+**Respuesta del inciso (a):**
+
+**(b) [Valor 30%]** Ejecuta el código del inciso (a) 5 veces (sin utilizar ciclos for o de otro tipo) para simular el número de fallas por hora en 5 cajeros. Por cada ejecución, registra y reporta el número de fallas. Además, reporta el promedio y la desviación estándar de los resultados obtenidos.
+
+**Respuesta del inciso (b):**
+
+**(c) [Valor 30%]** Ejecuta el código del inciso (a) 1000 veces para simular el número de fallas por hora en 1000 cajeros. Agrega ciclos for o de otro tipo para optimizar el tiempo de ejecución. Por cada ejecución, registra el número de fallas (se recomienda usar usar un vector o matriz para almacenar los resultados). Reporta (1) el código de este inciso y (2) una tabla o una gráfica que muestre la distribución de la cantidad de fallas. 
+
+**Respuesta del inciso (c):**
+
+
+
+**Ejercicio 2. [Valor 20%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
+
+**Respuesta del ejercicio 2:**
