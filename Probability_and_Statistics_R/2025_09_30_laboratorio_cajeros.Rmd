@@ -30,18 +30,71 @@ print(fallas)
 ```
 Responde, ¿Para qué se utiliza la función sample? ¿Qué papel tiene cada uno de los argumentos x, size, replace y prob de la función sample? Puedes consultar la documentación de la función sample pero las respuestas deben ser escritas en el reporte con tu propia explicación.
 
-**Respuesta del inciso (a):**
+**Respuesta del inciso (a):**:sample sirve para escoger aleatoriamente elementos de un 
+vector; x es el vector, prob la probabilidad de escoger cada elemento del vector, size las 
+veces que se hará el proceso y replace indica si se pueden repetir o no.
 
 **(b) [Valor 30%]** Ejecuta el código del inciso (a) 5 veces (sin utilizar ciclos for o de otro tipo) para simular el número de fallas por hora en 5 cajeros. Por cada ejecución, registra y reporta el número de fallas. Además, reporta el promedio y la desviación estándar de los resultados obtenidos.
 
 **Respuesta del inciso (b):**
+```{r}
+fallas <- sample(x=c(0,1), size=5, replace=TRUE, prob=c(0.95,0.05)) 
+print(fallas) 
+f = 0 
+for(x in fallas)f=f+x 
+reporte <- c(f)   
+ 
+fallas <- sample(x=c(0,1), size=5, replace=TRUE, prob=c(0.95,0.05)) 
+print(fallas) 
+f = 0 
+for(x in fallas)f=f+x 
+reporte <- c(reporte, f)  
+ 
+fallas <- sample(x=c(0,1), size=5, replace=TRUE, prob=c(0.95,0.05)) 
+print(fallas) 
+f = 0 
+for(x in fallas)f=f+x 
+reporte <- c(reporte, f)  
+ 
+fallas <- sample(x=c(0,1), size=5, replace=TRUE, prob=c(0.95,0.05)) 
+print(fallas) 
+f = 0 
+for(x in fallas)f=f+x 
+reporte <- c(reporte, f)  
+ 
+fallas <- sample(x=c(0,1), size=5, replace=TRUE, prob=c(0.95,0.05)) 
+print(fallas) 
+f = 0 
+for(x in fallas)f=f+x 
+reporte <- c(reporte, f)  
+ 
+print("salto de linea :D")
+
+f=0; 
+for(x in reporte)f=f+x 
+print(f) 
+print(mean(reporte)) 
+print(sd(reporte))
+```
 
 **(c) [Valor 30%]** Ejecuta el código del inciso (a) 1000 veces para simular el número de fallas por hora en 1000 cajeros. Agrega ciclos for o de otro tipo para optimizar el tiempo de ejecución. Por cada ejecución, registra el número de fallas (se recomienda usar usar un vector o matriz para almacenar los resultados). Reporta (1) el código de este inciso y (2) una tabla o una gráfica que muestre la distribución de la cantidad de fallas. 
 
 **Respuesta del inciso (c):**
+```{r}
+reporte <- c() 
+ 
+for(i in 1:1000){ 
+  fallas <- sample(x=c(0,1), size=1000, replace=TRUE, prob=c(0.95,0.05)) 
+  f = 0 
+  for(x in fallas)f=f+x 
+  reporte <- c(reporte, f)   
+} 
 
-
+print(mean(reporte)) 
+print(sd(reporte)) 
+hist(reporte, main = "distribución de la cantidad de fallas", xlab = "Cantidad de fallas", ylab = "Frecuencia")
+```
 
 **Ejercicio 2. [Valor 20%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
 
-**Respuesta del ejercicio 2:**
+**Respuesta del ejercicio 2:** como la aleatoriedad es uniforme se forma una distribución normal en la cantidad de fallas que tiende a la probabilidad del evento.

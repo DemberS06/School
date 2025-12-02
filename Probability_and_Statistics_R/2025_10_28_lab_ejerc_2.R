@@ -25,3 +25,12 @@ Fx[6]
 # Inciso (f)
 # Fx(32.5) = Fx(32)
 Fx[3]
+
+# Inciso g) 
+Fx[3] 
+
+# Inciso h) 
+Fx[10]-Fx[5] 
+
+#Inciso i) 
+Fx[9]-Fx[4] 

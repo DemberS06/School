@@ -1,6 +1,6 @@
 ---
 title: "Práctica #3 de la unidad 1"
-author: "Aquí debe estar tu nombre"
+author: "Juan Pablo Salinas Muñoz"
 date: "2025-09-02"
 output: word_document
 ---
@@ -27,7 +27,11 @@ Responde, ¿Qué es STEM? ¿A qué se refiere cada una de las seis variables del
 datos <- read.csv(file.choose(), header=TRUE)
 colnames(datos)
 ```
-**Respuesta del inciso (a):**
+**Respuesta del inciso (a):** Acrónimo en inglés de las disciplinas Ciencia (Science), 
+Tecnología (Technology), Ingeniería (Engineering) y Matemáticas (Mathematics). País en el 
+que se obtuvo la información, año en el que se recolecto la información, porcentaje de 
+mujeres que está en STEM, porcentaje de mujeres que se graduraron para el programa, 
+diciplina aplicada, equidad en la cantidad de personas por género.
 
 **(b) [Valor 18%]** Ejecuta el siguiente fragmento de código (code chunk) y proporciona una interpretación del gráfico. 
 ```{r, warning=FALSE}
@@ -38,10 +42,20 @@ p <- ggplot(data=datos, aes(x=STEM.Fields, fill=STEM.Fields)) +
   labs(y="Frecuencia")
 plot(p)
 ```
+**Respuesta del inciso (b):** Representa la cantidad de reportes sobre estas diciplinas, de los cuáles, hay menos por ciencia de la computación.
 
 **(c) [Valor 18%]** Repite el gráfico del inciso anterior pero para la variable Country. Proporciona una interpretación del gráfico. 
 
-**Respuesta del inciso (c):**
+```{r, warning=FALSE}
+library(ggplot2) 
+p <- ggplot(data=datos, aes(x=Country, fill=Country)) +  
+  geom_bar() + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) + 
+  labs(y="Frecuencia") 
+plot(p) 
+ 
+```
+**Respuesta del inciso (c):** Hay más reportes de China y menos de Alemania, pero todos muy similares.
 
 
 **(d) [Valor 18%]** Ejecuta el siguiente fragmento de código (code chunk) e interpreta los resultados obtenidos.  
@@ -51,17 +65,24 @@ library(tidyverse)
 library(knitr)
 resultado <- datos%>%
   group_by(Country) %>%
-  summarise(Media = mean(Female.Enrollment....), std = sd(Female.Enrollment....),
-            Min = min(Female.Enrollment....), Max = max(Female.Enrollment....))
+  summarise(Media = mean(Female.Enrollment....), std = sd(Female.Enrollment....), Min = min(Female.Enrollment....), Max = max(Female.Enrollment....))
 kable(resultado, caption = "Tabla 1")
 ```
-**Respuesta del inciso (d):**
+**Respuesta del inciso (d):** En Media hay menos mujeres que estudian estas diciplinas. 
 
 **(e) [Valor 18%]** Repite el inciso anterior para la variable Gender.Gap.Index e interpreta los resultados obtenidos.  
 
-**Respuesta del inciso (e):**
+```{r, warning=FALSE}
+library(tidyverse) 
+library(knitr) 
+resultado <- datos%>% 
+  group_by(Country) %>% 
+  summarise(Media = mean(Gender.Gap.Index), std = sd(Gender.Gap.Index), Min = min(Gender.Gap.Index), Max = max(Gender.Gap.Index)) 
+kable(resultado, caption = "Tabla 1")
+```
+**Respuesta del inciso (e):**En media no hay equidad en la canidad de hombres y mujeres en estas diciplinas, no nos dice que hay mas hombres o mujeres, solo que no hay equidad en la catidad por género, aunque sí hay casos en los que lo hay. 
 
 
 **Ejercicio 2. [Valor 10%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
 
-**Respuesta del ejercicio 2:**
+**Respuesta del ejercicio 2:** A veces se puede mal interpretar los datos cuando tienes una idea preconceptualizada de lo que se expone. 

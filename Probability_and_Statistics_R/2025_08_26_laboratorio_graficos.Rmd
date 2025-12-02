@@ -1,6 +1,6 @@
 ---
 title: "Práctica #2 de la unidad 1"
-author: "Aquí debe estar tu nombre"
+author: "Juan Pablo Salinas Muñoz"
 date: "2025-08-26"
 output: word_document
 ---
@@ -23,14 +23,14 @@ library(readxl)
 datos <- read_excel(file.choose())
 dim(datos)
 ```
-**Respuesta del inciso (a):**
+**Respuesta del inciso (a):** 482, 17.
 
 **(b) [Valor 20%]** Ejecuta el siguiente fragmento de código (code chunk) y responde, ¿Cuántos estados de la república participaron en el concurso? ¿Cuál estado de la república mexicana tuvo mayor presencia de equipos en el concurso?  
 
 ```{r, warning=FALSE}
 with(datos, table(ESTADO))
 ```
-**Respuesta del inciso (b):**
+**Respuesta del inciso (b):** 24, Jalisco.
 
 **(c) [Valor 20%]** Ejecuta el siguiente fragmento de código (code chunk) e interpreta el gráfico.  
 
@@ -40,13 +40,14 @@ p <- ggplot(data=datos, aes(x=A.PUNTOS)) +
   geom_histogram(color="darkblue", fill="lightblue")
 plot(p)
 ```
-**Respuesta del inciso (c):**
+**Respuesta del inciso (c):** La mayoria de equipos obtuvo una puntuación mínima.
 
 **(d) [Valor 20%]** Calcula y reporta la media y la desviación estándar de la cantidad de problemas resueltos en la primera fecha. Has lo mismo para la segunda y la tercera fecha. Compara los resultados entre las fechas e interpreta.  
 
-**Respuesta del inciso (d):**
+**Respuesta del inciso (d):** Hubieron más problemas resueltos en la 3ra fecha, pero 
+también tuvo mayor disperción.
 
 
 **Ejercicio 2. [Valor 20%]** Comenta los aprendizajes obtenidos al realizar la presente práctica, así como, las dificultades o retos enfrentados.
 
-**Respuesta del ejercicio 2:**
+**Respuesta del ejercicio 2:** Manejar los datos de un excel con R Markdown.
