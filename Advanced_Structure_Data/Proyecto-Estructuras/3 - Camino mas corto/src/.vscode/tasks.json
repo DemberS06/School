@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "Build & Run (todos los .cpp)",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "C:\\msys64\\ucrt64\\bin\\g++.exe -std=c++20 -g (Get-ChildItem -Filter *.cpp | ForEach-Object { $_.FullName }) -o main.exe; if ($?) { .\\main.exe }"
+      ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "detail": "Compila todos los .cpp de la carpeta en program.exe y lo ejecuta si la compilación fue exitosa"
+    }
+  ]
+}

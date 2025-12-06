@@ -1,0 +1,38 @@
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Ingrese la cantidad de nodos y de aristas: El grafo es ponderado? (1=si, 0=no): [0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Lista de adyacencia
+0 -> 
+1 -> 
+2 -> 
+3 -> 
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Matriz de adyacencia
+    0 1 2 3 
+0 : 0 0 0 0 
+1 : 0 0 0 0 
+2 : 0 0 0 0 
+3 : 0 0 0 0 
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Matriz de incidencia
+(No hay aristas)
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia

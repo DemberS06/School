@@ -1,0 +1,76 @@
+[0]Salir
+[1]Conjunto potencia
+[2]Combinaciones
+[3]Permutaciones
+2
+Ingresa la cantidad de objetos en el conjunto: 8
+Ingresa la cantidad de objetos a escoger: 5
+Ingresa los elementos del conjunto: e i 5 8 b 9 d f 9
+Hay 56 Combinaciones.
+Combinaciones:
+ei58b
+ei589
+ei58d
+ei58f
+ei5b9
+ei5bd
+ei5bf
+ei59d
+ei59f
+ei5df
+ei8b9
+ei8bd
+ei8bf
+ei89d
+ei89f
+ei8df
+eib9d
+eib9f
+eibdf
+ei9df
+e58b9
+e58bd
+e58bf
+e589d
+e589f
+e58df
+e5b9d
+e5b9f
+e5bdf
+e59df
+e8b9d
+e8b9f
+e8bdf
+e89df
+eb9df
+i58b9
+i58bd
+i58bf
+i589d
+i589f
+i58df
+i5b9d
+i5b9f
+i5bdf
+i59df
+i8b9d
+i8b9f
+i8bdf
+i89df
+ib9df
+58b9d
+58b9f
+58bdf
+589df
+5b9df
+8b9df
+[0]Salir
+[1]Conjunto potencia
+[2]Combinaciones
+[3]Permutaciones
+Opcion no valida
+[0]Salir
+[1]Conjunto potencia
+[2]Combinaciones
+[3]Permutaciones
+0

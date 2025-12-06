@@ -1,0 +1,74 @@
+Salir
+[1]Leer Grafo
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+1
+Ingrese la cantidad de nodos y de aristas: 6 9
+Ingresa la 1-esima arista (indexado a 0): 0 3
+Ingresa la 2-esima arista (indexado a 0): 0 4
+Ingresa la 3-esima arista (indexado a 0): 0 5
+Ingresa la 4-esima arista (indexado a 0): 1 3
+Ingresa la 5-esima arista (indexado a 0): 1 4
+Ingresa la 6-esima arista (indexado a 0): 1 5
+Ingresa la 7-esima arista (indexado a 0): 2 3
+Ingresa la 8-esima arista (indexado a 0): 2 4
+Ingresa la 9-esima arista (indexado a 0): 2 5
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+2
+El Grafo tiene 3 aristas en su emparejamiento maximo.
+Para el algoritmo de Karp se determino este como el pareo:
+0<->3
+1<->4
+2<->5
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+3
+El Grafo tiene 3 aristas en su emparejamiento maximo.
+Para el algoritmo de Kuhn se determino este como el pareo:
+0<->5
+1<->4
+2<->3
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+4
+El Grafo tiene 3 aristas en su emparejamiento maximo.
+Para el algoritmo de Edmonds se determino este como el pareo:
+0<->3
+1<->4
+2<->5
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+5
+El Grafo tiene 3 aristas en su emparejamiento maximo.
+Para el algoritmo de Micali Vazirani se determino este como el pareo:
+0<->3
+1<->4
+2<->5
+[0]Salir
+[1]Leer Grafo
+[2]Hopcroft-Karp
+[3]Kuhn
+[4]Edmonds
+[5]Micali Vazirani
+0

@@ -1,0 +1,48 @@
+[0]Salir
+[1]Leer Grafo
+[2]Kruskal
+[3]Prim
+1
+Ingrese la cantidad de nodos y de aristas: 5 8
+Ingresa la 1-esima arista (indexado a 0): 0 1 1
+Ingresa la 2-esima arista (indexado a 0): 0 2 3
+Ingresa la 3-esima arista (indexado a 0): 0 3 3
+Ingresa la 4-esima arista (indexado a 0): 1 2 2
+Ingresa la 5-esima arista (indexado a 0): 1 4 3
+Ingresa la 6-esima arista (indexado a 0): 2 3 2
+Ingresa la 7-esima arista (indexado a 0): 2 4 1
+Ingresa la 8-esima arista (indexado a 0): 3 4 2
+[0]Salir
+[1]Leer Grafo
+[2]Kruskal
+[3]Prim
+3
+El peso del Arbol de Expansion Minima segun Prim es de 6
+El peso del Arbol de Expansion Maxima segun Prim es de 11
+[0]Salir
+[1]Leer Grafo
+[2]Kruskal
+[3]Prim
+2
+El peso del Arbol de Expansion Minima segun Kruskal es de 6
+Estos son los hijos del nodo 0:
+1 1, 2 2, 3 2.
+Estos son los hijos del nodo 1:
+El nodo 2 es una hoja.
+El nodo 3 es una hoja.
+El nodo 4 es una hoja.
+
+El peso del Arbol de Expansion Maxima segun Kruskal es de 11
+Estos son los hijos del nodo 0:
+2 3, 3 3.
+Estos son los hijos del nodo 1:
+4 3, 0 2.
+El nodo 2 es una hoja.
+El nodo 3 es una hoja.
+El nodo 4 es una hoja.
+
+[0]Salir
+[1]Leer Grafo
+[2]Kruskal
+[3]Prim
+0

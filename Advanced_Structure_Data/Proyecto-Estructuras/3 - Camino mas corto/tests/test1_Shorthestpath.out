@@ -1,0 +1,79 @@
+1
+Ingrese la cantidad de nodos y de aristas: 15 16 
+Ingresa la 1-esima arista (indexado a 0): 0 1 1
+Ingresa la 2-esima arista (indexado a 0): 1 2 1
+Ingresa la 3-esima arista (indexado a 0): 2 3 1
+Ingresa la 4-esima arista (indexado a 0): 3 4 1
+Ingresa la 5-esima arista (indexado a 0): 4 5 1
+Ingresa la 6-esima arista (indexado a 0): 5 6 1
+Ingresa la 7-esima arista (indexado a 0): 6 7 1
+Ingresa la 8-esima arista (indexado a 0): 7 8 1
+Ingresa la 9-esima arista (indexado a 0): 8 9 1
+Ingresa la 10-esima arista (indexado a 0): 0 9 11
+Ingresa la 11-esima arista (indexado a 0): 0 10 2
+Ingresa la 12-esima arista (indexado a 0): 0 11 3
+Ingresa la 13-esima arista (indexado a 0): 10 12 2
+Ingresa la 14-esima arista (indexado a 0): 11 13 1
+Ingresa la 15-esima arista (indexado a 0): 12 14 2
+Ingresa la 16-esima arista (indexado a 0): 13 14 1
+[0]Salir
+[1]Leer Grafo
+[2]Dijkstra
+[3]Floyd
+[4]Programacion Dinamica
+[5]Exponenciacion Binaria de Matrices
+2
+Ingresa el nodo en el que inicia la busqueda (Indexado a 0): 0
+Ingresa el nodo objetivo (Indexado a 0): 14
+distancia de 0 a 0: 0
+hijos de 0:
+0 1 10 11
+distancia de 0 a 1: 1
+hijos de 1:
+2
+distancia de 0 a 2: 2
+hijos de 2:
+3
+distancia de 0 a 3: 3
+hijos de 3:
+4
+distancia de 0 a 4: 4
+hijos de 4:
+5
+distancia de 0 a 5: 5
+hijos de 5:
+6
+distancia de 0 a 6: 6
+hijos de 6:
+7
+distancia de 0 a 7: 7
+hijos de 7:
+8
+distancia de 0 a 8: 8
+hijos de 8:
+9
+distancia de 0 a 9: 9
+hijos de 9:
+
+distancia de 0 a 10: 2
+hijos de 10:
+12
+distancia de 0 a 11: 3
+hijos de 11:
+13
+distancia de 0 a 12: 4
+hijos de 12:
+
+distancia de 0 a 13: 4
+hijos de 13:
+14
+distancia de 0 a 14: 5
+hijos de 14:
+
+[0]Salir
+[1]Leer Grafo
+[2]Dijkstra
+[3]Floyd
+[4]Programacion Dinamica
+[5]Exponenciacion Binaria de Matrices
+0

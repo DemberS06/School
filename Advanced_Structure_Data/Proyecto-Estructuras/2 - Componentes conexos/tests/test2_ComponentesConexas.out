@@ -1,0 +1,39 @@
+[0]Salir
+[1]Leer Grafo
+[2]Kosaraju
+[3]DSU
+[4]BFS
+Ingrese la cantidad de nodos y de aristas: Ingresa la 1-esima arista (indexado a 0): Ingresa la 2-esima arista (indexado a 0): Ingresa la 3-esima arista (indexado a 0): Ingresa la 4-esima arista (indexado a 0): Ingresa la 5-esima arista (indexado a 0): Ingresa la 6-esima arista (indexado a 0): [0]Salir
+[1]Leer Grafo
+[2]Kosaraju
+[3]DSU
+[4]BFS
+
+Componentes fuertemente conexas (Kosaraju):
+Total de SCC: 3
+
+SCC 1: 5 
+SCC 2: 0 2 1 
+SCC 3: 3 4 
+
+[0]Salir
+[1]Leer Grafo
+[2]Kosaraju
+[3]DSU
+[4]BFS
+El Grafo tiene 2 Componentes.
+Las componentes son: {0, 1, 2, 3, 4}.
+{5}.
+[0]Salir
+[1]Leer Grafo
+[2]Kosaraju
+[3]DSU
+[4]BFS
+El Grafo tiene 8 Componentes.
+Las componentes son: {0, 1, 2, 3, 4}.
+{5}.
+[0]Salir
+[1]Leer Grafo
+[2]Kosaraju
+[3]DSU
+[4]BFS

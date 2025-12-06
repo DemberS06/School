@@ -1,0 +1,40 @@
+[0]Salir
+[1]Leer Grafo
+[2]Verificar si el grafo es bipartito por coloracion
+[3]Verificar si el grafo es bipartito por backtracking
+1
+Ingrese la cantidad de nodos y de aristas: 6 9
+Ingresa la 1-esima arista (indexado a 0): 0 3
+Ingresa la 2-esima arista (indexado a 0): 0 4
+Ingresa la 3-esima arista (indexado a 0): 0 5
+Ingresa la 4-esima arista (indexado a 0): 1 3
+Ingresa la 5-esima arista (indexado a 0): 1 4
+Ingresa la 6-esima arista (indexado a 0): 1 5
+Ingresa la 7-esima arista (indexado a 0): 2 3
+Ingresa la 8-esima arista (indexado a 0): 2 4
+Ingresa la 9-esima arista (indexado a 0): 2 5
+[0]Salir
+[1]Leer Grafo
+[2]Verificar si el grafo es bipartito por coloracion
+[3]Verificar si el grafo es bipartito por backtracking
+2
+
+El grafo es bipartito.
+El grupo A se compone de:
+0 1 2 
+El grupo B se compone de:
+3 4 5
+[0]Salir
+[1]Leer Grafo
+[2]Verificar si el grafo es bipartito por coloracion
+[3]Verificar si el grafo es bipartito por backtracking
+3
+El grupo A se compone de:
+{0, 1, 2}.
+El grupo B se compone de:
+{3, 4, 5}.
+[0]Salir
+[1]Leer Grafo
+[2]Verificar si el grafo es bipartito por coloracion
+[3]Verificar si el grafo es bipartito por backtracking
+0

@@ -1,0 +1,45 @@
+[0]Salir
+[1]Leer Grafo
+[2]DFS
+[3]BFS
+[4]Backtracking
+Ingrese la cantidad de nodos y de aristas:
+Ingresa la 1-esima arista (indexado a 0):
+Ingresa la 2-esima arista (indexado a 0):
+Ingresa la 3-esima arista (indexado a 0):
+[0]Salir
+[1]Leer Grafo
+[2]DFS
+[3]BFS
+[4]Backtracking
+Ingresa el nodo en el que inicia la busqueda (Indexado a 0):
+Ingresa el nodo objetivo (Indexado a 0):
+No se puede alcanzar el nodo 4 desde el nodo 0.
+Los nodos alcanzados desde 0 son:
+0 1 2 3 
+[0]Salir
+[1]Leer Grafo
+[2]DFS
+[3]BFS
+[4]Backtracking
+Ingresa el nodo en el que inicia la busqueda (Indexado a 0):
+Ingresa el nodo objetivo (Indexado a 0):
+No se puede alcanzar el nodo 4 desde el nodo 0.
+La distancia de los nodos alcanzados desde 0 son:
+0->0=0
+0->1=1
+0->2=2
+0->3=3
+[0]Salir
+[1]Leer Grafo
+[2]DFS
+[3]BFS
+[4]Backtracking
+Ingresa el nodo en el que inicia la busqueda (Indexado a 0):
+Ingresa el nodo objetivo (Indexado a 0):
+No se puede alcanzar el nodo 4 desde el nodo 0.
+[0]Salir
+[1]Leer Grafo
+[2]DFS
+[3]BFS
+[4]Backtracking

@@ -1,0 +1,39 @@
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Ingrese la cantidad de nodos y de aristas: El grafo es ponderado? (1=si, 0=no): Ingresa la 1-esima arista (indexado a 0): Ingresa la 2-esima arista (indexado a 0): Ingresa la 3-esima arista (indexado a 0): [0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Lista de adyacencia
+0 -> (1, w=1) (2, w=1) 
+1 -> (2, w=1) 
+2 -> 
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Matriz de adyacencia
+    0 1 2 
+0 : 0 1 1 
+1 : 0 0 1 
+2 : 0 0 0 
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia
+Matriz de incidencia
+      e0 e1 e2 
+v0 : -1 -1 0 
+v1 : 1 0 -1 
+v2 : 0 1 1 
+[0]Salir
+[1]Leer grafo
+[2]Mostrar lista de adyacencia
+[3]Mostrar matriz de adyacencia
+[4]Mostrar matriz de incidencia

@@ -1,0 +1,83 @@
+[0]Salir
+[1]Leer Grafo
+[2]Greedy
+[3]Bitmask
+[4]Backtracking
+1
+Ingrese la cantidad de nodos y de aristas: 20 23
+Ingresa la 1-esima arista (indexado a 0): 0 1
+Ingresa la 2-esima arista (indexado a 0): 0 5
+Ingresa la 3-esima arista (indexado a 0): 1 5
+Ingresa la 4-esima arista (indexado a 0): 1 2
+Ingresa la 5-esima arista (indexado a 0): 2 3
+Ingresa la 6-esima arista (indexado a 0): 3 4
+Ingresa la 7-esima arista (indexado a 0): 4 5
+Ingresa la 8-esima arista (indexado a 0): 0 6
+Ingresa la 9-esima arista (indexado a 0): 6 7
+Ingresa la 10-esima arista (indexado a 0): 6 8
+Ingresa la 11-esima arista (indexado a 0): 7 8
+Ingresa la 12-esima arista (indexado a 0): 0 9
+Ingresa la 13-esima arista (indexado a 0): 9 10
+Ingresa la 14-esima arista (indexado a 0): 9 11
+Ingresa la 15-esima arista (indexado a 0): 10 11
+Ingresa la 16-esima arista (indexado a 0): 0 12
+Ingresa la 17-esima arista (indexado a 0): 12 13
+Ingresa la 18-esima arista (indexado a 0): 13 14
+Ingresa la 19-esima arista (indexado a 0): 14 15
+Ingresa la 20-esima arista (indexado a 0): 12 16
+Ingresa la 21-esima arista (indexado a 0): 16 17
+Ingresa la 22-esima arista (indexado a 0): 17 18
+Ingresa la 23-esima arista (indexado a 0): 12 19
+[0]Salir
+[1]Leer Grafo
+[2]Greedy
+[3]Bitmask
+[4]Backtracking
+2
+Tamano del emparejamiento: 8
+Emparejamiento Greedy encontrado:
+0<->1
+2<->3
+4<->5
+6<->7
+9<->10
+12<->13
+14<->15
+16<->17
+[0]Salir
+[1]Leer Grafo
+[2]Greedy
+[3]Bitmask
+[4]Backtracking
+3
+El Grafo tiene 8 aristas en su emparejamiento maximo.
+Para el algoritmo de Bitmask se determino este como el pareo:
+0<->5
+1<->2
+3<->4
+6<->7
+9<->10
+12<->19
+13<->14
+16<->17
+[0]Salir
+[1]Leer Grafo
+[2]Greedy
+[3]Bitmask
+[4]Backtracking
+4
+El Grafo tiene 8 aristas en su emparejamiento maximo.
+Para el algoritmo de Backtracking se determino este como el pareo:
+0<->1
+2<->3
+4<->5
+6<->7
+9<->10
+12<->13
+14<->15
+16<->17
+[0]Salir
+[1]Leer Grafo
+[2]Greedy
+[3]Bitmask
+[4]Backtracking
