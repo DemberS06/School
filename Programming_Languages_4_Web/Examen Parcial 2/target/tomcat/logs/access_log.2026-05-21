@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:15:59 -0600] "GET /index.jsp HTTP/1.1" 200 1261 http-bio-8081-exec-1 139
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:15:59 -0600] "GET /assets/css/styles.css HTTP/1.1" 200 10805 http-bio-8081-exec-3 17
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:15:59 -0600] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-4 2
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:16:02 -0600] "GET /index.jsp?user=admin&pass=123 HTTP/1.1" 302 - http-bio-8081-exec-5 2
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:16:02 -0600] "GET /alumnos.jsp HTTP/1.1" 200 2524 http-bio-8081-exec-6 480
+0:0:0:0:0:0:0:1 - - [21/May/2026:13:16:07 -0600] "GET /materias.jsp?id=340350 HTTP/1.1" 200 4245 http-bio-8081-exec-7 44

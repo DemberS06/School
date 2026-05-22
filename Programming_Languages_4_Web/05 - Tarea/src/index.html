@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulario bonito</title>
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                background: linear-gradient(120deg, #89f7fe, #66a6ff);
+                height: 100vh;
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            form {
+                background: #ffffff;
+                padding: 30px;
+                width: 320px;
+                border-radius: 14px;
+                box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+            }
+
+            form h2 {
+                text-align: center;
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+            input[type="text"] {
+                width: 100%;
+                padding: 12px;
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 14px;
+                transition: border 0.3s, box-shadow 0.3s;
+            }
+
+            input[type="text"]:focus {
+                outline: none;
+                border-color: #4a90e2;
+                box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+            }
+
+            button {
+                width: 100%;
+                padding: 12px;
+                background: #4a90e2;
+                color: #fff;
+                border: none;
+                border-radius: 8px;
+                font-size: 15px;
+                font-weight: bold;
+                cursor: pointer;
+                transition: background 0.3s, transform 0.2s;
+            }
+
+            button:hover {
+                background: #357abd;
+                transform: translateY(-2px);
+            }
+
+            button:active {
+                transform: translateY(0);
+            }
+        </style>
+    </head>
+    <body>
+        <script> 
+            function stringCapitalization()
+            {
+                var arr = new Array();
+                var name = document.getElementById('name').value;
+                var a='a'.charCodeAt(0), A='A'.charCodeAt(0);
+                for(var i=0; i<name.length; i++){
+                    n=name.charCodeAt(i);
+                    if(i==0 || name[i-1]==' '){
+                        if(n>=a && n<=a+25)arr[i]=String.fromCharCode(n-a+A);
+                        else arr[i]=name[i];
+                    }
+                    else{
+                        if(n>=A && n<=A+25)arr[i]=String.fromCharCode(n-A+a);
+                        else arr[i]=name[i];
+                    }
+                }
+                document.getElementById('capi').value = arr.join("");
+            }
+        </script>
+        <form name="form1" action="#"> 
+            Name: <input type='text' id="name"/></br></br>
+            Capitalization: <input type='text' id="capi"/></br></br>
+            <input type="button" value="Submit" onclick="stringCapitalization()"/>
+        </form> 
+    </body>
+</html>

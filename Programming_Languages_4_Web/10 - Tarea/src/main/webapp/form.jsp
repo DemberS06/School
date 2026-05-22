@@ -1,0 +1,32 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Form (JSP)</title>
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+</head>
+<body>
+  <main class="container main-wrapper" style="padding-bottom:2rem;">
+  
+    <section class="card" style="margin-top:1.6rem; text-align:center;">
+      <h2 style="margin-bottom:0.6rem;">Formulario Nombre</h2>
+      <form action="show.jsp" method="get">
+        Nombre: <input type="text" name="campo1"><br><br>
+        Apellido: <input type="text" name="campo2"><br><br>
+        <input type="submit" value="Enviar">
+      </form>
+    </section>
+
+    <section class="card" style="margin-top:1.6rem; text-align:center;">
+      <h2 style="margin-bottom:0.6rem;">Formulario Suma</h2>
+      <form action="add.jsp" method="get">
+        A = <input type="text" name="campo1"><br><br>
+        B =  <input type="text" name="campo2"><br><br>
+        <input type="submit" value="Enviar">
+      </form>
+      </section>
+  </main>
+</body>
+</html>

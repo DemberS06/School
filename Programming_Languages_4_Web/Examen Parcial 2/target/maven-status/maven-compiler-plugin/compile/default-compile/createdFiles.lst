@@ -1,0 +1,7 @@
+model\AlumnoMateria.class
+db\Conexion.class
+dao\AlumnoDAO.class
+dao\AlumnoMateriaDAO.class
+model\Alumno.class
+dao\MateriaDAO.class
+model\Materia.class

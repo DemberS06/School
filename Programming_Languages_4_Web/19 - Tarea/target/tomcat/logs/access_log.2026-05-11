@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:22:30 -0600] "GET / HTTP/1.1" 200 1012 http-bio-8081-exec-1 745
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:22:32 -0600] "GET / HTTP/1.1" 200 1012 http-bio-8081-exec-3 1
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:22:35 -0600] "GET /producto?action=nuevo HTTP/1.1" 200 1085 http-bio-8081-exec-4 53
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:22:40 -0600] "POST /producto HTTP/1.1" 302 - http-bio-8081-exec-5 174
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:22:40 -0600] "GET / HTTP/1.1" 200 1012 http-bio-8081-exec-6 1
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:12 -0600] "GET / HTTP/1.1" 200 5316 http-bio-8081-exec-1 308
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:12 -0600] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-8081-exec-3 6
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:15 -0600] "GET /producto?action=eliminar&id=6 HTTP/1.1" 302 - http-bio-8081-exec-4 27
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:15 -0600] "GET / HTTP/1.1" 200 4250 http-bio-8081-exec-5 9
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:16 -0600] "GET /producto?action=eliminar&id=5 HTTP/1.1" 302 - http-bio-8081-exec-6 12
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:23:16 -0600] "GET / HTTP/1.1" 200 3174 http-bio-8081-exec-7 8

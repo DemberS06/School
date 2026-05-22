@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table of Phone Numbers</title>
+
+        <style> 
+            table {
+                border-collapse:separate;    
+                width: 70%;     
+                box-shadow: 5px 5px 10px 10px;
+            }
+            th, td {
+                text-align: left;
+                padding: 12px;
+            }
+            tr:nth-child(even){background-color: #f2f2f2}     
+        </style>
+    </head>
+
+    <body>
+        <h1> imprimiendo un arreglo </h1>
+        <table> 
+            <script language="javascript" type="text/javascript">
+                var arr = new Array();
+                arr[0]="1";
+                arr[1]="2";
+                arr[2]="3";
+                arr[3]="Juan";
+                arr[4]="Maria";
+
+                for(var i=0; i<arr.length; i++){
+                    document.write("<tr><td> numero "+i+"</td>");
+                    document.write("  <td> arr "+arr[i]+"</td>  </tr>");
+                }
+            </script>  
+        </table>
+    </body>
+</html>
+

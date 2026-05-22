@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="assets/css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <a href="viewusers.jsp" class="btn btn-outline">View All Records</a><br/>
+
+            <h1>Add New User</h1>
+            
+            <form action="adduser.jsp" method="post">
+            <div>
+                <table class="card">
+                    <tr><td>Name:    </td><td><input type="text"     name="name"/></td></tr>
+                    <tr><td>Password:</td><td><input type="password" name="password"/></td></tr>
+                    <tr><td>Email:   </td><td><input type="email"    name="email"/></td></tr>
+                    <tr><td>Sex:     </td><td><input type="radio"    name="sex" value="male"/>Male <input type="radio" name="sex" value="female"/>Female </td></tr>
+                    <tr><td>Country:</td><td>
+                        <select name="country" style="width:155px">
+                        <option>India</option>
+                        <option>Pakistan</option>
+                        <option>Afghanistan</option>
+                        <option>Berma</option>
+                        <option>Other</option>
+                        </select>
+                    </td></tr>
+                     <tr><td colspan="2"><input type="submit" value="Add User" class="btn btn-outline"/></td></tr>
+                </table>
+            </div>
+                
+            </form>  
+        </div>
+ </body>
+</html>

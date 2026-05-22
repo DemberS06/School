@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Management System</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/css/styles.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container">
+    <h1>Add New Employee</h1>
+    
+    <div class="card">
+        <form action="SaveServlet" method="post">
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" name="name" class="form-control" required/></td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input type="password" name="password" class="form-control" required/></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="email" name="email" class="form-control" required/></td>
+                </tr>
+                <tr>
+                    <td>Country:</td>
+                    <td>
+                        <select name="country" class="form-control" style="width:150px">
+                            <option>India</option>
+                            <option>USA</option>
+                            <option>UK</option>
+                            <option>Other</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <button type="submit" class="btn btn-primary">Save Employee</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    
+    <br/>
+    <a href="ViewServlet" class="btn btn-outline">View Employees</a>
+    
+</div>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run JSP Server",
+      "type": "shell",
+      "command": "${workspaceFolder}/apache-maven/bin/mvn.cmd",
+      "args": [
+        "tomcat7:run"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}

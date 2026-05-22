@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+    <title>Formulario bonito</title>
+    <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                background: linear-gradient(120deg, #89f7fe, #66a6ff);
+                height: 100vh;
+                margin: 5px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            form {
+                background: #626262;
+                padding: 30px;
+                width: 320px;
+                border-radius: 14px;
+                box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+            }
+
+            form h2 {
+                text-align: center;
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+            input[type="text"] {
+                width: 90%;
+                padding: 12px;
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 18px;
+                transition: border 0.3s, box-shadow 0.3s;
+            }
+
+            input[type="text"]:focus {
+                outline: none;
+                border-color: #4a90e2;
+                box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+            }
+
+            button {
+                width: 32%;
+                padding: 30px;
+                background: #ffffff48;
+                color: #fff;
+                border: none;
+                border-radius: 8px;
+                font-size: 30px;
+                font-weight: bold;
+                cursor: pointer;
+                transition: background 0.3s, transform 0.2s;
+            }
+
+            button:hover {
+                background: #357abd;
+                transform: translateY(-2px);
+            }
+
+            button:active {
+                transform: translateY(0);
+            }
+    </style>
+</head>
+  <body>
+    <!--<div>TODO write content</div>-->
+    
+    <form name="calculadora" action="#">
+      <input type="text" id="t1" readonly /> 
+      
+      <div class="numbers">
+        <button onclick="put1();">1</button>
+        <button onclick="put2();">2</button>
+        <button onclick="put3();">3</button>
+      </div>
+      <div class="operations"></div>
+        <button onclick="iqual();">=</button>
+        <button onclick="plus();">+</button>
+        <button onclick="dele();"><-</button>
+      </div>
+    </form>
+        
+    <script type="text/javascript">
+      function put1 (){
+        document.getElementById('t1').value += "1";
+      }
+      function put2 (){
+        document.getElementById('t1').value += "2";
+      }
+      function put3 (){
+        document.getElementById('t1').value += "3";
+      }
+      function plus (){
+        document.getElementById('t1').value += "+";
+      }
+      function dele (){
+        var s1 = document.getElementById('t1').value;
+        var s2 = "";
+
+        for(var i = 0; i<s1.length-1; i++){
+          s2+=s1[i];
+        }
+        document.getElementById('t1').value = s2;
+      }
+      function iqual (){
+        var s = document.getElementById('t1').value;
+        var a="0", b="0";
+
+        for(var i = 0; i<s.length; i++){
+          if(s[i]=="+")a=parseInt(a)+parseInt(b), b="0";
+          else b+=s[i];
+        }a=parseInt(a)+parseInt(b);
+        document.getElementById('t1').value = a;
+      }
+
+    </script>
+  </body>
+</html>

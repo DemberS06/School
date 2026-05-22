@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:12:54:57 -0600] "GET /index.jsp HTTP/1.1" 200 435 http-bio-8081-exec-1 167
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:12:54:58 -0600] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 3
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:12:55:03 -0600] "GET /adduserform.jsp HTTP/1.1" 200 1896 http-bio-8081-exec-4 37
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:12:55:18 -0600] "GET /viewusers.jsp HTTP/1.1" 200 1633 http-bio-8081-exec-5 517
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:13:08:30 -0600] "GET /adduserform.jsp HTTP/1.1" 200 1896 http-bio-8081-exec-7 10
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:13:08:52 -0600] "POST /adduser.jsp HTTP/1.1" 302 - http-bio-8081-exec-9 1397
+0:0:0:0:0:0:0:1 - - [14/Apr/2026:13:08:52 -0600] "GET /viewusers.jsp HTTP/1.1" 200 2081 http-bio-8081-exec-10 21

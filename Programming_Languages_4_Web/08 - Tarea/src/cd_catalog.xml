@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Mr. Bad Guy</TITLE>
+    <ARTIST>Freddie Mercury</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>11.90</PRICE>
+    <YEAR>1985</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Thriller</TITLE>
+    <ARTIST>Michael Jackson</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Epic Records</COMPANY>
+    <PRICE>12.90</PRICE>
+    <YEAR>1982</YEAR>
+  </CD>
+</CATALOG>

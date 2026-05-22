@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+        <meta charset="UTF-8">
+        <title>Formulario bonito</title>
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                background: linear-gradient(120deg, #89f7fe, #66a6ff);
+                height: 100vh;
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            form {
+                background: #ffffff;
+                padding: 30px;
+                width: 320px;
+                border-radius: 14px;
+                box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+            }
+
+            form h2 {
+                text-align: center;
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+            input[type="text"] {
+                width: 100%;
+                padding: 12px;
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 14px;
+                transition: border 0.3s, box-shadow 0.3s;
+            }
+
+            input[type="text"]:focus {
+                outline: none;
+                border-color: #4a90e2;
+                box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+            }
+
+            button {
+                width: 100%;
+                padding: 12px;
+                background: #4a90e2;
+                color: #fff;
+                border: none;
+                border-radius: 8px;
+                font-size: 15px;
+                font-weight: bold;
+                cursor: pointer;
+                transition: background 0.3s, transform 0.2s;
+            }
+
+            button:hover {
+                background: #357abd;
+                transform: translateY(-2px);
+            }
+
+            button:active {
+                transform: translateY(0);
+            }
+        </style>
+    </head>
+<body>
+  <div class="contenedor">
+    <h1>Totales por Estado y Sexo</h1>
+
+    <div class="fila">
+      <div class="grupo">
+        <button id="btnCargar">Cargar datos</button>
+      </div>
+
+      <div class="grupo">
+        <label for="estado">Estado</label>
+        <select id="estado" disabled>
+          <option value="Todos">Todos</option>
+        </select>
+      </div>
+
+      <div class="grupo">
+        <label for="sexo">Sexo</label>
+        <select id="sexo" disabled>
+          <option value="Todos">Todos</option>
+          <option value="1">Hombre</option>
+          <option value="2">Mujer</option>
+        </select>
+      </div>
+
+      <div class="grupo">
+        <button id="btnGenerar" disabled>Generar tabla</button>
+      </div>
+    </div>
+
+    <div class="info" id="infoArchivo">Presiona “Cargar datos” para leer myTut2.txt</div>
+    <div class="mensaje" id="mensaje"></div>
+
+    <table id="tablaResultados" style="display: none;">
+      <thead>
+        <tr>
+          <th>Estado</th>
+          <th>Sexo</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script>
+    let datos = [];
+
+    const btnCargar = document.getElementById("btnCargar");
+    const estadoSelect = document.getElementById("estado");
+    const sexoSelect = document.getElementById("sexo");
+    const btnGenerar = document.getElementById("btnGenerar");
+    const tablaResultados = document.getElementById("tablaResultados");
+    const tbody = tablaResultados.querySelector("tbody");
+    const mensaje = document.getElementById("mensaje");
+    const infoArchivo = document.getElementById("infoArchivo");
+
+    // Cargar archivo myTut2.txt desde la misma carpeta
+    btnCargar.addEventListener("click", async function () {
+      try {
+        mensaje.textContent = "";
+        infoArchivo.textContent = "Cargando myTut2.txt...";
+
+        const respuesta = await fetch("./myTut2.txt");
+        if (!respuesta.ok) {
+          throw new Error("No se pudo encontrar myTut2.txt");
+        }
+
+        const texto = await respuesta.text();
+        const json = JSON.parse(texto);
+
+        if (!json.children || !Array.isArray(json.children)) {
+          throw new Error("El archivo no tiene la estructura esperada.");
+        }
+
+        datos = json.children;
+
+        cargarEstados();
+
+        estadoSelect.disabled = false;
+        sexoSelect.disabled = false;
+        btnGenerar.disabled = false;
+
+        tablaResultados.style.display = "none";
+        tbody.innerHTML = "";
+
+        infoArchivo.textContent = `Archivo myTut2.txt cargado correctamente. Registros: ${datos.length}`;
+      } catch (error) {
+        datos = [];
+        estadoSelect.disabled = true;
+        sexoSelect.disabled = true;
+        btnGenerar.disabled = true;
+        tablaResultados.style.display = "none";
+        tbody.innerHTML = "";
+        mensaje.textContent = "Error: " + error.message;
+        infoArchivo.textContent = "No se pudieron cargar los datos.";
+      }
+    });
+
+    function cargarEstados() {
+      const estadosUnicos = [...new Set(datos.map(persona => persona.city))].sort((a, b) => a - b);
+
+      estadoSelect.innerHTML = "";
+      const opcionTodos = document.createElement("option");
+      opcionTodos.value = "Todos";
+      opcionTodos.textContent = "Todos";
+      estadoSelect.appendChild(opcionTodos);
+
+      estadosUnicos.forEach(city => {
+        const option = document.createElement("option");
+        option.value = city;
+        option.textContent = `Estado ${city}`;
+        estadoSelect.appendChild(option);
+      });
+    }
+
+    function obtenerTextoSexo(valor) {
+      if (valor === "1") return "Hombre";
+      if (valor === "2") return "Mujer";
+      return "Todos";
+    }
+
+    btnGenerar.addEventListener("click", function () {
+      if (datos.length === 0) {
+        mensaje.textContent = "Primero debes cargar los datos.";
+        return;
+      }
+
+      const estadoSeleccionado = estadoSelect.value;
+      const sexoSeleccionado = sexoSelect.value;
+
+      const filtrados = datos.filter(persona => {
+        const cumpleEstado =
+          estadoSeleccionado === "Todos" || persona.city == estadoSeleccionado;
+
+        const cumpleSexo =
+          sexoSeleccionado === "Todos" || persona.sex == sexoSeleccionado;
+
+        return cumpleEstado && cumpleSexo;
+      });
+
+      const total = filtrados.length;
+
+      tbody.innerHTML = "";
+
+      const fila = document.createElement("tr");
+
+      const tdEstado = document.createElement("td");
+      tdEstado.textContent =
+        estadoSeleccionado === "Todos" ? "Todos" : `Estado ${estadoSeleccionado}`;
+
+      const tdSexo = document.createElement("td");
+      tdSexo.textContent = obtenerTextoSexo(sexoSeleccionado);
+
+      const tdTotal = document.createElement("td");
+      tdTotal.textContent = total;
+
+      fila.appendChild(tdEstado);
+      fila.appendChild(tdSexo);
+      fila.appendChild(tdTotal);
+
+      tbody.appendChild(fila);
+      tablaResultados.style.display = "table";
+      mensaje.textContent = "";
+    });
+  </script>
+</body>
+</html>

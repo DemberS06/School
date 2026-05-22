@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:23:13 -0600] "GET /form.jsp HTTP/1.1" 200 729 http-bio-8081-exec-1 1240
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:23:53 -0600] "GET /show.jsp?campo1=Juan&campo2=Salinas HTTP/1.1" 200 574 http-bio-8081-exec-3 148
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:26:37 -0600] "GET /form.jsp HTTP/1.1" 200 1096 http-bio-8081-exec-5 185
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:26:37 -0600] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-8081-exec-7 14
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:26:44 -0600] "GET /add.jsp?campo1=1&campo2=2 HTTP/1.1" 200 513 http-bio-8081-exec-8 126
+0:0:0:0:0:0:0:1 - - [11/Mar/2026:13:26:53 -0600] "GET /show.jsp?campo1=Juan&campo2=Pablo HTTP/1.1" 200 572 http-bio-8081-exec-9 6

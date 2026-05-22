@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Calculadora HTML</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="/assets/css/styles.css" />
+    </head>
+    <body>
+        <main class="container main-wrapper" style="padding-bottom:2rem;">
+            <section class="card" style="margin-top:1.6rem; text-align:center;">
+                <form action="calc.jsp" method="post">
+    
+                    Enter a number: <input type="text" name="num1" />    </br>
+                        
+                    <select id="operand" name="operand" >
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                    <option value="*">*</option>
+                    <option value="%">%</option>
+                    </select>                           
+                    </br>
+                    Enter a number: <input type="text" name="num2" />
+                    <input type="submit" name="submit" value="OK" /> 
+                </form>
+            </section>
+        </main>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:07 -0600] "GET /index.html HTTP/1.1" 200 1742 http-bio-8081-exec-1 58
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:07 -0600] "GET /assets/css/styles.css HTTP/1.1" 200 10805 http-bio-8081-exec-3 8
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:07 -0600] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-4 3
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:41 -0600] "POST /SaveServlet HTTP/1.1" 200 1775 http-bio-8081-exec-5 261
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:41 -0600] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-8081-exec-6 5
+0:0:0:0:0:0:0:1 - - [11/May/2026:16:39:43 -0600] "GET /ViewServlet HTTP/1.1" 200 2078 http-bio-8081-exec-7 21

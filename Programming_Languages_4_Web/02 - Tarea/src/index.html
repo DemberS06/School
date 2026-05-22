@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    
+    <body>
+        <div>TODO write content</div>
+        
+       <input type="text" id="t1" />    
+       <input type="text" id="t2" />    
+       <input type="button" value="suma" onclick="laSuma();" />
+       <input type="text" id="t3" />    
+       
+       <script type="text/javascript">
+       function laSuma ()
+       {
+            var s1 = document.getElementById('t1').value;
+
+            //var s2 = document.getElementById('t2').value;
+            //var g2 = document.getElementById('t2').value;
+            //var s2 = document.getElementById('s2').value;
+
+            var s2 = document.getElementById('t2').value;
+            var tot = parseInt(s1) + parseInt(s2);
+            
+            //document.getElementById('t4').value = tot;
+            //document.getElementById('t3').value = tot2;
+            //document.getElementById('t3').value = tot;
+
+            document.getElementById('t3').value = tot;
+          }
+       </script>
+      </body>
+</html>

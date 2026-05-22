@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [23/Mar/2026:13:06:30 -0600] "GET /calc.jsp HTTP/1.1" 404 967 http-bio-8081-exec-1 120
+0:0:0:0:0:0:0:1 - - [23/Mar/2026:13:06:30 -0600] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 2
+0:0:0:0:0:0:0:1 - - [23/Mar/2026:13:06:37 -0600] "GET /main.jsp HTTP/1.1" 200 3540 http-bio-8081-exec-4 205
+0:0:0:0:0:0:0:1 - - [23/Mar/2026:13:06:37 -0600] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-8081-exec-5 13
+0:0:0:0:0:0:0:1 - - [23/Mar/2026:13:16:40 -0600] "POST /hello.jsp HTTP/1.1" 404 969 http-bio-8081-exec-7 2

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Lista de personas</h2>
+<div id="id01"></div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = "myTut2.txt";
+
+xmlhttp.onreadystatechange = function() 
+{
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) 
+    {
+        var myObj = JSON.parse(xmlhttp.responseText);
+        myFunction(myObj.children);
+    }
+};
+
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
+
+function myFunction(arr) 
+{
+    var out = "";
+    var i;
+
+    for (i = 0; i < arr.length; i++) {
+        out += "Name: " + arr[i].name +
+               " | Sex: " + arr[i].sex +
+               " | Age: " + arr[i].age +
+               " | City: " + arr[i].city +
+               "<br>";
+    }
+
+    document.getElementById("id01").innerHTML = out;
+}
+</script>
+
+</body>
+</html>

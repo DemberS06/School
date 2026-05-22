@@ -1,0 +1,5 @@
+models\Alumno.class
+models\AlumnoMateria.class
+servlets\AlumnoServlet.class
+models\Materia.class
+servlets\MateriaServlet.class

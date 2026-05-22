@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Mar/2026:13:05:48 -0600] "GET /insert.jsp HTTP/1.1" 200 717 http-bio-8081-exec-1 102
+127.0.0.1 - - [30/Mar/2026:13:05:48 -0600] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-8081-exec-3 7
+127.0.0.1 - - [30/Mar/2026:13:05:54 -0600] "GET /insert.jsp HTTP/1.1" 200 717 http-bio-8081-exec-4 8
+127.0.0.1 - - [30/Mar/2026:13:06:10 -0600] "POST /save.jsp HTTP/1.1" 302 - http-bio-8081-exec-5 595
+127.0.0.1 - - [30/Mar/2026:13:06:10 -0600] "GET /list.jsp HTTP/1.1" 200 972 http-bio-8081-exec-6 69
+0:0:0:0:0:0:0:1 - - [30/Mar/2026:13:07:08 -0600] "GET /insert.jsp HTTP/1.1" 200 717 http-bio-8081-exec-8 9
+0:0:0:0:0:0:0:1 - - [30/Mar/2026:13:07:16 -0600] "POST /save.jsp HTTP/1.1" 302 - http-bio-8081-exec-10 48
+0:0:0:0:0:0:0:1 - - [30/Mar/2026:13:07:16 -0600] "GET /list.jsp HTTP/1.1" 200 1197 http-bio-8081-exec-10 24
